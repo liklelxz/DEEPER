@@ -1,0 +1,61 @@
+%!TEX root = paper.tex
+
+
+\subsection{Extra}
+
+In addition to the quantitative and qualitative results, we aim to provide more insights into the dataset and the DeepER model in this section. Results are analyzed in more details by presenting some of the previos preprocessing approaches we tried and how they support the final preprocessing decisions that we explained in section \ref{Data:Preprocessing}.
+
+
+
+\subsubsection{Measurement of peaks}
+
+We observe from our qualitative results that DeepER does not capture all the peaks in the actual data. So, we analyze the number of peaks predicted by the models to compliment our understanding on the variations reached in the predictions. We introduced the \textit{ratio of peaks} metric, explained in Equation \ref{eq:ratPeak}, where $y_{ij}$ is the $i^{th}$ test sample for $j^{th}$ time step, $\hat{y}_{ij}$ is the predicted value of $y_{ij}$, and h is the total number of test samples. Table \ref{table:distPeaks} shows the average ratio of peaks (predicted number of peaks by real number peaks) for all the models. We observe from the table that Linear Regression has values closer to 1. This is an interesting metric because it means that among all the prediction time steps $k$, the baselines predict a more similar number of peak values. However, this is a misleading sense of accuracy due to the apparent replication of the previous real values as the predicted ones. The way that this metric can help in chossing a model will depend on the final use of the it. If predicting the peaks values is more important than the rest of values or the average, this metric can be very useful. However, if it is more important to predict an average of the response time of the upcoming events, this metric does not play a great role.
+
+\begin{equation} 
+	\label{eq:ratPeak}
+	RatioPeak_{i} = \frac{\sum_{j=1}^{h}{[\hat{y}_{ij} > quantile_{50}]}}{\sum_{j=1}^{h}{[{y}_{ij} > quantile_{50}]}}
+\end{equation}
+\vspace{3mm}
+
+%\subsubsection{Incident Type: Utility}
+
+%Apart from all this work focused in  \textit{Fire}, \textit{Law} and \textit{Structural} incident types, we also run experiments for the incident type \textit{Utility}. Our model outperforms the Linar model for both lengths settings for RMSE. However, ARIMA outperfoms our model for no more than 4\% in both lengths settings. 
+%\textit{Utility} and \textit{Structural} are the incidents having the highest number of sub types and thus highest variation. Thus, the deep learning model gets thrown off and is not able to perform as expected. Although for \textit{Structural} the LSTM models outperforms the baselines in most of the cases, we don't observe the similar results for \textit{Utility}.
+
+
+
+\begin{table}[!ht]
+\centering
+\vspace{3mm}
+%\resizebox{\columnwidth}{!}{
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Incident Type}&\textbf{Model}&\textbf{10-3}&\textbf{15-5}\\
+\hline
+\multirow{3}{*}{Fire} &Linear& 1.27 & 1.64\\
+&Arima& 1.63 & 2.22\\
+&DeepER& 1.79 &2.06\\
+\hline
+\multirow{3}{*}{Law} &Linear& 1.11 & 1.69\\
+&Arima& 1.18 & 1.73\\
+&DeepER&1.73 &2.27\\
+\hline
+\multirow{3}{*}{Structural} &Linear& 1.13 &1.51\\
+&Arima & 1.44 & 2.03\\
+&DeepER&1.58 &2.21\\
+\hline
+
+
+%\multirow{3}{*}{Utility} &Linear& 773 & 480.77 & 1.08 & 778 & 444.62 & 1.64\\
+%&Arima& \textbf{688} & 265.66 & 1.53 & \textbf{711} & 270.61 & 2.22\\
+%&LSTM&718 &318.19 &1.72 &755 &348.49&2.13\\
+%\hline
+\end{tabular}
+%}
+\vspace{3mm}
+\caption{Ratio of peaks (Sampling from distribution)}
+\label{table:distPeaks}
+\end{table}
+
+
+

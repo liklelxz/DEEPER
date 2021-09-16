@@ -1,0 +1,10 @@
+%!TEX root = paper.tex
+%Public safety and smooth functioning of cities depend, among other factors, of accurate prediction of response time, especially for emergency incidents.
+Accurately predicting resolution time for emergency incidents is crucial for public safety and smooth functioning of cities as it helps in planning resources that will be available for immediate assistance. 
+In this paper, we present DeepER, a deep learning based emergency resolution time prediction system that predicts future resolution times based on past data. DeepER is an encoder-decoder based sequence-to-sequence model that uses Recurrent Neural Networks (RNNs) as the neural network architecture. The basic cell in DeepER is a Long Short-Term Memory (LSTM) cell. We perform experiments on the NYC Emergency Response Incidents data provided by NYC Open Data. We compare the performance of the model with ARIMA and Linear Regression using two metrics--- Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE). DeepER achieves an average performance improvement of 3\% and 16\% with respect to RMSE and 10\% and 27\% with respect to MAE over ARIMA and Linear Regression, respectively. %Finally, we provide some insights into the trends in data and preprocessing applied.
+
+%Furthermore, we introduce strong evidence for preprocessing decisions applied to this dataset.
+
+%% RECALCULATE PERCENTAGE WITHOUT UTILITY??
+
+%we discuss some preprocessing criteria applied to a 10\% of outliers and 30\% of missing response time.

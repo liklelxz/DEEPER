@@ -1,0 +1,84 @@
+%!TEX root = paper.tex
+
+
+In this section, we compare the performance of DeepER with two baselines: i) Linear Regression and ii) Auto-Regressive Integrated Moving Average (ARIMA). 
+
+\textit{Linear Regression} is a statistical model that fits the best straight line to the given data. 
+
+\textit{ARIMA} is a statistical model that has three components --- AR (autoregressive term), I (differencing term), and MA (moving average term), specified by the parameters $p$, $d$, and $q$, respectively. We use the \textit{pmdarima} toolkit in python for our experiments, which picks the optimal combination of the parameters for the input data. 
+
+We use two well-known metrics for evaluation---Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE). Equations \ref{eq:RMSE} and \ref{eq:MAE} show how they are calculated, where $y_{ij}$ is the $i^{th}$ test sample for $j^{th}$ time step, $\hat{y}_{ij}$ is the predicted value of $y_{ij}$, and h is the total number of test samples. %We use a third metric based on the number of peaks our model is able to predict. This metric supports the need to predict not only the response time but to know if a coming event would last more than the average value of the events (quantile 50). 
+%For the case of \textit{Fire}, an approximation of this thresholds are three days; for Law, 1 day; for Structural, 4 days and for Utility, 2 days.
+
+\begin{equation} 
+	\label{eq:RMSE}
+	RMSE_{j} = \sqrt{ \frac{\sum_{i=1}^{h} \left( \hat{y}_{ij} - y_{ij}\right)^{2}}{h}}
+\end{equation} 
+
+\begin{equation} 
+	\label{eq:MAE}
+	MAE_{j} = \frac{ \sum_{i=1}^{h} {|\hat{y}_{ij} - y_{ij}|}} {h}
+\end{equation}
+\vspace{-5mm}
+
+
+\subsection{RMSE and MAE}
+
+
+%Predicting response times in such a variational context as different group subtypes and dynamic range time for the sequences instances is not a simple task. The first experiments that we execute, showed lower RMSE values. However, most of them were a flat line prediction. We  modify the optimal value by introducting a condition in the standard deviation. Conditioning the std to be larger than quantile 50, allow our model to learn more variations. 
+
+
+
+In this section, we discuss the RMSE and MAE results for all the models. Table \ref{table:dist} shows the average RMSE and MAE results for sequence lengths $10$-$3$ and $15$-$5$, where the average performance is calculated over 3 and 5 time steps, respectively. Recall that a sequence length  $10$-$3$ means that the model takes 10 events as input and predicts 3 events as output into the future. We see that DeepER outperforms the baselines with respect to  both MAE and RMSE for all incident types on average for the $15$-$5$ setting. For the  $10$-$3$ setting,  DeepER outperforms both baselines for \textit{Fire} and \textit{Law}. However, for \textit{Structural}, it outperforms Linear but not ARIMA. Therefore, from Table \ref{table:dist}, we observe that  DeepER   provides overall better performance for the $15$-$5$  setting.
+
+\begin{table}[!ht]
+\centering
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\textbf{Incident}&\textbf{Model}&\multicolumn{2}{|c|}{\textbf{10-3}}&\multicolumn{2}{|c|}{\textbf{15-5}}\\
+\cline{3-6}
+\textbf{Type}&&\textbf{MAE}&\textbf{RMSE}&\textbf{MAE}&\textbf{RMSE}\\
+\hline
+\multirow{3}{*}{Fire} &Linear& 786 & 1256  & 769 & 1204 \\
+&Arima& 660 & 1087  & 657 & 1071\\
+&DeepER& \textbf{584} & \textbf{1069} & \textbf{564} &\textbf{1019} \\
+\hline
+\multirow{3}{*}{Law} &Linear& 186 & 381  & 226 & 407 \\
+&Arima& 133 & 323  & 159 & 338 \\
+&DeepER& \textbf{116} &\textbf{309}  & \textbf{119} &\textbf{315} \\
+\hline
+\multirow{3}{*}{Structural} &Linear& 965 & 1504 & 900 & 1436  \\
+&Arima & \textbf{818} & \textbf{1299} & 806 & 1300 \\
+&DeepER&839&1307  & \textbf{794} & \textbf{1296}\\
+\hline
+\end{tabular}
+}
+\caption{Average RMSE}
+\label{table:dist}
+\vspace{-7mm}
+\end{table}
+
+
+
+%Additionally, we see that DeepER has lower standard deviation than the baselines. This could be because the baselines try to predict the next time step by replicating the actual signal, accurately predicting the value of peaks while in a shifted manner. This helps us realize the condition for selecting a state in which the standard deviation of the prediction is greater than a minimum value, might not be enough to guarantee more variations in the predictions.
+%We discuss this more in \label{Data:Preprocessing}.
+
+Figures \ref{fig:qual_mae} and \ref{fig:qual_rmse} shows the MAE and RMSE results for the three incident types for the 15-5 sequence setting as it provides the best predicitons. We observe that DeepER significantly outperforms the baselines with respect to both MAE and RMSE. The only exception is the one step prediction for \textit{Structural} where DeepER exhibits poor performance. Interestingly, from the figures, we observe that DeepER  is able to better predict  the resolution time of events further into the future. This is in contrast to most time series prediction problems where the prediction performance deteriorates as the model predicts further into the future. The primary reason behind this behavior is that the data points in our dataset correspond to emergency events and hence lack seasonality, strong correlation, and trends. DeepER is still able to generate better predictions for our challenging problem than the baselines because of its sequence-to-sequence behavior that maps entire input sequences to output sequences and ability to glean complex underlying dependencies in the data that are not apparent. 
+
+%With respect to MAE, we observe that DeepER outperforms the baselines among the predicted steps for all incident types for the $15-5$ setting. However, for $10-3$, it outperforms the baselines in all time steps for \textit{Fire} and \textit{Law} but not for \textit{Structural}, where it falls short for the first time step prediction. With respect to RMSE, the figure shows that in most of the time steps, for all incident types and lengths, our model reaches better values, for both lengths settings. However, that is not the case for few time-steps in \textit{Fire} and \textit{Structural} for which we suggest some more analysis in the section of \ref{sec:conclusion}. 
+
+
+
+%both lengths and replacing configurations on the two baselines models and our LSTM model. For \textit{Fire} and Law, we get better RMSE with our model. However, for Structural, we get better results except in the 10-3 configuration, in which ARIMA model gets a smaller RMSE. For Utility, ARIMA gets a better RMSE in both lenghts and replacement configurations. We do not observe a significant better performance of one of the replacement configurations compared to the other one, for all group types and lenghts. Nevertheless, we do observe that predicting $5$ time steps based on previous $15$ usually improves the average RMSE, compared to $10-3$. The models that have a better RMSE corresponds respetively to a lowest Standard Deviation. 
+
+%We introduced and external metric (not conditioning the loss funciton) such as the average ratio of peaks predictions. The Linear Regression Model gets the closest value to 1 for thism metric among all group types, length and replacement configurations. This is an interesting metric because it means that among all the prediction time steps $k$, the baselines predict a more similar number of peak values. However, this is a mesleading sense of accuracy and will depend on the final use of the model. If the number of peaks is more important in the prediction lenghts than the actual values or average, this metric can be very useful. Howevere, if it is more important to predict an average of the response time of the coming events, this metric does no play a great role. 
+
+
+
+%When analysing the average RMSE we can see how most of the times, our model outperforms the baselines. When we analyse the results with more granularity, per time step, we find out more interesting take aways. Figure \ref{fig:rmse_dist} and \ref{fig:rmse_random} show RMSE results for the multi-step prediction for lengths $5$ and $3$. As expected from the average, we observe from the figures that LSTM outperforms most of the time steps for \textit{Fire} and Law. %We also observe that the RMSE values do not change over time. This is because the events in all incident types do not occur within a certain time interval. Thus, even though there is some pattern learned by the model, the response times of the immediate previous time step does not have significant impact on the current prediction.
+
+
+
+
+

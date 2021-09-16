@@ -1,0 +1,5 @@
+Building : law
+xlength : 20
+yLength : 10
+Columns:R
+

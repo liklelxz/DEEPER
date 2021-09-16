@@ -1,0 +1,9 @@
+LINEAR	ARIMA	LSTM, 1st 4 randon, then dist
+../Results/linear/Fir/20-07-10_14-49/	../Results/arima/Fir/20-07-10_14-49/	../Results/lstm/Fire/20-07-04_12-00/
+../Results/linear/Law/20-07-10_14-49/	../Results/arima/Law/20-07-10_14-52/	../Results/lstm/Law/20-07-04_17-01/
+../Results/linear/Str/20-07-10_14-49/	../Results/arima/Str/20-07-10_14-52/	../Results/lstm/Structural/20-07-04_20-03/
+../Results/linear/Uti/20-07-10_14-49/	../Results/arima/Uti/20-07-10_14-53/	../Results/lstm/Utility/20-07-05_00-17/
+../Results/linear/Fir/20-07-10_14-54/	../Results/arima/Fir/20-07-10_14-55/	../Results/lstm/Fire/20-07-07_18-43/
+../Results/linear/Law/20-07-10_14-54/	../Results/arima/Law/20-07-10_14-58/	../Results/lstm/Law/20-07-04_12-01/
+../Results/linear/Str/20-07-10_14-54/	../Results/arima/Str/20-07-10_14-58/	../Results/lstm/Structural/20-07-04_13-11/
+../Results/linear/Uti/20-07-10_14-54/	../Results/arima/Uti/20-07-10_14-59/	../Results/lstm/Utility/20-07-07_21-23/

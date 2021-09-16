@@ -1,0 +1,2 @@
+model_checkpoint_path: "structural_20_10_model"
+all_model_checkpoint_paths: "structural_20_10_model"

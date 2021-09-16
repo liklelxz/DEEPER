@@ -1,0 +1,2 @@
+model_checkpoint_path: "fire2_10_5_model"
+all_model_checkpoint_paths: "fire2_10_5_model"

@@ -1,0 +1,6 @@
+LINEAR	ARIMA	LSTM
+../Results/linear/utility/20-04-06_18-32/	../Results/arima/utility/20-04-06_18-33/	../Results/lstm/utility/20-04-08_10-50/
+../Results/linear/structural/20-04-06_18-32/	../Results/arima/structural/20-04-06_18-33/	../Results/lstm/structural/20-04-08_20-00/
+../Results/linear/fire/20-04-06_18-32/	../Results/arima/fire/20-04-06_18-32/	../Results/lstm/fire/20-04-08_21-33/
+../Results/linear/law/20-04-06_18-32/	../Results/arima/law/20-04-06_18-33/	../Results/lstm/law/20-04-08_22-03/
+../Results/linear/fire2/20-04-08_22-25/	../Results/arima/fire2/20-04-08_22-25/	../Results/lstm/fire2/20-04-08_22-16/

@@ -1,0 +1,5 @@
+Building : FO_remove_small_and_large_RT
+xlength : 20
+yLength : 10
+Columns:R
+

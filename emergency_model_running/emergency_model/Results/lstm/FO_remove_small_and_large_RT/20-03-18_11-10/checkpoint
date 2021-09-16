@@ -1,0 +1,2 @@
+model_checkpoint_path: "FO_remove_small_and_large_RT_20_10_model"
+all_model_checkpoint_paths: "FO_remove_small_and_large_RT_20_10_model"

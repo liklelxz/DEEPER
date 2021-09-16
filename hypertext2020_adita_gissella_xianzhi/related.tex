@@ -1,0 +1,38 @@
+%!TEX root = paper.tex
+
+With the growth and development of smart cities and cyber-physical systems, a variety of machine learning approaches have been adopted to address different problems in these domains \cite{Fox, 6894591, AROMA, Guan, AAAI1816607,Varamin}. In this section, we first present work related to assisting the operations of emergency and non-emergency  services and then discuss  prior research related to smart cities.
+
+In the recent years, a number of research papers have adopted data-driven approaches to aid the functioning of emergency and non-emergency  services in cities. For example, DeFazio et al. use Gaussian Conditional Random Fields (GCRFs)  to predict  response times of non-emergency  311 calls in NYC  \cite{DeFazio}.  The authors in \cite{ChohlasWood2015Mining9C}  adopt  a rolling forecast model to predict the number of emergency calls  based on the number of 911 calls in NYC. Similarly, the authors analyze NYC non-emergency call requests and present a Random Forest model to predict the number of requests  \cite{Zha2014ProfilingAP}.  
+
+In \cite{Zhao}, authors analyze the intra-region temporal correlation and the inter-region spatial correlation of data collected from NYC and build a framework to predict the number of crimes for certain regions. Similarly, the authors propose a neural network based continuous conditional random field model  for fine-grained crime prediction in Chicago and NYC \cite{yi2019neural}.  The potential of deep learning models for a variety of time series prediction tasks has also been explored recently.  For example, deep learning models have been adopted for emergency event prediction in \cite{CORTEZ2018315}. Similarly, the authors use LSTM based deep models for gas consumption and occupancy detection using WiFi  beacons  in  \cite{Pathak} and \cite{Qolomany}, respectively.  Recurrent Neural Network (RNN) based encoder-decoder models similar to the one designed in this paper have also been used for prediction problems in a variety of different domains.  For example, such models have been used for water consumption,  gym center occupancy, wireless channel quality and air pollution prediction  \cite{SWaP, DeepFit, 8884240, reddy2018deep}. 
+
+
+ In contrast to existing work, we design DeepER, a deep learning model  to predict the resolution time of emergency services and validate the efficacy of the model using the emergency incidents response data from NYC collected over a period of approximately eight years.
+
+%A benchmark in a new dataset is established in \cite{WANG2020105120}  using a variational auto-encoder and context-based sequence generative neural network. 
+ 
+
+%%% missing: WANG2020105120 crime spatio-temporal
+%%% Widiasari: flood prediction
+
+%, ChohlasWood2015Mining9C, forecasting, regression
+% 8421325, % does not apply, sentiment analysis for improving response time
+% falcon2018predicting, % floor level 911 prediction
+% Campos, %virtualreality
+% MUHAMMAD201830, % \textit{Fire} prediction image based
+% Zha2014ProfilingAP, % profiling as in describing severa statistics of spatio-temporal and predicting NER calls with random forest
+% yi2019neural % CRF CNN crime prediction temporal-spatial, confirm
+% Zhao % temporal-spatial crime prediction using ADMM \cite{Boyd}
+% BANDARA2020112896 % time series clustering
+
+% Dong2020 urban flood spatio-temporal probability prediction.  The first applies a hybrid model combining FastGRNN \cite{Kusupati} and FCN \cite{karim2017lstm} to predicts the probability of having an urban flood given spatio-temporal variables in a county in Houston.
+
+%In this section, we discuss the existing literature and how it differs from DeepER.
+
+% \cite{w11091808} implements an LSTM that incorporates not only past data but future weather forecast variables to predict hourly weather runoff flow. 
+
+
+% Widsiasari: use of an LSTM model to predict water level but seems of poor quality
+% \cite{Bande} flood prediction with neural network only, seems one time step. I though on including it in the first part, continous value
+
+%All the existing works presented focus in either predicting variables or number of events in a fixed-time period or predicts only the one next time step. Furthermore, most of the deep learning approaches  implement an RNN (or LSTM) whose input and output are part of a same deep learning component. We present DeepER, a system that efficiently predicts future response times for emergency incidents using an encoder-decoder approach. As mentioned before, this consists of two components, an LSTM that works as an encoder, and receives as input the previous time steps, and an RNN that decodes the past data and output a multi-step prediction. We formalize this task in the next sections. Finally, all previous work focus on equidistant time series while we work with response times that represent consecutive non-equidistant time steps.

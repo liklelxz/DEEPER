@@ -1,0 +1,1885 @@
+,Incident Type,Response Time,minute
+967,Utility+AC0-Transformer Fire,787,60
+6353,Utility+AC0-Electric Feeder Cable,1688,60
+1048,Utility+AC0-Gas Line Rupture,235,60
+1122,Utility+AC0-Water Service Line,2951,60
+1109,Utility+AC0-Water Main,371,60
+1118,Utility+AC0-Gas Main Rupture,147,60
+5977,Utility+AC0-Sewer Service,438,60
+1133,Utility+AC0-Gas Main Rupture,197,60
+1180,Utility+AC0-Power Outage,489,60
+1181,Utility+AC0-Gas Main Rupture,148,60
+6060,Utility+AC0-Gas Main Rupture,531,60
+6275,Utility+AC0-Gas Main Break,152,60
+6335,Utility+AC0-Power Outage,345,60
+1183,Utility+AC0-Staten Island Hospital +AC0- Air Conditioning Failure,1385,60
+1185,Utility+AC0-Manhole,389,60
+1255,Utility+AC0-Water Service Line,1601,60
+1257,Utility+AC0-Gas Main Break,54,60
+1258,Utility+AC0-Water Service Line,7,60
+1262,Utility+AC0-Water Main,154,60
+6384,Utility+AC0-Power Outage,229,60
+1284,Utility+AC0-Gas Service Line,72,60
+1324,Utility+AC0-Water Main,1539,60
+1344,Utility+AC0-Manhole,298,60
+1345,Utility+AC0-Manhole,158,60
+6385,Utility+AC0-Water Leak,322,60
+1348,Utility+AC0-Gas High Pressure,122,60
+1351,Utility+AC0-Water Service Line,413,60
+1366,Utility+AC0-Water Main,471,60
+6313,Utility+AC0-Gas Main Rupture,662,60
+6300,Utility+AC0-Gas Main Rupture,124,60
+1442,Utility+AC0-Water Condition,103,60
+1461,Utility+AC0-Manhole,1704,60
+1462,Utility+AC0-Water Main,1586,60
+1464,Utility+AC0-Water Main,1332,60
+1488,Utility+AC0-Water Main,2951,60
+1486,Utility+AC0-Power Outage,86,60
+6512,Utility+AC0-Water Main,968,60
+1539,Utility+AC0-Life Safety Violations,2951,60
+6404,Utility+AC0-Water Main,92,60
+1490,Utility+AC0-Gas Service Line,684,60
+1491,Utility+AC0-Gas Main Rupture,624,60
+6446,Utility+AC0-Water Main,438,60
+1494,Utility+AC0-Steam Main,473,60
+6287,Utility+AC0-Manhole,2951,60
+6490,Utility+AC0-Electric Feeder Cable,2718,60
+1495,Utility+AC0-Manhole,21,60
+1507,Utility+AC0-Water Main,697,60
+1512,Utility+AC0-Power Outage,29,60
+1534,Utility+AC0-Water Main,261,60
+6314,Utility+AC0-Steam Main,2951,60
+1540,Utility+AC0-Water Main,2127,60
+1541,Utility+AC0-Water Condition,972,60
+1544,Utility+AC0-Water Main,665,60
+1564,Utility+AC0-Gas Main Rupture,41,60
+1567,Utility+AC0-Water Main,438,60
+6414,Utility+AC0-Power Outage,142,60
+1616,Utility+AC0-Gas Main Rupture,548,60
+6103,Utility+AC0-Water Service Line,47,60
+1658,Utility+AC0-Water Service Line,8,60
+1694,Utility+AC0-Water Main,72,60
+1699,Utility+AC0-Water Service Line,2941,60
+1697,Utility+AC0-Water Main,368,60
+1703,Utility+AC0-Transformer,52,60
+1704,Utility+AC0-High Tension Wires,132,60
+1708,Utility+AC0-Sewer Service,145,60
+1735,Utility+AC0-Water Service Line,77,60
+1771,Utility+AC0-Water Condition,839,60
+6457,Utility+AC0-Water Main,15,60
+1774,Utility+AC0-Water Main,283,60
+1775,Utility+AC0-Generator Fire,764,60
+1777,Utility+AC0-Water Service Line,868,60
+1782,Utility+AC0-Water Main,1409,60
+6208,Utility+AC0-Power Outage,727,60
+1788,Utility+AC0-Manhole,188,60
+1804,Utility+AC0-Sewer Service,2614,60
+1801,Utility+AC0-Water Condition,191,60
+1805,Utility+AC0-Water Main,2468,60
+6417,Utility+AC0-Water Main,501,60
+1813,Utility+AC0-Water Main,680,60
+6500,Utility+AC0-Water Main,2951,60
+1825,Utility+AC0-Steam Service Line,15,60
+1834,Utility+AC0-Water Main,847,60
+6557,Utility+AC0-Power Outage,274,60
+1848,Utility+AC0-Water Main,318,60
+1849,Utility+AC0-Water Main,422,60
+1850,Utility+AC0-Water Main,800,60
+1890,Utility+AC0-Water Main,416,60
+1910,Utility+AC0-Gas High Pressure,73,60
+1911,Utility+AC0-Steam Service Line,48,60
+1917,Utility+AC0-Gas Main Rupture,62,60
+1923,Utility+AC0-Possible Water Main Break,1095,60
+1920,Utility+AC0-Electric Overhead,361,60
+1922,Utility+AC0-Power Outage,171,60
+1940,Utility+AC0-Steam Main,517,60
+1939,Utility+AC0-Electric Feeder Cable,438,60
+1941,Utility+AC0-Electric Feeder Cable,450,60
+1942,Utility+AC0-Water Service Line,127,60
+1945,Utility+AC0-Gas Main Rupture,135,60
+1946,Utility+AC0-Manhole,179,60
+1962,Utility+AC0-Water Main,361,60
+1965,Utility+AC0-Water Main,952,60
+1971,Utility+AC0-Water Main,1295,60
+6617,Utility+AC0-Power Outage,148,60
+1987,Utility+AC0-Water Main,2175,60
+2017,Utility+AC0-Water Main,505,60
+6390,Utility+AC0-Water Main,107,60
+6474,Utility+AC0-Power Outage,212,60
+2021,Utility+AC0-Water Main,753,60
+2038,Utility+AC0-Water Main,550,60
+2040,Utility+AC0-Water Service Line,1578,60
+2281,Utility+AC0-Manhole,2951,60
+2042,Utility+AC0-Water Main,860,60
+2041,Utility+AC0-Tractor Trailer into Sinkhole,150,60
+2046,Utility+AC0-Water Service Line,526,60
+2048,Utility+AC0-Power Outage,1026,60
+6461,Utility+AC0-Water Main,772,60
+2109,Utility+AC0-Steam,68,60
+2122,Utility+AC0-Electric Feeder Cable,2951,60
+2114,Utility+AC0-Manhole,1077,60
+2115,Utility+AC0-Water Main,284,60
+2129,Utility+AC0-Manhole,110,60
+2131,Utility+AC0-Water Main,771,60
+2230,Utility+AC0-Phone Outage,2951,60
+2162,Utility+AC0-Water Main,228,60
+2189,Utility+AC0-Sewer Service,1234,60
+2190,Utility+AC0-Water Main,1494,60
+2191,Utility+AC0-Water Service Line,926,60
+6618,Utility+AC0-Water Pipe,2951,60
+2193,Utility+AC0-Water Main,1279,60
+2194,Utility+AC0-Water Condition,1250,60
+6588,Utility+AC0-Water Condition,2951,60
+2203,Utility+AC0-Water Main,539,60
+2218,Utility+AC0-Gas Service Line,63,60
+2222,Utility+AC0-Water Main,849,60
+2258,Utility+AC0-Gas High Pressure,431,60
+2262,Utility+AC0-Power Outage,144,60
+6654,Utility+AC0-Power Outage,91,60
+6372,Utility+AC0-Water Main,361,60
+2267,Utility+AC0-Power Outage,180,60
+2270,Utility+AC0-Water Main,97,60
+2273,Utility+AC0-Power Outage,60,60
+2275,Utility+AC0-Water Condition,61,60
+2276,Utility+AC0-Transformer,139,60
+2279,Utility+AC0-Sewer Service,111,60
+6437,Utility+AC0-Water Main,144,60
+2284,Utility+AC0-Water Main,74,60
+2295,Utility+AC0-Manhole,603,60
+6639,Utility+AC0-Water Main,100,60
+2311,Utility+AC0-Odor of Gas,57,60
+2314,Utility+AC0-Power Outage,154,60
+2329,Utility+AC0-Water Main,1217,60
+2331,Utility+AC0-Gas High Pressure,1215,60
+2338,Utility+AC0-Water Main,799,60
+2340,Utility+AC0-Water Main,58,60
+2362,Utility+AC0-Water Main,2951,60
+2420,Utility+AC0-Water Main,2171,60
+2422,Utility+AC0-Transformer,39,60
+2474,Utility+AC0-Water Service Line,516,60
+6394,Utility+AC0-Water Service Line,2708,60
+6518,Utility+AC0-Water Main,2054,60
+6591,Utility+AC0-Water Main,1151,60
+6420,Utility+AC0-Gas Electric Condition,345,60
+2506,Utility+AC0-Steam Condition,1301,60
+2502,Utility+AC0-Transformer,435,60
+6656,Utility+AC0-Manhole,680,60
+2535,Utility+AC0-Water Service Line,288,60
+2539,Utility+AC0-Power Outage,440,60
+6503,Utility+AC0-Water Main,792,60
+6665,Utility+AC0-Water Main,562,60
+6478,Utility+AC0-Water Main,2951,60
+2549,Utility+AC0-Gas Main Rupture,120,60
+6505,Utility+AC0-Item Retrieval,79,60
+6519,Utility+AC0-Gas Main Rupture,79,60
+6439,Utility+AC0-Gas Low Pressure,2951,60
+2584,Utility+AC0-Water Main,2951,60
+6438,Utility+AC0-Water Main,445,60
+2587,Utility+AC0-Water Service Line,50,60
+2602,Utility+AC0-Power Outage,286,60
+2619,Utility+AC0-Water Main,1360,60
+6567,Utility+AC0-Power Outage,278,60
+2646,Utility+AC0-Sewer Service,2315,60
+6691,Utility+AC0-Manhole,35,60
+2661,Utility+AC0-Water Service Line,1228,60
+6493,Utility+AC0-Power Outage,438,60
+2662,Utility+AC0-Gas High Pressure,116,60
+6621,Utility+AC0-Water Main,1430,60
+2666,Utility+AC0-Water Main,902,60
+6530,Utility+AC0-Water Main,527,60
+2682,Utility+AC0-Power Outage,2951,60
+2670,Utility+AC0-Water Main,128,60
+2694,Utility+AC0-Water Main,839,60
+2693,Utility+AC0-Water Main,124,60
+2703,Utility+AC0-Gas High Pressure,111,60
+2707,Utility+AC0-Water Main,1037,60
+2711,Utility+AC0-Manhole,1753,60
+2710,Utility+AC0-Power Outage,1044,60
+6727,Utility+AC0-Network Condition,2254,60
+6694,Utility+AC0-Electric Feeder Cable,2089,60
+6693,Utility+AC0-Power Outage,525,60
+6714,Utility+AC0-Power Outage,949,60
+6532,Utility+AC0-Manhole,610,60
+2727,Utility+AC0-Power Outage,115,60
+6658,Utility+AC0-Power Outage,580,60
+2751,Utility+AC0-Water Main,1651,60
+6516,Utility+AC0-Water Service Line,192,60
+2753,Utility+AC0-Water Main,500,60
+2757,Utility+AC0-Gas Service Line,108,60
+2779,Utility+AC0-Water Main,888,60
+2786,Utility+AC0-Water Main,78,60
+6728,Utility+AC0-Water Main,21,60
+3063,Utility+AC0-Manhole,2951,60
+2814,Utility+AC0-Gas Low Pressure,2951,60
+6635,Utility+AC0-Water Main,837,60
+6608,Utility+AC0-Power Outage,476,60
+2837,Utility+AC0-Partial Power Outage,135,60
+2846,Utility+AC0-Internal Water/Steam Condition,645,60
+6544,Utility+AC0-Manhole,374,60
+2874,Utility+AC0-Power Outage,1742,60
+2884,Utility+AC0-Ravenswood Power Plant,120,60
+6545,Utility+AC0-Power Outage,589,60
+2888,Utility+AC0-Sewer Service,106,60
+6625,Utility+AC0-Manhole,10,60
+6792,Utility+AC0-Gas Main Rupture,116,60
+2901,Utility+AC0-Power Outage,72,60
+2905,Utility+AC0-Power Outage,1342,60
+2924,Utility+AC0-Gas Main Rupture,87,60
+2942,Utility+AC0-Gas Main Rupture,42,60
+2946,Utility+AC0-Water Service Line,1173,60
+6636,Utility+AC0-Power Outage,246,60
+2950,Utility+AC0-Other,110,60
+2955,Utility+AC0-Water Main,1230,60
+2974,Utility+AC0-Water Service Line,893,60
+3004,Utility+AC0-Water Main,833,60
+6756,Utility+AC0-Power Outage,154,60
+3003,Utility+AC0-Water Main,264,60
+6645,Utility+AC0-Primary Wires on Fire,38,60
+3081,Utility+AC0-Power Outage,2951,60
+3007,Utility+AC0-Power Outage,386,60
+3032,Utility+AC0-Power Outage,2951,60
+3031,Utility+AC0-Gas Service Line,2714,60
+3026,Utility+AC0-Water Service Line,1910,60
+3083,Utility+AC0-Power Outage,2951,60
+3025,Utility+AC0-Water Main,115,60
+6735,Utility+AC0-Power Outage,177,60
+3035,Utility+AC0-No Utilities,664,60
+3037,Utility+AC0-Generator issue,69,60
+3038,Utility+AC0-Water Condition,138,60
+6582,Utility+AC0-Electric Overhead,305,60
+3064,Utility+AC0-Gas Main Rupture,55,60
+3085,Utility+AC0-Water Main,59,60
+3089,Utility+AC0-Water Main,259,60
+3095,Utility+AC0-Power Outage,82,60
+6757,Utility+AC0-Power Outage,76,60
+6584,Utility+AC0-Gas Service Line,55,60
+6840,Utility+AC0-Water Main,179,60
+3119,Utility+AC0-Water Service Line,404,60
+3126,Utility+AC0-Gas Main Rupture,1117,60
+3143,Utility+AC0-Steam Main,1402,60
+6685,Utility+AC0-Gas Odor,89,60
+6867,Utility+AC0-Sewer Service,2951,60
+3151,Utility+AC0-Possible Gas Main Leak,428,60
+3160,Utility+AC0-Possible Power Interruption at Hospital,209,60
+3161,Utility+AC0-Light Pole,171,60
+3172,Utility+AC0-Power Outage,150,60
+3176,Utility+AC0-Water Main,1331,60
+6729,Utility+AC0-Light Pole,116,60
+3188,Utility+AC0-Water Service Line,868,60
+3194,Utility+AC0-Gas Service Line,24,60
+3198,Utility+AC0-Water Main,2951,60
+3197,Utility+AC0-Manhole,135,60
+6759,Utility+AC0-Water Main,29,60
+6718,Utility+AC0-Electric Feeder Cable,438,60
+3231,Utility+AC0-Defective Electrical Service,1599,60
+3245,Utility+AC0-Water Main,483,60
+3246,Utility+AC0-Water Main,1830,60
+6633,Utility+AC0-Water Main,545,60
+6797,Utility+AC0-Water Main,2951,60
+3250,Utility+AC0-Water Main,2951,60
+3249,Utility+AC0-Water Main,41,60
+3264,Utility+AC0-Water Main,1026,60
+3266,Utility+AC0-Unsafe Power Source,1791,60
+6895,Utility+AC0-Power Outage,85,60
+6779,Utility+AC0-Power Outage,31,60
+3280,Utility+AC0-Manhole,2409,60
+6720,Utility+AC0-Water Main,60,60
+3281,Utility+AC0-Gas High Pressure,946,60
+3284,Utility+AC0-Gas Service Line,66,60
+6653,Utility+AC0-Leaning Light Tower,179,60
+6674,Utility+AC0-Water Main,850,60
+3295,Utility+AC0-Gas Service Line,461,60
+3300,Utility+AC0-Water Main,64,60
+3304,Utility+AC0-Gas Service Line,61,60
+6798,Utility+AC0-Electric Feeder Cable,1963,60
+3312,Utility+AC0-Steam Main,48,60
+3319,Utility+AC0-Water Main,1467,60
+3333,Utility+AC0-Water Main,2951,60
+3336,Utility+AC0-Water Main,1595,60
+6708,Utility+AC0-Gas High Pressure,85,60
+3341,Utility+AC0-Gas Service Line,114,60
+3356,Utility+AC0-Water Main,1937,60
+6701,Utility+AC0-Power Outage,408,60
+6882,Utility+AC0-Power Outage,2951,60
+6676,Utility+AC0-Water Main,329,60
+3389,Utility+AC0-Power Outage,637,60
+6799,Utility+AC0-Water Main,1308,60
+6857,Utility+AC0-Power Outage,131,60
+6927,Utility+AC0-Transformer,1739,60
+6858,Utility+AC0-Electric Feeder Cable,564,60
+6883,Utility+AC0-Power Outage,47,60
+3487,Utility+AC0-Downed Utility Pole,115,60
+6955,Utility+AC0-Power Outage,96,60
+6956,Utility+AC0-Power Outage,54,60
+6848,Utility+AC0-Water Main,1135,60
+6763,Utility+AC0-Water Main,1601,60
+3533,Utility+AC0-Water Condition,168,60
+3537,Utility+AC0-Water Main,1104,60
+6731,Utility+AC0-Water Main,813,60
+6723,Utility+AC0-Sink Hole,2951,60
+6874,Utility+AC0-Water Main,138,60
+6822,Utility+AC0-Network Condition,459,60
+6935,Utility+AC0-Gas Service Line,65,60
+6742,Utility+AC0-Water Main,1651,60
+6726,Utility+AC0-Gas Service Line,97,60
+3607,Utility+AC0-Power Outage,179,60
+3608,Utility+AC0-Water Main,1206,60
+6743,Utility+AC0-Power Outage,540,60
+3609,Utility+AC0-Power Outage,423,60
+3610,Utility+AC0-Power Outage,1022,60
+6884,Utility+AC0-Air Conditioner,218,60
+6947,Utility+AC0-HVAC System,52,60
+6886,Utility+AC0-Power Outage,378,60
+3641,Utility+AC0-Electric Feeder Cable,667,60
+3640,Utility+AC0-Electric Feeder Cable,34,60
+6988,Utility+AC0-Power Outage,156,60
+6899,Utility+AC0-Power Outage,395,60
+6784,Utility+AC0-Power Outage,1141,60
+3655,Utility+AC0-Power Outage,324,60
+3656,Utility+AC0-Power Outage,2862,60
+3663,Utility+AC0-Power Outage,299,60
+6785,Utility+AC0-Electric Overhead,71,60
+3666,Utility+AC0-Oil Feeder,495,60
+6860,Utility+AC0-Water Main,1014,60
+3731,Utility+AC0-Water Main,1434,60
+6918,Utility+AC0-Power Outage,75,60
+6861,Utility+AC0-Electric Feeder Cable,2951,60
+3737,Utility+AC0-Power Outage,31,60
+6937,Utility+AC0-Water Service Line,171,60
+6948,Utility+AC0-One Phase Down,438,60
+6901,Utility+AC0-Water Main,916,60
+3774,Utility+AC0-Gas High Pressure,338,60
+6789,Utility+AC0-Transformer,24,60
+6852,Utility+AC0-Car Down Elevator Shaft,301,60
+3780,Utility+AC0-Water Main,1551,60
+3784,Utility+AC0-Gas High Pressure,404,60
+6863,Utility+AC0-Water Main,1667,60
+6862,Utility+AC0-Water Main,195,60
+3797,Utility+AC0-Water Main,1406,60
+6878,Utility+AC0-Water Main,966,60
+3801,Utility+AC0-Water Main,1213,60
+3880,Utility+AC0-Water Service Line,2951,60
+7020,Utility+AC0-Water Main,338,60
+6933,Utility+AC0-Water Main,2951,60
+3807,Utility+AC0-Water Service Line,122,60
+6922,Utility+AC0-Broken Pipe,2951,60
+6921,Utility+AC0-Water Main,1129,60
+3828,Utility+AC0-Power Outage,1901,60
+3842,Utility+AC0-Dielectric Fluid Spill,78,60
+3846,Utility+AC0-Gas High Pressure,639,60
+3854,Utility+AC0-Water Main,589,60
+6940,Utility+AC0-Water Main,2951,60
+3863,Utility+AC0-Gas Service Line,401,60
+3864,Utility+AC0-Water Service Line,64,60
+3874,Utility+AC0-Manhole,955,60
+7005,Utility+AC0-Electric Feeder Cable,438,60
+3882,Utility+AC0-Water Main,642,60
+6932,Utility+AC0-Downed Wire,2951,60
+3887,Utility+AC0-Gas High Pressure,2951,60
+3886,Utility+AC0-Water Main,150,60
+3913,Utility+AC0-Power Line Down,107,60
+3911,Utility+AC0-Electric Feeder Cable,8,60
+3932,Utility+AC0-Gas Main Rupture,235,60
+7013,Utility+AC0-Gas Odor,41,60
+7006,Utility+AC0-Gas Outage,2951,60
+3956,Utility+AC0-Water Main,2148,60
+3937,Utility+AC0-Power Outage,85,60
+3959,Utility+AC0-Gas Low Pressure,72,60
+7023,Utility+AC0-Manhole,285,60
+7000,Utility+AC0-Internal Steam Shutdown,412,60
+4008,Utility+AC0-Water Main,2951,60
+6909,Utility+AC0-Water Main,703,60
+6938,Utility+AC0-Water Main,767,60
+4007,Utility+AC0-Water Service Line,427,60
+6978,Utility+AC0-Water Main,99,60
+4015,Utility+AC0-Water Main,724,60
+4032,Utility+AC0-Gas High Pressure,39,60
+6992,Utility+AC0-Gas Main Rupture,145,60
+4058,Utility+AC0-Manhole,131,60
+4062,Utility+AC0-Manhole,429,60
+6993,Utility+AC0-Gas Low Pressure,58,60
+4068,Utility+AC0-Water Main,1781,60
+6994,Utility+AC0-Power Outage,180,60
+4136,Utility+AC0-DOT Light Pole,220,60
+4151,Utility+AC0-Broken Hydrant,214,60
+4152,Utility+AC0-Steam Condition,126,60
+4161,Utility+AC0-Power Outage,1361,60
+4158,Utility+AC0-Heat Outage,217,60
+4162,Utility+AC0-Power Outage,278,60
+6983,Utility+AC0-Water Main,392,60
+4180,Utility+AC0-Water Main,454,60
+4184,Utility+AC0-Water Main,2012,60
+4187,Utility+AC0-Power Outage,431,60
+4186,Utility+AC0-Manhole,169,60
+4202,Utility+AC0-Water Main,756,60
+4200,Utility+AC0-Water Main,62,60
+6986,Utility+AC0-Water Service Line,120,60
+4201,Utility+AC0-Water Main,106,60
+4228,Utility+AC0-Water Service Line,2951,60
+4205,Utility+AC0-Power Outage,537,60
+7009,Utility+AC0-Power Outage,149,60
+4206,Utility+AC0-Water Main,233,60
+4208,Utility+AC0-Water Service Line,189,60
+4211,Utility+AC0-Water Condition,518,60
+6973,Utility+AC0-Water Service Line,144,60
+4237,Utility+AC0-Water Main,2951,60
+4226,Utility+AC0-Water Main,1147,60
+7059,Utility+AC0-Gas Low Pressure,45,60
+7028,Utility+AC0-Flooding in Con Ed Substation,47,60
+4230,Utility+AC0-Manhole,469,60
+7074,Utility+AC0-Manhole,1343,60
+4231,Utility+AC0-Manhole,42,60
+4234,Utility+AC0-Manhole,1787,60
+4255,Utility+AC0-Dielectric Fluid Leak,2951,60
+4232,Utility+AC0-Water Service Line,96,60
+4236,Utility+AC0-Water Main,866,60
+4253,Utility+AC0-Water Main,1834,60
+4249,Utility+AC0-Water Service Line,422,60
+4269,Utility+AC0-Water Main,2951,60
+4254,Utility+AC0-Water Main,222,60
+4270,Utility+AC0-Water Service Line,1603,60
+4271,Utility+AC0-Water Main,1175,60
+7154,Utility+AC0-Water Service Line,2951,60
+4276,Utility+AC0-Water Main,726,60
+4280,Utility+AC0-Water Main,66,60
+7035,Utility+AC0-Water Main,2951,60
+4285,Utility+AC0-Water Condition,1165,60
+4284,Utility+AC0-Water Main,786,60
+4281,Utility+AC0-Steam Service Line,55,60
+7045,Utility+AC0-Network Condition,2951,60
+4304,Utility+AC0-Water Service Line,1590,60
+4311,Utility+AC0-Gas Service Line,80,60
+4327,Utility+AC0-Damaged Sidewalk/ Exposed Wires,2065,60
+7126,Utility+AC0-Water Main,438,60
+4328,Utility+AC0-Water Service Line,501,60
+4332,Utility+AC0-Water Main,1396,60
+4338,Utility+AC0-Water Main,131,60
+7029,Utility+AC0-Power Outage,192,60
+4394,Utility+AC0-Gas High Pressure,80,60
+4399,Utility+AC0-Gas High Pressure,545,60
+4407,Utility+AC0-Gas Odor,60,60
+4408,Utility+AC0-Gas Service Disruption,444,60
+4409,Utility+AC0-Gas Leak,16,60
+4414,Utility+AC0-Water Main,2951,60
+4448,Utility+AC0-Water Main,1489,60
+7170,Utility+AC0-Power Outage,88,60
+7076,Utility+AC0-Manhole,578,60
+7156,Utility+AC0-Power Outage,39,60
+7080,Utility+AC0-Power Outage,103,60
+4481,Utility+AC0-Water Main,807,60
+7106,Utility+AC0-Gas Main Rupture,59,60
+7172,Utility+AC0-Water Condition,2349,60
+4523,Utility+AC0-Gas Main Rupture,797,60
+4525,Utility+AC0-Water Main,1092,60
+7107,Utility+AC0-Water Service Line,77,60
+7200,Utility+AC0-Gas Service Line,97,60
+4542,Utility+AC0-Odor Of Gas,55,60
+4563,Utility+AC0-Electrical,65,60
+7158,Utility+AC0-Power Outage,560,60
+7086,Utility+AC0-Sink Hole,1963,60
+7100,Utility+AC0-Gas Service Line,212,60
+5088,Utility+AC0-Gas Main Rupture,189,60
+5533,Utility+AC0-Manhole,1104,60
+6258,Utility+AC0-Gas High Pressure,89,60
+7118,Utility+AC0-Gas Service Line,2033,60
+7221,Utility+AC0-Water Main,1369,60
+7133,Utility+AC0-Gas Service Line,0,60
+4620,Utility+AC0-Water Main,215,60
+4634,Utility+AC0-Gas High Pressure,67,60
+4641,Utility+AC0-Gas Main Rupture,2951,60
+4640,Utility+AC0-Water Main,214,60
+4642,Utility+AC0-Power Outage,134,60
+4646,Utility+AC0-Water Main,1411,60
+7152,Utility+AC0-Water Main,410,60
+4648,Utility+AC0-Other,74,60
+4670,Utility+AC0-Other,51,60
+4689,Utility+AC0-Transformer,156,60
+4692,Utility+AC0-Phone Outage,466,60
+4694,Utility+AC0-Water Main,519,60
+4739,Utility+AC0-Water Main,1251,60
+4740,Utility+AC0-Power Outage,126,60
+4757,Utility+AC0-Gas High Pressure,386,60
+4755,Utility+AC0-Other,15,60
+7274,Utility+AC0-Power Outage,242,60
+4758,Utility+AC0-Other,113,60
+4759,Utility+AC0-Water Main,27,60
+4760,Utility+AC0-Gas Low Pressure,93,60
+4782,Utility+AC0-Water Main,686,60
+7283,Utility+AC0-Gas Main Rupture,145,60
+4808,Utility+AC0-Water Main,283,60
+4821,Utility+AC0-Water Main,445,60
+6333,Utility+AC0-Gas Main Rupture,2951,60
+4840,Utility+AC0-Electric Feeder Cable,438,60
+4585,Utility+AC0-Water Main,2951,60
+4384,Utility+AC0-Water Main,2951,60
+4846,Utility+AC0-Water Main,34,60
+4851,Utility+AC0-Water Main,554,60
+4853,Utility+AC0-Water Main,837,60
+4780,Utility+AC0-Water Main,2951,60
+4874,Utility+AC0-Gas Service Line,112,60
+4912,Utility+AC0-Water Main,90,60
+4959,Utility+AC0-Power Outage,2951,60
+4919,Utility+AC0-Transformer,720,60
+7306,Utility+AC0-Other,541,60
+4920,Utility+AC0-Water Main,254,60
+4937,Utility+AC0-Gas Main Rupture,317,60
+4940,Utility+AC0-Water Main,2136,60
+4939,Utility+AC0-Power Outage,310,60
+4955,Utility+AC0-Water Main,608,60
+7298,Utility+AC0-Sewer Service,2951,60
+4976,Utility+AC0-Other,650,60
+4982,Utility+AC0-Water Main,1863,60
+5923,Utility+AC0-Gas Main Rupture,2951,60
+7296,Utility+AC0-Gas Service Line,192,60
+7299,Utility+AC0-Power Outage,207,60
+7302,Utility+AC0-Other,35,60
+5017,Utility+AC0-Power Outage,144,60
+7307,Utility+AC0-Water Main,548,60
+5020,Utility+AC0-Water Main,1773,60
+4796,Utility+AC0-Power Outage,143,60
+5042,Utility+AC0-Water Service Line,1831,60
+5027,Utility+AC0-Water Main,608,60
+5050,Utility+AC0-Gas High Pressure,81,60
+5049,Utility+AC0-Gas Service Line,73,60
+7319,Utility+AC0-Water Main,2277,60
+7350,Utility+AC0-Water Main,359,60
+5053,Utility+AC0-Water Service Line,461,60
+5066,Utility+AC0-Water Main,313,60
+5068,Utility+AC0-Water Main,104,60
+7356,Utility+AC0-Water Service Line,129,60
+5079,Utility+AC0-Water Main,2951,60
+7351,Utility+AC0-Other,1180,60
+5077,Utility+AC0-Water Main,553,60
+5096,Utility+AC0-Electric Feeder Cable,2951,60
+5127,Utility+AC0-Other,2951,60
+7331,Utility+AC0-Other,209,60
+5095,Utility+AC0-Gas Service Line,56,60
+5102,Utility+AC0-Power Outage,276,60
+5208,Utility+AC0-Water Main,2951,60
+5124,Utility+AC0-Gas Service Line,99,60
+5128,Utility+AC0-Gas Service Line,2136,60
+5232,Utility+AC0-Water Main,2951,60
+5227,Utility+AC0-Electric Feeder Cable,1094,60
+5229,Utility+AC0-Water Main,2951,60
+5245,Utility+AC0-Manhole,934,60
+7361,Utility+AC0-Water Service Line,2263,60
+7364,Utility+AC0-Power Outage,135,60
+7371,Utility+AC0-Water Service Line,635,60
+7370,Utility+AC0-Water Service Line,64,60
+7376,Utility+AC0-Water Main,1619,60
+7375,Utility+AC0-Other,1007,60
+5253,Utility+AC0-Other,2463,60
+7379,Utility+AC0-Steam Service Line,255,60
+7386,Utility+AC0-Sewer Service,1870,60
+7388,Utility+AC0-Water Service Line,1564,60
+7385,Utility+AC0-Water Service Line,799,60
+7419,Utility+AC0-Other,438,60
+5307,Utility+AC0-Water Main,507,60
+5308,Utility+AC0-Water Main,511,60
+5305,Utility+AC0-Water Main,79,60
+7387,Utility+AC0-Water Main,129,60
+7398,Utility+AC0-Other,645,60
+7391,Utility+AC0-Water Main,253,60
+7394,Utility+AC0-Other,276,60
+7396,Utility+AC0-Power Outage,100,60
+7403,Utility+AC0-Water Service Line,1017,60
+5316,Utility+AC0-Water Main,2951,60
+7404,Utility+AC0-Power Outage,182,60
+7405,Utility+AC0-Other,120,60
+7406,Utility+AC0-Power Outage,154,60
+7408,Utility+AC0-Gas Low Pressure,622,60
+7407,Utility+AC0-Manhole,183,60
+5317,Utility+AC0-Power Outage,1909,60
+5320,Utility+AC0-Water Service Line,523,60
+7416,Utility+AC0-Water Main,1632,60
+7414,Utility+AC0-Water Main,687,60
+5336,Utility+AC0-Water Service Line,437,60
+7420,Utility+AC0-Water Main,33,60
+5355,Utility+AC0-Other,1756,60
+5356,Utility+AC0-Other,52,60
+5373,Utility+AC0-Gas High Pressure,430,60
+7422,Utility+AC0-Water Main,1023,60
+7421,Utility+AC0-Gas Main Rupture,82,60
+7425,Utility+AC0-Other,252,60
+7429,Utility+AC0-Other,1155,60
+7430,Utility+AC0-Manhole,593,60
+5377,Utility+AC0-Water Main,1674,60
+5381,Utility+AC0-Water Service Line,1771,60
+5375,Utility+AC0-Other,57,60
+5382,Utility+AC0-Water Main,442,60
+5384,Utility+AC0-Water Main,1060,60
+5383,Utility+AC0-Other,343,60
+5403,Utility+AC0-Other,1981,60
+7438,Utility+AC0-Other,103,60
+5422,Utility+AC0-Other,2646,60
+7442,Utility+AC0-Other,214,60
+5385,Utility+AC0-Water Main,229,60
+5401,Utility+AC0-Other,210,60
+5402,Utility+AC0-Water Main,168,60
+5404,Utility+AC0-Water Service Line,140,60
+5421,Utility+AC0-Water Service Line,125,60
+5446,Utility+AC0-Water Service Line,102,60
+5464,Utility+AC0-Gas High Pressure,192,60
+5479,Utility+AC0-Gas Service Line,334,60
+7447,Utility+AC0-Water Service Line,782,60
+7446,Utility+AC0-Water Main,609,60
+7449,Utility+AC0-Water Main,1537,60
+7448,Utility+AC0-Other,340,60
+5480,Utility+AC0-Water Main,869,60
+7451,Utility+AC0-Power Outage,370,60
+5481,Utility+AC0-Water Main,474,60
+5503,Utility+AC0-Water Main,1328,60
+5520,Utility+AC0-Water Main,900,60
+5536,Utility+AC0-Other,958,60
+5535,Utility+AC0-Power Outage,338,60
+5534,Utility+AC0-Sewer Service,151,60
+5539,Utility+AC0-Water Main,375,60
+7456,Utility+AC0-Power Outage,56,60
+7459,Utility+AC0-Other,369,60
+5694,Utility+AC0-Water Main,2951,60
+5542,Utility+AC0-Other,225,60
+5582,Utility+AC0-Cable TV,1748,60
+5576,Utility+AC0-Water Service Line,286,60
+5583,Utility+AC0-Water Main,531,60
+5579,Utility+AC0-Water Main,200,60
+5600,Utility+AC0-Power Outage,845,60
+5581,Utility+AC0-Other,51,60
+7462,Utility+AC0-Manhole,240,60
+7463,Utility+AC0-Power Outage,298,60
+5601,Utility+AC0-Power Outage,2951,60
+7470,Utility+AC0-Manhole,2145,60
+5639,Utility+AC0-Other,438,60
+5675,Utility+AC0-Manhole,2627,60
+5656,Utility+AC0-Power Outage,453,60
+5657,Utility+AC0-Gas Main Rupture,78,60
+7482,Utility+AC0-Other,2951,60
+5674,Utility+AC0-Water Main,477,60
+7474,Utility+AC0-Other,1302,60
+5693,Utility+AC0-Power Outage,148,60
+5731,Utility+AC0-Other,123,60
+7491,Utility+AC0-Water Service Line,2951,60
+7484,Utility+AC0-Water Main,1038,60
+5752,Utility+AC0-Steam Main,2070,60
+5751,Utility+AC0-Gas Service Line,112,60
+5773,Utility+AC0-Water Main,2951,60
+5768,Utility+AC0-Water Service Line,131,60
+4820,Utility+AC0-Water Service Line,2132,60
+5711,Utility+AC0-Network Condition,2305,60
+5225,Utility+AC0-Steam Main,869,60
+4887,Utility+AC0-Steam Main,799,60
+7498,Utility+AC0-Gas High Pressure,2250,60
+7496,Utility+AC0-Other,105,60
+5789,Utility+AC0-Water Main,1011,60
+5795,Utility+AC0-Water Service Line,1344,60
+4890,Utility+AC0-Gas Service Line,65,60
+5001,Utility+AC0-Other,977,60
+5002,Utility+AC0-Other,609,60
+7513,Utility+AC0-Water Service Line,834,60
+7514,Utility+AC0-Gas Main Rupture,49,60
+7516,Utility+AC0-Power Outage,62,60
+5206,Utility+AC0-Power Outage,463,60
+6143,Utility+AC0-Power Outage,262,60
+5838,Utility+AC0-Power Outage,210,60
+5874,Utility+AC0-Water Main,1573,60
+5286,Utility+AC0-Water Main,66,60
+5877,Utility+AC0-Water Service Line,240,60
+7520,Utility+AC0-Gas Main Rupture,106,60
+5942,Utility+AC0-Power Outage,49,60
+7540,Utility+AC0-Gas Service Line,1222,60
+7543,Utility+AC0-Water Main,560,60
+7549,Utility+AC0-Steam Main,1077,60
+7559,Utility+AC0-Manhole,2951,60
+7554,Utility+AC0-Electric Feeder Cable,2085,60
+7553,Utility+AC0-Gas Service Line,157,60
+7552,Utility+AC0-Gas Service Line,86,60
+7561,Utility+AC0-Water Main,216,60
+7566,Utility+AC0-Water Main,267,60
+7576,Utility+AC0-Power Outage,217,60
+7593,Utility+AC0-Gas Main Rupture,124,60
+7596,Utility+AC0-Gas Service Line,102,60
+7601,Utility+AC0-Water Service Line,427,60
+7606,Utility+AC0-Water Service Line,2117,60
+7610,Utility+AC0-Gas Main Rupture,194,60
+7612,Utility+AC0-Other,124,60
+7616,Utility+AC0-Gas Main Rupture,884,60
+7620,Utility+AC0-Other,0,60
+7630,Utility+AC0-Water Service Line,1016,60
+7633,Utility+AC0-Power Outage,31,60
+7637,Utility+AC0-Power Outage,171,60
+7645,Utility+AC0-Manhole,1598,60
+7644,Utility+AC0-Power Outage,254,60
+7647,Utility+AC0-Water Service Line,819,60
+7762,Utility+AC0-Other,438,60
+7655,Utility+AC0-Other,2268,60
+7657,Utility+AC0-Steam Main,51,60
+7658,Utility+AC0-Gas Main Rupture,86,60
+7677,Utility+AC0-Water Main,1243,60
+7680,Utility+AC0-Power Outage,207,60
+7681,Utility+AC0-Gas Service Line,99,60
+7687,Utility+AC0-Other,257,60
+7695,Utility+AC0-Power Outage,125,60
+7697,Utility+AC0-Manhole,127,60
+7701,Utility+AC0-Manhole,0,60
+7705,Utility+AC0-Water Main,104,60
+7699,Utility+AC0-Power Outage,187,60
+7715,Utility+AC0-Manhole,94,60
+7719,Utility+AC0-Other,963,60
+7718,Utility+AC0-Other,292,60
+7723,Utility+AC0-Water Main,492,60
+7728,Utility+AC0-Water Main,1316,60
+7731,Utility+AC0-Water Main,606,60
+7735,Utility+AC0-Other,1524,60
+7732,Utility+AC0-Manhole,598,60
+7739,Utility+AC0-Sewer Service,299,60
+7744,Utility+AC0-Water Main,29,60
+7748,Utility+AC0-Power Outage,389,60
+7753,Utility+AC0-Water Main,1237,60
+7751,Utility+AC0-Power Outage,867,60
+7749,Utility+AC0-Other,142,60
+7757,Utility+AC0-Power Outage,1725,60
+5671,Utility+AC0-Power Outage,637,60
+7754,Utility+AC0-Power Outage,778,60
+7761,Utility+AC0-Water Main,2138,60
+7759,Utility+AC0-Water Main,268,60
+7764,Utility+AC0-Water Main,677,60
+7771,Utility+AC0-Gas Service Line,60,60
+7777,Utility+AC0-Other,61,60
+7780,Utility+AC0-Manhole,535,60
+7789,Utility+AC0-Water Main,2951,60
+7781,Utility+AC0-Power Outage,448,60
+7786,Utility+AC0-Power Outage,1111,60
+7787,Utility+AC0-Water Service Line,863,60
+7784,Utility+AC0-Power Outage,179,60
+7788,Utility+AC0-Gas Service Line,341,60
+7792,Utility+AC0-Water Main,2951,60
+7804,Utility+AC0-Power Outage,2951,60
+7797,Utility+AC0-Water Main,635,60
+7803,Utility+AC0-Water Main,1046,60
+7801,Utility+AC0-Power Outage,187,60
+7802,Utility+AC0-Water Main,386,60
+7811,Utility+AC0-Other,2951,60
+7807,Utility+AC0-Sewer Service,81,60
+7814,Utility+AC0-Manhole,158,60
+7818,Utility+AC0-Water Main,328,60
+7829,Utility+AC0-Water Main,2771,60
+7834,Utility+AC0-Water Service Line,117,60
+7837,Utility+AC0-Water Main,227,60
+7856,Utility+AC0-Other,30,60
+7860,Utility+AC0-Water Main,122,60
+7862,Utility+AC0-Power Outage,728,60
+7864,Utility+AC0-Gas Service Line,85,60
+7870,Utility+AC0-Water Service Line,594,60
+7869,Utility+AC0-Power Outage,91,60
+7873,Utility+AC0-Water Service Line,125,60
+7880,Utility+AC0-Manhole,101,60
+7883,Utility+AC0-Power Outage,98,60
+7890,Utility+AC0-Power Outage,962,60
+7894,Utility+AC0-Gas High Pressure,316,60
+7896,Utility+AC0-Water Main,122,60
+7904,Utility+AC0-Manhole,1614,60
+7906,Utility+AC0-Water Main,1458,60
+7909,Utility+AC0-Water Main,1885,60
+7912,Utility+AC0-Manhole,73,60
+7953,Utility+AC0-Gas Main Rupture,2951,60
+7921,Utility+AC0-Water Main,1085,60
+7922,Utility+AC0-Manhole,1519,60
+7920,Utility+AC0-Power Outage,871,60
+7918,Utility+AC0-Water Main,434,60
+7937,Utility+AC0-Power Outage,2951,60
+7930,Utility+AC0-Water Main,1359,60
+7932,Utility+AC0-Transformer,86,60
+7941,Utility+AC0-Water Main,682,60
+7945,Utility+AC0-Water Main,1225,60
+7947,Utility+AC0-Sewer Service,67,60
+7950,Utility+AC0-Water Service Line,92,60
+7959,Utility+AC0-Water Main,109,60
+7966,Utility+AC0-Water Main,105,60
+8004,Utility+AC0-Water Main,2951,60
+7976,Utility+AC0-Gas Low Pressure,792,60
+7982,Utility+AC0-Water Main,320,60
+7990,Utility+AC0-Gas High Pressure,1732,60
+7988,Utility+AC0-Gas Low Pressure,563,60
+7996,Utility+AC0-Water Main,946,60
+8050,Utility+AC0-Gas Service Line,2951,60
+8019,Utility+AC0-Water Main,1226,60
+8023,Utility+AC0-Steam Service Line,629,60
+8026,Utility+AC0-Other,1109,60
+8032,Utility+AC0-Water Service Line,975,60
+8042,Utility+AC0-Other,266,60
+8045,Utility+AC0-Water Main,1403,60
+8060,Utility+AC0-Water Service Line,1165,60
+8063,Utility+AC0-Other,178,60
+8073,Utility+AC0-Gas Low Pressure,61,60
+8089,Utility+AC0-Water Main,39,60
+8097,Utility+AC0-Other,199,60
+8106,Utility+AC0-Water Service Line,297,60
+8111,Utility+AC0-Power Outage,489,60
+8113,Utility+AC0-Other,503,60
+8124,Utility+AC0-Power Outage,99,60
+8129,Utility+AC0-Power Outage,87,60
+8138,Utility+AC0-Other,48,60
+8148,Utility+AC0-Water Main,112,60
+8150,Utility+AC0-Power Outage,218,60
+8156,Utility+AC0-Other,178,60
+8163,Utility+AC0-Water Main,796,60
+8161,Utility+AC0-Power Outage,99,60
+8182,Utility+AC0-Water Service Line,1239,60
+8185,Utility+AC0-Other,311,60
+8198,Utility+AC0-Power Outage,501,60
+8199,Utility+AC0-Water Service Line,376,60
+8203,Utility+AC0-Manhole,276,60
+8208,Utility+AC0-Water Main,708,60
+8214,Utility+AC0-Power Outage,888,60
+8215,Utility+AC0-Water Main,689,60
+8211,Utility+AC0-Power Outage,61,60
+8213,Utility+AC0-Gas Service Line,142,60
+8219,Utility+AC0-Manhole,568,60
+8228,Utility+AC0-Water Main,2494,60
+8218,Utility+AC0-Water Main,79,60
+8227,Utility+AC0-Other,1875,60
+8221,Utility+AC0-Phone Outage,51,60
+8224,Utility+AC0-Manhole,650,60
+8226,Utility+AC0-Gas Service Line,787,60
+8229,Utility+AC0-Manhole,199,60
+8252,Utility+AC0-Electric Feeder Cable,2951,60
+8231,Utility+AC0-Power Outage,119,60
+8232,Utility+AC0-Power Outage,199,60
+8236,Utility+AC0-Other,257,60
+8237,Utility+AC0-Gas Service Line,151,60
+8244,Utility+AC0-Power Outage,413,60
+8245,Utility+AC0-Power Outage,123,60
+8247,Utility+AC0-Other,829,60
+8251,Utility+AC0-Water Main,139,60
+8257,Utility+AC0-Manhole,188,60
+8261,Utility+AC0-Phone Outage,416,60
+8263,Utility+AC0-Gas High Pressure,21,60
+8267,Utility+AC0-Power Outage,707,60
+8269,Utility+AC0-Water Main,393,60
+8279,Utility+AC0-Water Service Line,495,60
+8287,Utility+AC0-Gas High Pressure,212,60
+8292,Utility+AC0-Water Main,537,60
+8294,Utility+AC0-Other,36,60
+8298,Utility+AC0-Gas High Pressure,176,60
+8303,Utility+AC0-Other,60,60
+8305,Utility+AC0-Power Outage,91,60
+8306,Utility+AC0-Power Outage,70,60
+8307,Utility+AC0-Water Service Line,102,60
+8311,Utility+AC0-Other,576,60
+8308,Utility+AC0-Other,117,60
+8310,Utility+AC0-Other,226,60
+8313,Utility+AC0-Other,132,60
+8316,Utility+AC0-Power Outage,233,60
+8315,Utility+AC0-Transformer,101,60
+8317,Utility+AC0-Water Service Line,106,60
+8332,Utility+AC0-Manhole,211,60
+8337,Utility+AC0-Gas Service Line,111,60
+8347,Utility+AC0-Power Outage,48,60
+8366,Utility+AC0-Gas Main Rupture,95,60
+8422,Utility+AC0-Water Main,2951,60
+8369,Utility+AC0-Water Main,903,60
+8368,Utility+AC0-Power Outage,476,60
+8371,Utility+AC0-Manhole,134,60
+8384,Utility+AC0-Gas High Pressure,127,60
+8386,Utility+AC0-Gas Service Line,233,60
+8390,Utility+AC0-Cable TV,100,60
+8393,Utility+AC0-Water Main,306,60
+8403,Utility+AC0-Water Service Line,2664,60
+8400,Utility+AC0-Water Main,462,60
+8405,Utility+AC0-Network Condition,1615,60
+8404,Utility+AC0-Phone Outage,259,60
+8409,Utility+AC0-Water Service Line,376,60
+8416,Utility+AC0-Water Service Line,252,60
+8418,Utility+AC0-Water Main,562,60
+8428,Utility+AC0-Water Service Line,2951,60
+8426,Utility+AC0-Steam Service Line,122,60
+8427,Utility+AC0-Power Outage,106,60
+8435,Utility+AC0-Water Main,1470,60
+8433,Utility+AC0-Power Outage,270,60
+8440,Utility+AC0-Other,1308,60
+8443,Utility+AC0-Water Service Line,1495,60
+8457,Utility+AC0-Water Main,2420,60
+8452,Utility+AC0-Water Main,478,60
+8469,Utility+AC0-Gas Main Rupture,2951,60
+8464,Utility+AC0-Water Main,597,60
+8472,Utility+AC0-Power Outage,1626,60
+8473,Utility+AC0-Power Outage,22,60
+8493,Utility+AC0-Other,2951,60
+8495,Utility+AC0-Steam Main,2951,60
+8508,Utility+AC0-Manhole,347,60
+8514,Utility+AC0-Other,403,60
+8521,Utility+AC0-Water Service Line,1634,60
+8535,Utility+AC0-Other,2951,60
+8530,Utility+AC0-Gas Service Line,16,60
+8538,Utility+AC0-Water Service Line,628,60
+8537,Utility+AC0-Power Outage,438,60
+8541,Utility+AC0-Power Outage,62,60
+8542,Utility+AC0-Power Outage,44,60
+8543,Utility+AC0-Other,96,60
+8546,Utility+AC0-Power Outage,170,60
+8547,Utility+AC0-Other,70,60
+8551,Utility+AC0-Other,449,60
+8556,Utility+AC0-Water Main,900,60
+8559,Utility+AC0-Gas Service Line,438,60
+8560,Utility+AC0-Gas Service Line,100,60
+8562,Utility+AC0-Water Main,128,60
+8580,Utility+AC0-Other,2951,60
+8578,Utility+AC0-Water Service Line,131,60
+8584,Utility+AC0-Power Outage,279,60
+8742,Utility+AC0-Power Outage,2951,60
+8594,Utility+AC0-Other,423,60
+8593,Utility+AC0-Other,295,60
+8601,Utility+AC0-Other,955,60
+8613,Utility+AC0-Water Main,69,60
+8616,Utility+AC0-Other,1018,60
+8624,Utility+AC0-Water Service Line,2951,60
+8627,Utility+AC0-Power Outage,508,60
+8632,Utility+AC0-Water Service Line,2605,60
+8634,Utility+AC0-Water Main,887,60
+8633,Utility+AC0-Gas Low Pressure,546,60
+8637,Utility+AC0-Power Outage,164,60
+8652,Utility+AC0-Other,1280,60
+8657,Utility+AC0-Manhole,207,60
+8658,Utility+AC0-Other,110,60
+8660,Utility+AC0-Manhole,283,60
+8661,Utility+AC0-Water Main,175,60
+8664,Utility+AC0-Power Outage,141,60
+8672,Utility+AC0-Gas Main Rupture,2951,60
+8674,Utility+AC0-Water Main,585,60
+8673,Utility+AC0-Water Main,128,60
+8675,Utility+AC0-Water Service Line,44,60
+8677,Utility+AC0-Other,147,60
+8681,Utility+AC0-Gas High Pressure,639,60
+8688,Utility+AC0-Sewer Service,152,60
+8700,Utility+AC0-Power Outage,408,60
+8708,Utility+AC0-Water Main,2951,60
+8701,Utility+AC0-Other,61,60
+8705,Utility+AC0-Power Outage,83,60
+8707,Utility+AC0-Water Main,735,60
+8709,Utility+AC0-Water Main,881,60
+8715,Utility+AC0-Transformer,500,60
+8717,Utility+AC0-Power Outage,159,60
+8721,Utility+AC0-Power Outage,38,60
+8724,Utility+AC0-Power Outage,145,60
+8730,Utility+AC0-Manhole,35,60
+8732,Utility+AC0-Gas Main Rupture,60,60
+8733,Utility+AC0-Power Outage,751,60
+8734,Utility+AC0-Power Outage,50,60
+8739,Utility+AC0-Network Condition,1673,60
+8740,Utility+AC0-Other,123,60
+8746,Utility+AC0-Water Service Line,120,60
+8748,Utility+AC0-Other,86,60
+8751,Utility+AC0-Water Main,1277,60
+8754,Utility+AC0-Water Main,477,60
+8780,Utility+AC0-Power Outage,1839,60
+5435,Utility+AC0-Power Outage,438,60
+8776,Utility+AC0-Power Outage,15,60
+3993,Utility+AC0-Other,438,60
+8786,Utility+AC0-Other,2951,60
+8777,Utility+AC0-Power Outage,734,60
+8781,Utility+AC0-Electric Overhead,872,60
+5437,Utility+AC0-Electric Overhead,438,60
+5440,Utility+AC0-Power Outage,438,60
+8784,Utility+AC0-Power Outage,780,60
+8789,Utility+AC0-Power Outage,78,60
+8791,Utility+AC0-Gas Main Rupture,110,60
+8793,Utility+AC0-Water Main,673,60
+8794,Utility+AC0-Water Main,1519,60
+3981,Utility+AC0-Water Main,438,60
+8795,Utility+AC0-Water Main,481,60
+4222,Utility+AC0-Water Service Line,438,60
+8838,Utility+AC0-Water Service Line,1361,60
+8845,Utility+AC0-Water Main,2013,60
+5256,Utility+AC0-Water Main,438,60
+8849,Utility+AC0-Other,2951,60
+3998,Utility+AC0-Other,438,60
+2077,Utility+AC0-Other,438,60
+8856,Utility+AC0-Electric Overhead,115,60
+8857,Utility+AC0-Other,112,60
+3634,Utility+AC0-Water Service Line,438,60
+8859,Utility+AC0-Water Service Line,1441,60
+3434,Utility+AC0-Power Outage,438,60
+8868,Utility+AC0-Power Outage,2937,60
+1856,Utility+AC0-Power Outage,438,60
+8864,Utility+AC0-Power Outage,155,60
+8865,Utility+AC0-Power Outage,161,60
+4697,Utility+AC0-Water Main,438,60
+8874,Utility+AC0-Water Main,2484,60
+4411,Utility+AC0-Water Main,438,60
+8871,Utility+AC0-Water Service Line,719,60
+8877,Utility+AC0-Other,1371,60
+4653,Utility+AC0-Other,438,60
+8876,Utility+AC0-Water Main,536,60
+1731,Utility+AC0-Water Main,438,60
+4652,Utility+AC0-Water Main,438,60
+8879,Utility+AC0-Water Main,1701,60
+8889,Utility+AC0-Power Outage,708,60
+1671,Utility+AC0-Water Main,438,60
+8898,Utility+AC0-Water Main,1517,60
+4582,Utility+AC0-Water Main,438,60
+8908,Utility+AC0-Water Main,2951,60
+8912,Utility+AC0-Other,1079,60
+4369,Utility+AC0-Water Main,438,60
+8934,Utility+AC0-Water Main,2951,60
+1684,Utility+AC0-Water Main,438,60
+8929,Utility+AC0-Gas Main Rupture,104,60
+4091,Utility+AC0-Water Main,438,60
+8933,Utility+AC0-Water Main,1552,60
+1670,Utility+AC0-Water Main,438,60
+8897,Utility+AC0-Other,689,60
+8945,Utility+AC0-Water Main,1490,60
+1615,Utility+AC0-Water Main,438,60
+8947,Utility+AC0-Other,59,60
+8949,Utility+AC0-Other,46,60
+2761,Utility+AC0-Manhole,438,60
+8953,Utility+AC0-Manhole,702,60
+8959,Utility+AC0-Gas High Pressure,2951,60
+2673,Utility+AC0-Gas High Pressure,438,60
+1519,Utility+AC0-Gas High Pressure,438,60
+8954,Utility+AC0-Other,132,60
+8957,Utility+AC0-Water Main,1258,60
+3704,Utility+AC0-Water Service Line,438,60
+8960,Utility+AC0-Water Service Line,328,60
+2608,Utility+AC0-Water Main,438,60
+8962,Utility+AC0-Water Main,221,60
+8956,Utility+AC0-Other,433,60
+8965,Utility+AC0-Other,343,60
+8964,Utility+AC0-Water Main,79,60
+8974,Utility+AC0-Water Main,412,60
+8982,Utility+AC0-Other,621,60
+9000,Utility+AC0-Other,323,60
+9007,Utility+AC0-Other,50,60
+1418,Utility+AC0-Gas High Pressure,2951,60
+1403,Utility+AC0-Gas High Pressure,438,60
+3489,Utility+AC0-Gas High Pressure,438,60
+1404,Utility+AC0-Phone Outage,438,60
+1160,Utility+AC0-Phone Outage,438,60
+2369,Utility+AC0-Water Main,438,60
+2072,Utility+AC0-Water Main,687,60
+9010,Utility+AC0-Water Main,554,60
+5880,Utility+AC0-Sewer Service,146,60
+5879,Utility+AC0-Water Service Line,33,60
+3623,Utility+AC0-Power Outage,2148,60
+136,Utility+AC0-Power Outage,558,60
+5193,Utility+AC0-Other,11,60
+2,Utility+AC0-Other,438,60
+5425,Utility+AC0-Other,1543,60
+5696,Utility+AC0-Water Main,1499,60
+2292,Utility+AC0-Water Main,438,60
+13,Utility+AC0-Other,438,60
+5818,Utility+AC0-Other,438,60
+937,Utility+AC0-Other,438,60
+5622,Utility+AC0-Other,2951,60
+4504,Utility+AC0-Water Main,578,60
+3942,Utility+AC0-Manhole,283,60
+1521,Utility+AC0-Power Outage,438,60
+1034,Utility+AC0-Power Outage,1326,60
+5321,Utility+AC0-Power Outage,83,60
+2045,Utility+AC0-Water Main,438,60
+1090,Utility+AC0-Water Main,679,60
+5,Utility+AC0-Water Main,438,60
+1358,Utility+AC0-Water Main,965,60
+7,Utility+AC0-Water Main,438,60
+1621,Utility+AC0-Water Main,766,60
+2373,Utility+AC0-Gas High Pressure,70,60
+1190,Utility+AC0-Water Service Line,438,60
+4723,Utility+AC0-Water Service Line,2951,60
+2546,Utility+AC0-Water Service Line,438,60
+2516,Utility+AC0-Other,20,60
+1189,Utility+AC0-Other,438,60
+4857,Utility+AC0-Other,2951,60
+2399,Utility+AC0-Other,438,60
+3690,Utility+AC0-Water Main,549,60
+5258,Utility+AC0-Power Outage,63,60
+1220,Utility+AC0-Other,51,60
+3016,Utility+AC0-Other,176,60
+5859,Utility+AC0-Water Main,2841,60
+24,Utility+AC0-Water Main,438,60
+74,Utility+AC0-Water Main,438,60
+1039,Utility+AC0-Gas High Pressure,1519,60
+182,Utility+AC0-Gas High Pressure,211,60
+1419,Utility+AC0-Water Main,511,60
+185,Utility+AC0-Water Main,438,60
+1551,Utility+AC0-Other,136,60
+5924,Utility+AC0-Water Main,886,60
+2023,Utility+AC0-Power Outage,74,60
+4388,Utility+AC0-Other,1544,60
+2014,Utility+AC0-Other,438,60
+4417,Utility+AC0-Water Main,429,60
+5057,Utility+AC0-Power Outage,38,60
+5487,Utility+AC0-Water Main,503,60
+1089,Utility+AC0-Water Main,438,60
+5603,Utility+AC0-Electric Feeder Cable,70,60
+5715,Utility+AC0-Manhole,75,60
+1091,Utility+AC0-Gas Service Line,214,60
+471,Utility+AC0-Steam Service Line,438,60
+121,Utility+AC0-Steam Service Line,438,60
+1188,Utility+AC0-Steam Service Line,2951,60
+1974,Utility+AC0-Other,277,60
+793,Utility+AC0-Other,438,60
+2507,Utility+AC0-Other,438,60
+81,Utility+AC0-Other,438,60
+120,Utility+AC0-Other,927,60
+2853,Utility+AC0-Other,2951,60
+2451,Utility+AC0-Other,438,60
+4314,Utility+AC0-Other,438,60
+3462,Utility+AC0-Power Outage,165,60
+2452,Utility+AC0-Water Main,438,60
+5906,Utility+AC0-Water Main,1548,60
+3546,Utility+AC0-Water Main,438,60
+3969,Utility+AC0-Water Main,1173,60
+1093,Utility+AC0-Water Main,884,60
+4703,Utility+AC0-Sewer Service,1110,60
+61,Utility+AC0-Water Main,438,60
+4266,Utility+AC0-Water Main,438,60
+1094,Utility+AC0-Water Main,2951,60
+848,Utility+AC0-Water Main,438,60
+0,Utility+AC0-Water Main,438,60
+2508,Utility+AC0-Water Main,438,60
+469,Utility+AC0-Water Main,438,60
+3235,Utility+AC0-Water Main,2951,60
+1221,Utility+AC0-Power Outage,64,60
+1359,Utility+AC0-Manhole,153,60
+1423,Utility+AC0-Power Outage,115,60
+1898,Utility+AC0-Manhole,99,60
+2376,Utility+AC0-Power Outage,97,60
+4087,Utility+AC0-Water Main,438,60
+5194,Utility+AC0-Water Main,2263,60
+134,Utility+AC0-Water Main,438,60
+3943,Utility+AC0-Power Outage,93,60
+46,Utility+AC0-Power Outage,438,60
+485,Utility+AC0-Power Outage,438,60
+37,Utility+AC0-Power Outage,438,60
+1640,Utility+AC0-Power Outage,438,60
+47,Utility+AC0-Water Service Line,438,60
+2489,Utility+AC0-Water Service Line,438,60
+1951,Utility+AC0-Water Service Line,2951,60
+5604,Utility+AC0-Water Service Line,109,60
+5623,Utility+AC0-Other,297,60
+5820,Utility+AC0-Power Outage,82,60
+1927,Utility+AC0-Water Main,539,60
+1871,Utility+AC0-Water Main,8,60
+3894,Utility+AC0-Gas Low Pressure,2951,60
+2080,Utility+AC0-Gas Low Pressure,438,60
+115,Utility+AC0-Gas Low Pressure,438,60
+2379,Utility+AC0-Gas Low Pressure,438,60
+2133,Utility+AC0-Gas Low Pressure,438,60
+102,Utility+AC0-Gas Low Pressure,2951,60
+3461,Utility+AC0-Gas Low Pressure,438,60
+41,Utility+AC0-Gas Low Pressure,438,60
+19,Utility+AC0-Gas Low Pressure,438,60
+42,Utility+AC0-Gas Low Pressure,438,60
+141,Utility+AC0-Gas Low Pressure,438,60
+1741,Utility+AC0-Power Outage,219,60
+1899,Utility+AC0-Water Main,451,60
+2142,Utility+AC0-Water Main,438,60
+4239,Utility+AC0-Power Outage,1021,60
+77,Utility+AC0-Power Outage,438,60
+4505,Utility+AC0-Manhole,53,60
+4602,Utility+AC0-Water Service Line,503,60
+4650,Utility+AC0-Power Outage,700,60
+1996,Utility+AC0-Power Outage,438,60
+4624,Utility+AC0-Power Outage,74,60
+4901,Utility+AC0-Electric Overhead,70,60
+5956,Utility+AC0-Water Main,965,60
+1948,Utility+AC0-Water Main,438,60
+1138,Utility+AC0-Other,2951,60
+1924,Utility+AC0-Other,438,60
+5717,Utility+AC0-Steam Main,1586,60
+83,Utility+AC0-Steam Main,438,60
+1928,Utility+AC0-Power Outage,2951,60
+1934,Utility+AC0-Power Outage,438,60
+727,Utility+AC0-Power Outage,455,60
+5978,Utility+AC0-Electric Overhead,81,60
+5860,Utility+AC0-Electric Feeder Cable,120,60
+2518,Utility+AC0-Other,41,60
+2603,Utility+AC0-Water Service Line,91,60
+3465,Utility+AC0-Water Main,535,60
+3740,Utility+AC0-Manhole,362,60
+4704,Utility+AC0-Other,574,60
+5388,Utility+AC0-Water Main,1748,60
+103,Utility+AC0-Water Main,438,60
+5488,Utility+AC0-Other,1841,60
+96,Utility+AC0-Other,438,60
+3364,Utility+AC0-Electric Feeder Cable,2951,60
+4902,Utility+AC0-Gas High Pressure,270,60
+5467,Utility+AC0-Power Outage,160,60
+5799,Utility+AC0-Gas Service Line,1060,60
+144,Utility+AC0-Gas Service Line,438,60
+1263,Utility+AC0-Power Outage,556,60
+3382,Utility+AC0-Water Main,391,60
+6003,Utility+AC0-Power Outage,45,60
+4880,Utility+AC0-Phone Outage,341,60
+4859,Utility+AC0-Phone Outage,256,60
+1685,Utility+AC0-Power Outage,280,60
+1872,Utility+AC0-Power Outage,338,60
+4461,Utility+AC0-Power Outage,63,60
+1240,Utility+AC0-Water Main,786,60
+172,Utility+AC0-Water Service Line,438,60
+1264,Utility+AC0-Water Service Line,148,60
+3837,Utility+AC0-Water Main,2951,60
+222,Utility+AC0-Water Main,438,60
+5915,Utility+AC0-Water Main,2951,60
+2402,Utility+AC0-Water Main,438,60
+2179,Utility+AC0-Gas Service Line,262,60
+220,Utility+AC0-Manhole,438,60
+3550,Utility+AC0-Manhole,974,60
+3970,Utility+AC0-Other,615,60
+4021,Utility+AC0-Power Outage,265,60
+2509,Utility+AC0-Water Main,438,60
+2124,Utility+AC0-Water Main,2951,60
+231,Utility+AC0-Water Main,438,60
+229,Utility+AC0-Water Main,438,60
+1901,Utility+AC0-Water Main,1961,60
+4964,Utility+AC0-Water Main,1368,60
+189,Utility+AC0-Water Main,438,60
+5108,Utility+AC0-Water Main,405,60
+226,Utility+AC0-Water Main,438,60
+1998,Utility+AC0-Water Main,143,60
+3238,Utility+AC0-Steam Service Line,76,60
+4990,Utility+AC0-Water Main,291,60
+1116,Utility+AC0-Manhole,387,60
+513,Utility+AC0-Water Main,438,60
+5624,Utility+AC0-Water Main,2951,60
+2628,Utility+AC0-Water Main,438,60
+6047,Utility+AC0-Water Main,68,60
+5970,Utility+AC0-Power Outage,144,60
+5344,Utility+AC0-Water Main,274,60
+1517,Utility+AC0-Water Main,438,60
+1308,Utility+AC0-Water Main,1243,60
+49,Utility+AC0-Water Main,438,60
+1514,Utility+AC0-Water Main,438,60
+1999,Utility+AC0-Water Main,2186,60
+1792,Utility+AC0-Power Outage,71,60
+2993,Utility+AC0-Power Outage,12,60
+4924,Utility+AC0-Power Outage,440,60
+3743,Utility+AC0-Power Outage,886,60
+1377,Utility+AC0-Power Outage,438,60
+3719,Utility+AC0-Gas High Pressure,20,60
+5109,Utility+AC0-Other,84,60
+62,Utility+AC0-Water Service Line,438,60
+6075,Utility+AC0-Water Service Line,282,60
+5428,Utility+AC0-Gas High Pressure,523,60
+1553,Utility+AC0-Gas High Pressure,1354,60
+1336,Utility+AC0-Gas High Pressure,438,60
+1424,Utility+AC0-Gas High Pressure,84,60
+1475,Utility+AC0-Power Outage,422,60
+1873,Utility+AC0-Manhole,1472,60
+65,Utility+AC0-Manhole,438,60
+6105,Utility+AC0-Power Outage,345,60
+1663,Utility+AC0-Power Outage,423,60
+2000,Utility+AC0-Power Outage,512,60
+3952,Utility+AC0-Power Outage,460,60
+1143,Utility+AC0-Power Outage,211,60
+5946,Utility+AC0-Other,110,60
+866,Utility+AC0-Manhole,361,60
+3788,Utility+AC0-Manhole,1427,60
+2049,Utility+AC0-Water Main,438,60
+6118,Utility+AC0-Water Main,1389,60
+2378,Utility+AC0-Steam Main,936,60
+4603,Utility+AC0-Water Service Line,78,60
+4945,Utility+AC0-Gas Main Rupture,108,60
+5137,Utility+AC0-Gas High Pressure,60,60
+5296,Utility+AC0-Other,476,60
+5276,Utility+AC0-Gas High Pressure,218,60
+5407,Utility+AC0-Power Outage,266,60
+104,Utility+AC0-Power Outage,438,60
+1329,Utility+AC0-Gas Main Rupture,47,60
+2768,Utility+AC0-Water Service Line,1053,60
+127,Utility+AC0-Water Service Line,438,60
+2494,Utility+AC0-Water Main,1246,60
+1874,Utility+AC0-Other,180,60
+2239,Utility+AC0-Other,213,60
+5947,Utility+AC0-Power Outage,24,60
+852,Utility+AC0-Other,438,60
+5909,Utility+AC0-Other,1889,60
+5823,Utility+AC0-Water Service Line,43,60
+1170,Utility+AC0-Power Outage,852,60
+1167,Utility+AC0-Water Main,438,60
+1425,Utility+AC0-Water Main,946,60
+1688,Utility+AC0-Water Main,1734,60
+1060,Utility+AC0-Water Main,438,60
+1176,Utility+AC0-Water Main,438,60
+3212,Utility+AC0-Water Main,1395,60
+4787,Utility+AC0-Water Main,702,60
+143,Utility+AC0-Water Main,438,60
+6024,Utility+AC0-Power Outage,101,60
+2001,Utility+AC0-Power Outage,121,60
+3693,Utility+AC0-Water Main,821,60
+3650,Utility+AC0-Power Outage,74,60
+4345,Utility+AC0-Water Service Line,212,60
+4346,Utility+AC0-Gas High Pressure,2,60
+5199,Utility+AC0-Gas High Pressure,1514,60
+648,Utility+AC0-Gas High Pressure,438,60
+4556,Utility+AC0-Water Main,599,60
+5010,Utility+AC0-Water Main,600,60
+6160,Utility+AC0-Other,247,60
+650,Utility+AC0-Water Main,438,60
+5139,Utility+AC0-Water Main,1029,60
+651,Utility+AC0-Water Main,438,60
+5154,Utility+AC0-Water Main,913,60
+5389,Utility+AC0-Water Main,205,60
+1339,Utility+AC0-Other,438,60
+1197,Utility+AC0-Other,2951,60
+818,Utility+AC0-Other,438,60
+5451,Utility+AC0-Power Outage,112,60
+5929,Utility+AC0-Water Service Line,535,60
+5899,Utility+AC0-Water Main,705,60
+977,Utility+AC0-Water Main,438,60
+1178,Utility+AC0-Gas High Pressure,104,60
+1194,Utility+AC0-Gas High Pressure,63,60
+1195,Utility+AC0-Gas High Pressure,85,60
+3490,Utility+AC0-Other,29,60
+4788,Utility+AC0-Water Main,2951,60
+1341,Utility+AC0-Water Main,438,60
+256,Utility+AC0-Water Main,438,60
+1045,Utility+AC0-Water Main,438,60
+4906,Utility+AC0-Other,113,60
+265,Utility+AC0-Water Main,438,60
+1342,Utility+AC0-Water Main,438,60
+1476,Utility+AC0-Water Main,2951,60
+260,Utility+AC0-Water Main,438,60
+2076,Utility+AC0-Power Outage,256,60
+2213,Utility+AC0-Water Main,14,60
+3721,Utility+AC0-Water Main,1736,60
+2397,Utility+AC0-Water Main,438,60
+5179,Utility+AC0-Water Service Line,1043,60
+2469,Utility+AC0-Water Service Line,438,60
+1892,Utility+AC0-Network Condition,438,60
+1556,Utility+AC0-Network Condition,2951,60
+2385,Utility+AC0-Gas Main Rupture,1244,60
+557,Utility+AC0-Gas Main Rupture,438,60
+5930,Utility+AC0-Manhole,686,60
+5155,Utility+AC0-Gas High Pressure,399,60
+6161,Utility+AC0-Water Main,562,60
+2498,Utility+AC0-Other,85,60
+355,Utility+AC0-Water Main,438,60
+4116,Utility+AC0-Water Main,1935,60
+4726,Utility+AC0-Water Main,1921,60
+357,Utility+AC0-Other,438,60
+3745,Utility+AC0-Gas Low Pressure,12,60
+1794,Utility+AC0-Gas High Pressure,34,60
+6213,Utility+AC0-Manhole,104,60
+5507,Utility+AC0-Power Outage,54,60
+5720,Utility+AC0-Water Main,1229,60
+3142,Utility+AC0-Other,438,60
+1293,Utility+AC0-Other,1482,60
+2002,Utility+AC0-Water Service Line,1261,60
+1976,Utility+AC0-Other,91,60
+6226,Utility+AC0-Other,2951,60
+327,Utility+AC0-Other,438,60
+1326,Utility+AC0-Other,438,60
+339,Utility+AC0-Water Main,438,60
+1332,Utility+AC0-Water Main,438,60
+4169,Utility+AC0-Water Main,1683,60
+2155,Utility+AC0-Water Main,416,60
+1569,Utility+AC0-Water Main,438,60
+4045,Utility+AC0-Water Main,1197,60
+1335,Utility+AC0-Water Main,438,60
+3746,Utility+AC0-Water Main,800,60
+1570,Utility+AC0-Water Main,438,60
+4867,Utility+AC0-Water Main,853,60
+5216,Utility+AC0-Water Main,944,60
+6162,Utility+AC0-Power Outage,332,60
+361,Utility+AC0-Other,438,60
+3179,Utility+AC0-Other,438,60
+1605,Utility+AC0-Other,2951,60
+415,Utility+AC0-Other,438,60
+1527,Utility+AC0-Water Main,1413,60
+3180,Utility+AC0-Water Main,438,60
+1528,Utility+AC0-Water Main,62,60
+1557,Utility+AC0-Other,1242,60
+427,Utility+AC0-Water Main,438,60
+2769,Utility+AC0-Water Main,1411,60
+1819,Utility+AC0-Other,582,60
+6145,Utility+AC0-Other,912,60
+1529,Utility+AC0-Water Main,94,60
+1726,Utility+AC0-Water Main,438,60
+3919,Utility+AC0-Water Main,2951,60
+5142,Utility+AC0-Water Service Line,438,60
+390,Utility+AC0-Water Main,438,60
+5180,Utility+AC0-Water Main,462,60
+5701,Utility+AC0-Power Outage,69,60
+2386,Utility+AC0-Manhole,974,60
+1724,Utility+AC0-Other,438,60
+2627,Utility+AC0-Other,134,60
+5566,Utility+AC0-Power Outage,50,60
+4466,Utility+AC0-Gas Service Line,73,60
+1745,Utility+AC0-Water Main,438,60
+428,Utility+AC0-Water Main,438,60
+5845,Utility+AC0-Water Main,2832,60
+5181,Utility+AC0-Gas Service Line,43,60
+6119,Utility+AC0-Power Outage,41,60
+6053,Utility+AC0-Gas High Pressure,54,60
+2387,Utility+AC0-Power Outage,98,60
+6090,Utility+AC0-Other,34,60
+3817,Utility+AC0-Water Main,676,60
+4443,Utility+AC0-Manhole,367,60
+5607,Utility+AC0-Water Service Line,107,60
+1646,Utility+AC0-Power Outage,147,60
+3130,Utility+AC0-Gas Main Rupture,573,60
+5973,Utility+AC0-Power Outage,62,60
+4868,Utility+AC0-Gas Main Rupture,652,60
+6147,Utility+AC0-Power Outage,537,60
+5802,Utility+AC0-Power Outage,118,60
+1744,Utility+AC0-Water Service Line,1177,60
+1919,Utility+AC0-Water Service Line,438,60
+5911,Utility+AC0-Water Main,120,60
+4926,Utility+AC0-Gas High Pressure,439,60
+5432,Utility+AC0-Manhole,286,60
+6064,Utility+AC0-Other,966,60
+453,Utility+AC0-Other,438,60
+1666,Utility+AC0-Water Main,2833,60
+2303,Utility+AC0-Water Main,438,60
+2607,Utility+AC0-Water Service Line,57,60
+5469,Utility+AC0-Gas High Pressure,502,60
+2914,Utility+AC0-Water Main,108,60
+6228,Utility+AC0-Power Outage,2951,60
+537,Utility+AC0-Power Outage,438,60
+3946,Utility+AC0-Power Outage,438,60
+2298,Utility+AC0-Water Main,281,60
+5611,Utility+AC0-Water Main,2951,60
+2454,Utility+AC0-Gas High Pressure,598,60
+3054,Utility+AC0-Water Main,66,60
+1844,Utility+AC0-Water Main,554,60
+529,Utility+AC0-Water Main,438,60
+530,Utility+AC0-Water Main,438,60
+5471,Utility+AC0-Water Main,1046,60
+4132,Utility+AC0-Water Main,438,60
+4883,Utility+AC0-Water Main,862,60
+5472,Utility+AC0-Water Main,1231,60
+3962,Utility+AC0-Water Main,438,60
+2317,Utility+AC0-Water Service Line,438,60
+1796,Utility+AC0-Water Service Line,841,60
+1845,Utility+AC0-Other,2951,60
+4170,Utility+AC0-Other,438,60
+4492,Utility+AC0-Power Outage,360,60
+5725,Utility+AC0-Gas Main Rupture,575,60
+6186,Utility+AC0-Transformer,209,60
+6251,Utility+AC0-Power Outage,303,60
+567,Utility+AC0-Water Main,438,60
+5704,Utility+AC0-Water Main,2951,60
+2524,Utility+AC0-Water Main,438,60
+585,Utility+AC0-Water Main,438,60
+6242,Utility+AC0-Other,355,60
+4245,Utility+AC0-Manhole,269,60
+2819,Utility+AC0-Steam Main,438,60
+796,Utility+AC0-Steam Main,438,60
+695,Utility+AC0-Steam Main,438,60
+4484,Utility+AC0-Steam Main,438,60
+658,Utility+AC0-Steam Main,438,60
+2821,Utility+AC0-Steam Main,438,60
+692,Utility+AC0-Steam Main,438,60
+731,Utility+AC0-Steam Main,438,60
+2808,Utility+AC0-Steam Main,438,60
+4485,Utility+AC0-Steam Main,438,60
+656,Utility+AC0-Steam Main,438,60
+2799,Utility+AC0-Steam Main,438,60
+2797,Utility+AC0-Steam Main,438,60
+789,Utility+AC0-Steam Main,438,60
+696,Utility+AC0-Steam Main,438,60
+4721,Utility+AC0-Steam Main,438,60
+5591,Utility+AC0-Steam Main,2951,60
+2793,Utility+AC0-Steam Main,438,60
+2790,Utility+AC0-Steam Main,438,60
+700,Utility+AC0-Steam Main,438,60
+2783,Utility+AC0-Steam Main,438,60
+657,Utility+AC0-Steam Main,438,60
+690,Utility+AC0-Steam Main,438,60
+684,Utility+AC0-Steam Main,438,60
+687,Utility+AC0-Steam Main,438,60
+566,Utility+AC0-Steam Main,438,60
+662,Utility+AC0-Steam Main,438,60
+665,Utility+AC0-Steam Main,438,60
+666,Utility+AC0-Steam Main,438,60
+668,Utility+AC0-Steam Main,438,60
+670,Utility+AC0-Steam Main,438,60
+3258,Utility+AC0-Steam Main,438,60
+615,Utility+AC0-Steam Main,438,60
+4425,Utility+AC0-Steam Main,438,60
+633,Utility+AC0-Steam Main,438,60
+635,Utility+AC0-Steam Main,438,60
+894,Utility+AC0-Steam Main,438,60
+2828,Utility+AC0-Steam Main,438,60
+637,Utility+AC0-Steam Main,438,60
+601,Utility+AC0-Steam Main,438,60
+587,Utility+AC0-Steam Main,438,60
+3069,Utility+AC0-Steam Main,438,60
+679,Utility+AC0-Steam Main,438,60
+4465,Utility+AC0-Steam Main,438,60
+682,Utility+AC0-Steam Main,438,60
+4712,Utility+AC0-Steam Main,438,60
+3564,Utility+AC0-Steam Main,438,60
+2856,Utility+AC0-Steam Main,438,60
+686,Utility+AC0-Steam Main,438,60
+801,Utility+AC0-Steam Main,438,60
+799,Utility+AC0-Steam Main,438,60
+3066,Utility+AC0-Steam Main,438,60
+1055,Utility+AC0-Steam Main,438,60
+792,Utility+AC0-Steam Main,438,60
+2632,Utility+AC0-Steam Main,438,60
+4613,Utility+AC0-Steam Main,438,60
+603,Utility+AC0-Steam Main,438,60
+720,Utility+AC0-Steam Main,438,60
+734,Utility+AC0-Steam Main,438,60
+4349,Utility+AC0-Steam Main,438,60
+4546,Utility+AC0-Steam Main,438,60
+710,Utility+AC0-Steam Main,438,60
+718,Utility+AC0-Steam Main,438,60
+2678,Utility+AC0-Steam Main,438,60
+2504,Utility+AC0-Steam Main,438,60
+783,Utility+AC0-Steam Main,438,60
+711,Utility+AC0-Steam Main,438,60
+649,Utility+AC0-Steam Main,438,60
+4540,Utility+AC0-Steam Main,438,60
+2677,Utility+AC0-Steam Main,438,60
+4683,Utility+AC0-Steam Main,438,60
+2593,Utility+AC0-Steam Main,438,60
+1086,Utility+AC0-Steam Main,438,60
+1799,Utility+AC0-Steam Main,438,60
+2583,Utility+AC0-Steam Main,438,60
+923,Utility+AC0-Steam Main,438,60
+2626,Utility+AC0-Steam Main,438,60
+782,Utility+AC0-Steam Main,438,60
+2765,Utility+AC0-Steam Main,438,60
+724,Utility+AC0-Steam Main,438,60
+733,Utility+AC0-Steam Main,438,60
+654,Utility+AC0-Steam Main,438,60
+706,Utility+AC0-Steam Main,438,60
+581,Utility+AC0-Steam Main,438,60
+2747,Utility+AC0-Steam Main,438,60
+707,Utility+AC0-Steam Main,438,60
+708,Utility+AC0-Steam Main,438,60
+705,Utility+AC0-Steam Main,438,60
+6349,Utility+AC0-Power Outage,1480,60
+632,Utility+AC0-Power Outage,438,60
+3679,Utility+AC0-Gas High Pressure,126,60
+6149,Utility+AC0-Power Outage,677,60
+4221,Utility+AC0-Power Outage,1040,60
+2795,Utility+AC0-Power Outage,438,60
+5280,Utility+AC0-Water Main,169,60
+5495,Utility+AC0-Power Outage,427,60
+6271,Utility+AC0-Other,228,60
+2005,Utility+AC0-Gas Main Rupture,46,60
+2389,Utility+AC0-Power Outage,237,60
+672,Utility+AC0-Other,438,60
+3552,Utility+AC0-Other,854,60
+6252,Utility+AC0-Power Outage,31,60
+3131,Utility+AC0-Transformer,244,60
+6367,Utility+AC0-Gas High Pressure,153,60
+2791,Utility+AC0-Power Outage,438,60
+2800,Utility+AC0-Power Outage,438,60
+6066,Utility+AC0-Power Outage,2951,60
+709,Utility+AC0-Power Outage,438,60
+659,Utility+AC0-Power Outage,438,60
+669,Utility+AC0-Power Outage,438,60
+691,Utility+AC0-Power Outage,438,60
+677,Utility+AC0-Power Outage,438,60
+712,Utility+AC0-Power Outage,438,60
+671,Utility+AC0-Power Outage,438,60
+678,Utility+AC0-Power Outage,438,60
+722,Utility+AC0-Power Outage,438,60
+661,Utility+AC0-Power Outage,438,60
+688,Utility+AC0-Power Outage,438,60
+5903,Utility+AC0-Water Main,708,60
+4195,Utility+AC0-Water Main,6,60
+4625,Utility+AC0-Power Outage,67,60
+1299,Utility+AC0-Water Main,54,60
+6150,Utility+AC0-Gas High Pressure,50,60
+4427,Utility+AC0-Water Main,438,60
+2798,Utility+AC0-Water Main,438,60
+685,Utility+AC0-Water Main,438,60
+723,Utility+AC0-Water Main,438,60
+715,Utility+AC0-Water Main,438,60
+1846,Utility+AC0-Water Main,2951,60
+4537,Utility+AC0-Water Main,438,60
+779,Utility+AC0-Water Main,438,60
+784,Utility+AC0-Water Main,438,60
+3289,Utility+AC0-Water Main,438,60
+786,Utility+AC0-Water Main,438,60
+797,Utility+AC0-Water Main,438,60
+674,Utility+AC0-Water Main,438,60
+3563,Utility+AC0-Water Main,438,60
+4677,Utility+AC0-Water Main,438,60
+660,Utility+AC0-Water Main,438,60
+6188,Utility+AC0-Power Outage,98,60
+1647,Utility+AC0-Water Main,617,60
+3322,Utility+AC0-Water Main,1462,60
+749,Utility+AC0-Water Main,438,60
+800,Utility+AC0-Power Outage,438,60
+4292,Utility+AC0-Power Outage,594,60
+4626,Utility+AC0-Gas Main Rupture,251,60
+5510,Utility+AC0-Power Outage,132,60
+6152,Utility+AC0-Manhole,427,60
+3414,Utility+AC0-Gas High Pressure,547,60
+3080,Utility+AC0-Gas High Pressure,121,60
+4684,Utility+AC0-Gas High Pressure,2951,60
+3385,Utility+AC0-Water Main,619,60
+5498,Utility+AC0-Other,2910,60
+3060,Utility+AC0-Other,438,60
+900,Utility+AC0-Other,438,60
+2860,Utility+AC0-Other,247,60
+5158,Utility+AC0-Power Outage,65,60
+5350,Utility+AC0-Power Outage,148,60
+908,Utility+AC0-Transformer,438,60
+3791,Utility+AC0-Transformer,811,60
+914,Utility+AC0-Water Main,438,60
+901,Utility+AC0-Water Main,438,60
+940,Utility+AC0-Water Main,438,60
+6245,Utility+AC0-Water Main,2951,60
+6219,Utility+AC0-Gas High Pressure,981,60
+5593,Utility+AC0-Water Main,148,60
+1649,Utility+AC0-Water Main,1100,60
+962,Utility+AC0-Water Main,438,60
+4146,Utility+AC0-Gas High Pressure,218,60
+6467,Utility+AC0-Power Outage,153,60
+4606,Utility+AC0-Water Main,2197,60
+3459,Utility+AC0-Water Main,438,60
+988,Utility+AC0-Water Main,438,60
+1003,Utility+AC0-Transformer,438,60
+3624,Utility+AC0-Transformer,438,60
+3811,Utility+AC0-Transformer,438,60
+4354,Utility+AC0-Transformer,2951,60
+1013,Utility+AC0-Transformer,438,60
+1062,Utility+AC0-Transformer,438,60
+3618,Utility+AC0-Transformer,438,60
+3527,Utility+AC0-Transformer,438,60
+982,Utility+AC0-Transformer,438,60
+3499,Utility+AC0-Transformer,438,60
+3701,Utility+AC0-Transformer,438,60
+6351,Utility+AC0-Water Main,743,60
+6433,Utility+AC0-Other,157,60
+6153,Utility+AC0-Power Outage,389,60
+3469,Utility+AC0-Other,2951,60
+3688,Utility+AC0-Other,438,60
+1006,Utility+AC0-Other,438,60
+6443,Utility+AC0-Water Service Line,226,60
+1012,Utility+AC0-Water Main,438,60
+3616,Utility+AC0-Water Main,438,60
+2971,Utility+AC0-Water Main,2951,60
+6423,Utility+AC0-Electric Feeder Cable,438,60
+6138,Utility+AC0-Power Outage,172,60
+3242,Utility+AC0-Gas High Pressure,289,60
+6096,Utility+AC0-Gas High Pressure,16,60
+6246,Utility+AC0-Manhole,2951,60
+1026,Utility+AC0-Manhole,438,60
+1015,Utility+AC0-Manhole,438,60
+3691,Utility+AC0-Manhole,438,60
+3372,Utility+AC0-Gas High Pressure,151,60
+3554,Utility+AC0-Water Main,450,60
+1082,Utility+AC0-Power Outage,438,60
+5442,Utility+AC0-Power Outage,2951,60
+3627,Utility+AC0-Power Outage,438,60
+3591,Utility+AC0-Power Outage,438,60
+5369,Utility+AC0-Power Outage,957,60
+3290,Utility+AC0-Other,92,60
+7197,Utility+AC0-Water Main,438,60
+4629,Utility+AC0-Water Main,1841,60
+6139,Utility+AC0-Other,892,60
+4380,Utility+AC0-Other,438,60
+1365,Utility+AC0-Gas High Pressure,210,60
+3575,Utility+AC0-Other,480,60
+5761,Utility+AC0-Water Main,2951,60
+6485,Utility+AC0-Water Main,438,60
+7167,Utility+AC0-Water Main,438,60
+3727,Utility+AC0-Gas Main Rupture,309,60
+5267,Utility+AC0-Power Outage,853,60
+1909,Utility+AC0-Other,82,60
+6221,Utility+AC0-Gas High Pressure,833,60
+2085,Utility+AC0-Gas Low Pressure,190,60
+3216,Utility+AC0-Gas High Pressure,79,60
+154,Utility+AC0-Other,438,60
+129,Utility+AC0-Other,438,60
+160,Utility+AC0-Other,438,60
+5851,Utility+AC0-Other,2951,60
+458,Utility+AC0-Electric Overhead,438,60
+6361,Utility+AC0-Electric Overhead,1352,60
+1479,Utility+AC0-Other,804,60
+1532,Utility+AC0-Other,173,60
+1481,Utility+AC0-Other,507,60
+387,Utility+AC0-Other,438,60
+395,Utility+AC0-Water Main,438,60
+2832,Utility+AC0-Water Main,2615,60
+207,Utility+AC0-Water Main,438,60
+3348,Utility+AC0-Water Main,828,60
+4430,Utility+AC0-Gas Main Rupture,464,60
+462,Utility+AC0-Gas Main Rupture,438,60
+6041,Utility+AC0-Water Main,1388,60
+269,Utility+AC0-Water Main,438,60
+6290,Utility+AC0-Gas Service Line,438,60
+5889,Utility+AC0-Gas Service Line,2951,60
+599,Utility+AC0-Gas Service Line,438,60
+2917,Utility+AC0-Gas Main Rupture,85,60
+4223,Utility+AC0-Other,331,60
+288,Utility+AC0-Other,438,60
+2086,Utility+AC0-Gas High Pressure,1288,60
+329,Utility+AC0-Gas High Pressure,438,60
+2248,Utility+AC0-Gas Main Rupture,620,60
+292,Utility+AC0-Water Main,438,60
+6058,Utility+AC0-Water Main,1763,60
+5852,Utility+AC0-Gas High Pressure,199,60
+496,Utility+AC0-Water Main,438,60
+3328,Utility+AC0-Water Main,2653,60
+291,Utility+AC0-Water Main,438,60
+4104,Utility+AC0-Gas Main Rupture,777,60
+331,Utility+AC0-Manhole,438,60
+4909,Utility+AC0-Manhole,855,60
+4079,Utility+AC0-Other,166,60
+5458,Utility+AC0-Other,1211,60
+5633,Utility+AC0-Water Main,140,60
+4431,Utility+AC0-Other,2951,60
+330,Utility+AC0-Other,438,60
+413,Utility+AC0-Other,438,60
+501,Utility+AC0-Other,438,60
+2686,Utility+AC0-Power Outage,322,60
+274,Utility+AC0-Other,438,60
+4533,Utility+AC0-Other,1017,60
+335,Utility+AC0-Water Service Line,438,60
+5476,Utility+AC0-Water Service Line,1260,60
+5205,Utility+AC0-Other,603,60
+1769,Utility+AC0-Power Outage,438,60
+6238,Utility+AC0-Power Outage,438,60
+5964,Utility+AC0-Power Outage,438,60
+1751,Utility+AC0-Power Outage,438,60
+4511,Utility+AC0-Power Outage,604,60
+3104,Utility+AC0-Power Outage,121,60
+6237,Utility+AC0-Water Main,438,60
+365,Utility+AC0-Water Main,438,60
+366,Utility+AC0-Water Main,438,60
+5634,Utility+AC0-Water Main,2951,60
+1760,Utility+AC0-Other,438,60
+6107,Utility+AC0-Other,438,60
+5635,Utility+AC0-Other,2951,60
+6222,Utility+AC0-Other,438,60
+2612,Utility+AC0-Power Outage,2382,60
+697,Utility+AC0-Power Outage,438,60
+373,Utility+AC0-Power Outage,438,60
+5744,Utility+AC0-Power Outage,175,60
+6083,Utility+AC0-Other,2951,60
+1762,Utility+AC0-Other,438,60
+5762,Utility+AC0-Power Outage,97,60
+6042,Utility+AC0-Power Outage,167,60
+5871,Utility+AC0-Power Outage,358,60
+2861,Utility+AC0-Power Outage,161,60
+3755,Utility+AC0-Power Outage,305,60
+6114,Utility+AC0-Power Outage,438,60
+3351,Utility+AC0-Power Outage,158,60
+4224,Utility+AC0-Power Outage,132,60
+6082,Utility+AC0-Power Outage,438,60
+4714,Utility+AC0-Water Main,1045,60
+381,Utility+AC0-Electric Feeder Cable,438,60
+1633,Utility+AC0-Electric Feeder Cable,2950,60
+742,Utility+AC0-Electric Feeder Cable,438,60
+5953,Utility+AC0-Water Service Line,1682,60
+774,Utility+AC0-Water Service Line,438,60
+5555,Utility+AC0-Gas High Pressure,118,60
+1538,Utility+AC0-Water Main,670,60
+6205,Utility+AC0-Water Main,2951,60
+2920,Utility+AC0-Gas High Pressure,1504,60
+483,Utility+AC0-Gas High Pressure,438,60
+6175,Utility+AC0-Gas Service Line,285,60
+5954,Utility+AC0-Power Outage,794,60
+5530,Utility+AC0-Water Main,115,60
+5786,Utility+AC0-Gas High Pressure,266,60
+808,Utility+AC0-Water Main,438,60
+3217,Utility+AC0-Water Main,1279,60
+6016,Utility+AC0-Phone Outage,632,60
+4432,Utility+AC0-Gas High Pressure,342,60
+6100,Utility+AC0-Water Main,396,60
+4791,Utility+AC0-Gas Service Line,107,60
+4817,Utility+AC0-Gas High Pressure,214,60
+5654,Utility+AC0-Water Main,1047,60
+806,Utility+AC0-Water Main,438,60
+6059,Utility+AC0-Steam Main,2951,60
+3388,Utility+AC0-Manhole,198,60
+5830,Utility+AC0-Gas High Pressure,994,60
+5417,Utility+AC0-Water Main,597,60
+5399,Utility+AC0-Gas High Pressure,308,60
+6126,Utility+AC0-Gas High Pressure,153,60
+2158,Utility+AC0-Gas High Pressure,111,60
+3601,Utility+AC0-Gas Main Rupture,36,60
+6043,Utility+AC0-Other,489,60
+780,Utility+AC0-Water Service Line,438,60
+492,Utility+AC0-Water Service Line,438,60
+3158,Utility+AC0-Water Service Line,2951,60
+522,Utility+AC0-Water Service Line,438,60
+5893,Utility+AC0-Gas High Pressure,170,60
+3354,Utility+AC0-Other,1519,60
+534,Utility+AC0-Other,438,60
+875,Utility+AC0-Water Main,438,60
+579,Utility+AC0-Water Main,438,60
+2579,Utility+AC0-Water Main,2951,60
+588,Utility+AC0-Steam Service Line,438,60
+5573,Utility+AC0-Steam Service Line,795,60
+2637,Utility+AC0-Gas High Pressure,333,60
+642,Utility+AC0-Water Service Line,438,60
+5955,Utility+AC0-Water Service Line,600,60
+1673,Utility+AC0-Water Service Line,474,60
+927,Utility+AC0-Power Outage,438,60
+1716,Utility+AC0-Power Outage,509,60
+2772,Utility+AC0-Power Outage,438,60
+873,Utility+AC0-Power Outage,438,60
+738,Utility+AC0-Power Outage,438,60
+1533,Utility+AC0-Water Main,2151,60
+613,Utility+AC0-Water Main,125,60
+5598,Utility+AC0-Other,325,60
+4119,Utility+AC0-Power Outage,377,60
+4382,Utility+AC0-Gas Main Rupture,81,60
+3977,Utility+AC0-Gas Main Rupture,9,60
+5114,Utility+AC0-Gas High Pressure,843,60
+5284,Utility+AC0-Water Main,2951,60
+953,Utility+AC0-Water Main,438,60
+619,Utility+AC0-Water Main,438,60
+3331,Utility+AC0-Water Main,178,60
+958,Utility+AC0-Steam Main,438,60
+756,Utility+AC0-Steam Main,438,60
+870,Utility+AC0-Steam Main,438,60
+5637,Utility+AC0-Steam Main,2951,60
+5162,Utility+AC0-Water Main,1961,60
+757,Utility+AC0-Water Main,438,60
+957,Utility+AC0-Water Main,438,60
+759,Utility+AC0-Water Main,438,60
+764,Utility+AC0-Water Main,438,60
+2059,Utility+AC0-Water Main,2613,60
+616,Utility+AC0-Water Main,438,60
+2029,Utility+AC0-Water Main,2951,60
+1108,Utility+AC0-Water Main,438,60
+919,Utility+AC0-Water Main,438,60
+758,Utility+AC0-Water Main,438,60
+804,Utility+AC0-Water Main,438,60
+947,Utility+AC0-Sewer Service,438,60
+859,Utility+AC0-Sewer Service,438,60
+752,Utility+AC0-Sewer Service,438,60
+972,Utility+AC0-Sewer Service,438,60
+830,Utility+AC0-Sewer Service,438,60
+970,Utility+AC0-Sewer Service,438,60
+868,Utility+AC0-Sewer Service,438,60
+920,Utility+AC0-Sewer Service,438,60
+832,Utility+AC0-Sewer Service,438,60
+961,Utility+AC0-Sewer Service,438,60
+960,Utility+AC0-Sewer Service,438,60
+956,Utility+AC0-Sewer Service,438,60
+858,Utility+AC0-Sewer Service,438,60
+827,Utility+AC0-Sewer Service,438,60
+996,Utility+AC0-Sewer Service,438,60
+845,Utility+AC0-Sewer Service,438,60
+824,Utility+AC0-Sewer Service,438,60
+862,Utility+AC0-Sewer Service,438,60
+2251,Utility+AC0-Power Outage,44,60
+843,Utility+AC0-Sewer Service,438,60
+846,Utility+AC0-Sewer Service,2951,60
+2935,Utility+AC0-Sewer Service,438,60
+2833,Utility+AC0-Power Outage,183,60
+3221,Utility+AC0-Water Main,1679,60
+971,Utility+AC0-Water Main,438,60
+3218,Utility+AC0-Gas High Pressure,249,60
+3263,Utility+AC0-Power Outage,94,60
+917,Utility+AC0-Water Main,438,60
+969,Utility+AC0-Water Main,438,60
+974,Utility+AC0-Water Main,438,60
+915,Utility+AC0-Water Main,438,60
+847,Utility+AC0-Water Main,438,60
+3523,Utility+AC0-Gas High Pressure,118,60
+946,Utility+AC0-Other,438,60
+3756,Utility+AC0-Other,1707,60
+4515,Utility+AC0-Water Service Line,153,60
+929,Utility+AC0-Power Outage,389,60

@@ -1,0 +1,8 @@
+modelType,epochs,inputDim,xLength,yLength,learningRate,unitsHiddenLayer,typeTraining,trainingSize,miniBatchSize,typeAF,lossTraint,lossTest,RMSE,DiffMaxMin,stdDev,numPeaksTest,RMSEValFinal,stdValFinal,numPeaksValFinal,BestPrevIteration,bestRMSEVal,BestStd,ratioPeaks,testRMSEPrevVal,testLossPrevVal,testStdPrevVal,testPeaksPrevVal,folder,Comments,preproFile
+lstm_unguided,500,1,10,3,0.0001,100,RB,1423,200,sigmoid,0.027000000000000003,0.025,884,0.01,0.0021,0,924,0,0,0,inf,0,0,1033.0,0.04,0.009999999776482582,1.0011,20-06-01_08-21,,./Data/MixedPeriods/Fire.csv
+lstm_unguided,50000,1,10,3,0.01,10,AD,1423,200,sigmoid,0.025,0.03,971,0.42,0.0211,0,931,0,0,0,inf,0,0,1026.0,0.04,0.019999999552965164,0.9803,20-06-01_08-25,,./Data/MixedPeriods/Fire.csv
+lstm_unguided,50000,1,10,3,0.001,50,AD,1423,200,sigmoid,0.001,0.079,1606,1.0,0.1995,0,1397,0,0,0,inf,0,0,1106.0,0.04,0.0,0.0,20-06-01_09-00,,./Data/MixedPeriods/Fire.csv
+lstm_unguided,50000,1,10,3,0.0001,100,AD,1423,200,sigmoid,0.017,0.063,1434,1.0,0.1706,0,1385,0,0,0,inf,0,0,1106.0,0.04,0.0,0.0,20-06-01_10-15,,./Data/MixedPeriods/Fire.csv
+lstm_unguided,50000,1,10,3,0.01,10,RB,1423,200,sigmoid,0.028999999999999998,0.034,1033,0.3,0.0103,0,986,0,0,0,inf,0,0,1106.0,0.04,0.0,0.0,20-06-01_12-59,,./Data/MixedPeriods/Fire.csv
+lstm_unguided,50000,1,10,3,0.001,50,RB,1423,200,sigmoid,0.0,0.043,1148,0.98,0.1282,0,1134,0,0,0,inf,0,0,1106.0,0.04,0.0,0.0,20-06-01_13-58,,./Data/MixedPeriods/Fire.csv
+lstm_unguided,50000,1,10,3,0.0001,100,RB,1423,200,sigmoid,0.005,0.069,1497,1.0,0.1956,0,1491,0,0,0,inf,0,0,1106.0,0.04,0.0,0.0,20-06-01_15-57,,./Data/MixedPeriods/Fire.csv

@@ -1,0 +1,916 @@
+,Incident Type,Response Time,minute
+1029,Law Enforcement+AC0-Suspicious Package,42.56666666666667,60
+6452,Law Enforcement+AC0-Suspicious Package,67.11666666666667,60
+1085,Law Enforcement+AC0-Explosion,79.51666666666667,60
+1088,Law Enforcement+AC0-Suspicious Package,74.45,60
+6510,Law Enforcement+AC0-Suspicious Package,23.466666666666665,60
+1125,Law Enforcement+AC0-Suspicious Package,35.016666666666666,60
+1135,Law Enforcement+AC0-Suspicious Package,133.95000000000002,60
+1182,Law Enforcement+AC0-Suspicious Package,77.53333333333333,60
+1256,Law Enforcement+AC0-Suspicious Package,100.98333333333333,60
+1489,Law Enforcement+AC0-Suspicious Package,14.55,60
+1492,Law Enforcement+AC0-Suspicious Package,73.95,60
+1513,Law Enforcement+AC0-Suspicious Package,88.16666666666667,60
+6276,Law Enforcement+AC0-Suspicious Package,26.566666666666666,60
+6072,Law Enforcement+AC0-Suspicious Package,38.13333333333333,60
+6315,Law Enforcement+AC0-Device,25.316666666666666,60
+1657,Law Enforcement+AC0-Suspicious Package,47.43333333333333,60
+1680,Law Enforcement+AC0-Suspicious Package,50.21666666666667,60
+1693,Law Enforcement+AC0-Suspicious Package,74.88333333333334,60
+6277,Law Enforcement+AC0-Device,38.93333333333333,60
+1696,Law Enforcement+AC0-Suspicious Package,77.11666666666666,60
+1698,Law Enforcement+AC0-Suspicious Package,11.116666666666667,60
+1706,Law Enforcement+AC0-Device,16.000000000000004,60
+6447,Law Enforcement+AC0-Suspicious Package,45.733333333333334,60
+1727,Law Enforcement+AC0-Suspicious Package,83.55,60
+1772,Law Enforcement+AC0-Suspicious Package,67.26666666666668,60
+1778,Law Enforcement+AC0-Suspicious Package,67.55000000000001,60
+2061,Law Enforcement+AC0-Suspicious Package,1145.0,60
+1781,Law Enforcement+AC0-Suspicious Package,39.31666666666667,60
+1786,Law Enforcement+AC0-Suspicious Package,7.666666666666668,60
+1789,Law Enforcement+AC0-Suspicious Package,30.51666666666667,60
+1809,Law Enforcement+AC0-Suspicious Package,55.9,60
+6196,Law Enforcement+AC0-Haz Mat,115.5,60
+6528,Law Enforcement+AC0-Civil Unrest,1145.0,60
+1814,Law Enforcement+AC0-Suspicious Package,36.31666666666667,60
+1841,Law Enforcement+AC0-Device,52.81666666666667,60
+1884,Law Enforcement+AC0-Suspicious Package,51.166666666666664,60
+1887,Law Enforcement+AC0-Jumper Up,184.08333333333334,60
+1912,Law Enforcement+AC0-Bomb Threat,166.68333333333334,60
+6473,Law Enforcement+AC0-Device,214.01666666666668,60
+1964,Law Enforcement+AC0-Suspicious Package,47.28333333333333,60
+1968,Law Enforcement+AC0-Found Grenade,32.28333333333334,60
+1986,Law Enforcement+AC0-Suspicious Package,42.8,60
+1988,Law Enforcement+AC0-Suspicious Package,40.9,60
+1989,Law Enforcement+AC0-Suspicious Package,67.63333333333334,60
+1993,Law Enforcement+AC0-Suspicious Package,42.583333333333336,60
+6363,Law Enforcement+AC0-Suspicious Package,70.93333333333334,60
+2036,Law Enforcement+AC0-Suspicious Package,69.26666666666667,60
+6547,Law Enforcement+AC0-Suspicious Package,42.733333333333334,60
+2060,Law Enforcement+AC0-Suspicious Package,48.28333333333333,60
+2062,Law Enforcement+AC0-Suspicious Package,20.983333333333334,60
+2063,Law Enforcement+AC0-Suspicious Package,52.43333333333333,60
+2066,Law Enforcement+AC0-Suspicious Package,46.68333333333333,60
+2070,Law Enforcement+AC0-Suspicious Package,146.31666666666666,60
+6317,Law Enforcement+AC0-Suspicious Package,31.650000000000002,60
+2107,Law Enforcement+AC0-Suspicious Vehicle,35.46666666666667,60
+2108,Law Enforcement+AC0-Suspicious Package,45.36666666666667,60
+2118,Law Enforcement+AC0-Suspicious Package,46.0,60
+2135,Law Enforcement+AC0-Suspicious Package,85.36666666666666,60
+2136,Law Enforcement+AC0-Suspicious Package,124.23333333333335,60
+2139,Law Enforcement+AC0-Suspicious Package,55.233333333333334,60
+2145,Law Enforcement+AC0-Suspicious Package,21.416666666666668,60
+2149,Law Enforcement+AC0-Suspicious Package,108.58333333333333,60
+2202,Law Enforcement+AC0-Suspicious Package,31.083333333333336,60
+2221,Law Enforcement+AC0-Suspicious Package,27.15,60
+2261,Law Enforcement+AC0-Suspicious Package,31.16666666666667,60
+2283,Law Enforcement+AC0-Suspicious Package,70.56666666666666,60
+2290,Law Enforcement+AC0-Suspicious Package,56.13333333333333,60
+2304,Law Enforcement+AC0-Suspicious Package,45.18333333333333,60
+6550,Law Enforcement+AC0-Found Explosives,163.95,60
+2333,Law Enforcement+AC0-Suspicious Package,133.16666666666669,60
+2334,Law Enforcement+AC0-Suspicious Package,106.36666666666666,60
+2339,Law Enforcement+AC0-Suspicious Package,68.38333333333334,60
+6560,Law Enforcement+AC0-Suspicious Package,91.66666666666667,60
+2363,Law Enforcement+AC0-Suspicious Package,142.45,60
+2413,Law Enforcement+AC0-Suspicious Package,19.216666666666665,60
+2424,Law Enforcement+AC0-Suspicious Package,66.66666666666667,60
+2475,Law Enforcement+AC0-Suspicious Package,44.36666666666667,60
+2513,Law Enforcement+AC0-Suspicious Package,47.3,60
+2522,Law Enforcement+AC0-Suspicious Package,60.71666666666667,60
+2537,Law Enforcement+AC0-Suspicious Package,45.233333333333334,60
+2551,Law Enforcement+AC0-Suspicious Package,73.78333333333333,60
+2552,Law Enforcement+AC0-Suspicious Package,3.5833333333333335,60
+6592,Law Enforcement+AC0-Suspicious Package,20.983333333333334,60
+6562,Law Enforcement+AC0-Suspicious Package,65.23333333333333,60
+2568,Law Enforcement+AC0-Suspicious Package,11.583333333333334,60
+2574,Law Enforcement+AC0-Suspicious Package,32.483333333333334,60
+2585,Law Enforcement+AC0-Bomb Threat,57.45,60
+2590,Law Enforcement+AC0-Device,55.85,60
+6572,Law Enforcement+AC0-Haz Mat,225.21666666666667,60
+2596,Law Enforcement+AC0-Haz Mat,150.58333333333334,60
+2594,Law Enforcement+AC0-Haz Mat,64.28333333333335,60
+2597,Law Enforcement+AC0-Haz Mat,224.75,60
+2598,Law Enforcement+AC0-Haz Mat,91.2,60
+6551,Law Enforcement+AC0-Suspicious Package,99.21666666666667,60
+2617,Law Enforcement+AC0-Suspicious Package,13.533333333333333,60
+2640,Law Enforcement+AC0-Suspicious Package,56.15,60
+2641,Law Enforcement+AC0-Suspicious Package,44.68333333333333,60
+6479,Law Enforcement+AC0-Suspicious Package,54.25,60
+2647,Law Enforcement+AC0-Suspicious Package,307.05,60
+2669,Law Enforcement+AC0-Suspicious Package,638.4833333333333,60
+2690,Law Enforcement+AC0-Suspicious Package,107.85,60
+2705,Law Enforcement+AC0-Suspicious Package,45.766666666666666,60
+2709,Law Enforcement+AC0-Suspicious Package,129.41666666666669,60
+2722,Law Enforcement+AC0-Suspicious Package,27.716666666666665,60
+2724,Law Enforcement+AC0-Suspicious Package,28.566666666666666,60
+2728,Law Enforcement+AC0-Suspicious Package,66.46666666666667,60
+6615,Law Enforcement+AC0-White Powder,55.333333333333336,60
+2734,Law Enforcement+AC0-Suspicious Package,42.983333333333334,60
+6715,Law Enforcement+AC0-Suspicious Package,104.78333333333333,60
+6634,Law Enforcement+AC0-Suspicious Package,34.083333333333336,60
+2750,Law Enforcement+AC0-Suspicious Package,59.1,60
+2758,Law Enforcement+AC0-Suspicious Package,15.416666666666668,60
+2781,Law Enforcement+AC0-Suspicious Package,40.483333333333334,60
+6616,Law Enforcement+AC0-Suspicious Package,53.96666666666667,60
+2787,Law Enforcement+AC0-Device,71.5,60
+2816,Law Enforcement+AC0-Device,47.333333333333336,60
+2838,Law Enforcement+AC0-Device,35.95,60
+2839,Law Enforcement+AC0-Suspicious Package,38.61666666666667,60
+2841,Law Enforcement+AC0-Suspicious Package,48.15,60
+2842,Law Enforcement+AC0-Suspicious Package,18.45,60
+2845,Law Enforcement+AC0-Suspicious Package,48.416666666666664,60
+2871,Law Enforcement+AC0-Suspicious Package,39.53333333333333,60
+2886,Law Enforcement+AC0-Suspicious Package,52.8,60
+2889,Law Enforcement+AC0-Suspicious Package,42.2,60
+2892,Law Enforcement+AC0-Device,22.316666666666666,60
+2896,Law Enforcement+AC0-Haz Mat,137.31666666666666,60
+2898,Law Enforcement+AC0-Device,39.4,60
+2900,Law Enforcement+AC0-Haz Mat,25.433333333333334,60
+2910,Law Enforcement+AC0-Suspicious Package,76.86666666666666,60
+2923,Law Enforcement+AC0-Suspicious Package,34.75,60
+2925,Law Enforcement+AC0-Suspicious Package,51.483333333333334,60
+2929,Law Enforcement+AC0-Device,39.2,60
+6579,Law Enforcement+AC0-Suspicious Package,92.38333333333334,60
+2931,Law Enforcement+AC0-Suspicious Package,49.63333333333333,60
+2947,Law Enforcement+AC0-White Powder,55.21666666666667,60
+2954,Law Enforcement+AC0-Suspicious Package,123.78333333333335,60
+2957,Law Enforcement+AC0-Suspicious Package,52.88333333333333,60
+6597,Law Enforcement+AC0-Suspicious Package,32.56666666666667,60
+2959,Law Enforcement+AC0-Suspicious Package,74.6,60
+2975,Law Enforcement+AC0-Suspicious Vehicle,44.68333333333333,60
+6568,Law Enforcement+AC0-Suspicious Package,54.1,60
+2982,Law Enforcement+AC0-Suspicious Package,0.0,60
+6794,Law Enforcement+AC0-Suspicious Package,87.08333333333333,60
+2987,Law Enforcement+AC0-Device,66.58333333333334,60
+2988,Law Enforcement+AC0-Suspicious Package,47.78333333333333,60
+3065,Law Enforcement+AC0-Suspicious Package,57.71666666666667,60
+3079,Law Enforcement+AC0-Suspicious Package,61.866666666666674,60
+3090,Law Enforcement+AC0-Suspicious Package,22.183333333333334,60
+3092,Law Enforcement+AC0-Suspicious Package,29.583333333333332,60
+6816,Law Enforcement+AC0-Suspicious Package,47.1,60
+6839,Law Enforcement+AC0-Suspicious Package,16.983333333333334,60
+3116,Law Enforcement+AC0-Suspicious Package,95.0,60
+3114,Law Enforcement+AC0-Suspicious Powder,43.96666666666667,60
+6627,Law Enforcement+AC0-Suspicious Package,46.1,60
+3166,Law Enforcement+AC0-Suspicious Package,65.46666666666667,60
+3191,Law Enforcement+AC0-Suspicious Package,539.1833333333334,60
+3196,Law Enforcement+AC0-Device,20.95,60
+3202,Law Enforcement+AC0-Suspicious Package,37.516666666666666,60
+6638,Law Enforcement+AC0-Suspicious Package,43.983333333333334,60
+3222,Law Enforcement+AC0-Device,298.85,60
+3253,Law Enforcement+AC0-Un Authorized Tractor Trailer,0.0,60
+6661,Law Enforcement+AC0-Device,44.86666666666667,60
+3270,Law Enforcement+AC0-Suspicious Package,36.6,60
+6845,Law Enforcement+AC0-Device,39.733333333333334,60
+3296,Law Enforcement+AC0-Suspicious Package,31.150000000000002,60
+3298,Law Enforcement+AC0-Device,33.81666666666667,60
+6872,Law Enforcement+AC0-Suspicious Package,70.05,60
+3308,Law Enforcement+AC0-Suspicious Package,10.233333333333333,60
+3309,Law Enforcement+AC0-Suspicious Package,100.36666666666666,60
+6699,Law Enforcement+AC0-Suspicious Package,8.733333333333333,60
+6881,Law Enforcement+AC0-Suspicious Package,55.25,60
+3332,Law Enforcement+AC0-Suspicious Package,8.7,60
+3337,Law Enforcement+AC0-Suspicious Package,25.716666666666665,60
+3338,Law Enforcement+AC0-Suspicious Package,75.71666666666667,60
+3359,Law Enforcement+AC0-Suspicious Package,41.61666666666667,60
+6925,Law Enforcement+AC0-Suspicious Package,42.18333333333333,60
+6913,Law Enforcement+AC0-Suspicious Package,92.4,60
+3396,Law Enforcement+AC0-Device,52.43333333333333,60
+3399,Law Enforcement+AC0-Suspicious Package,43.18333333333333,60
+3400,Law Enforcement+AC0-Suspicious Package,83.58333333333333,60
+3401,Law Enforcement+AC0-Suspicious Package,92.93333333333334,60
+3403,Law Enforcement+AC0-Suspicious Package,58.55,60
+3404,Law Enforcement+AC0-Suspicious Package,77.43333333333334,60
+3405,Law Enforcement+AC0-Suspicious Package,39.71666666666667,60
+3406,Law Enforcement+AC0-Suspicious Package,39.233333333333334,60
+6903,Law Enforcement+AC0-Suspicious Package,101.98333333333333,60
+3417,Law Enforcement+AC0-Suspicious Package,59.083333333333336,60
+3418,Law Enforcement+AC0-Suspicious Package,55.45,60
+3420,Law Enforcement+AC0-Suspicious Package,211.63333333333333,60
+6730,Law Enforcement+AC0-Suspicious Package,94.2,60
+3423,Law Enforcement+AC0-Suspicious Vehicle,84.88333333333334,60
+6739,Law Enforcement+AC0-Suspicious Package,63.06666666666668,60
+6896,Law Enforcement+AC0-Suspicious Package,504.66666666666674,60
+3424,Law Enforcement+AC0-Suspicious Package,61.51666666666667,60
+6873,Law Enforcement+AC0-Suspicious Package,38.833333333333336,60
+3425,Law Enforcement+AC0-Suspicious Package,100.15,60
+3426,Law Enforcement+AC0-Suspicious Package,57.68333333333333,60
+3438,Law Enforcement+AC0-Device,126.23333333333335,60
+3442,Law Enforcement+AC0-Suspicious Package,49.516666666666666,60
+3448,Law Enforcement+AC0-Suspicious Package,44.983333333333334,60
+3451,Law Enforcement+AC0-Suspicious Package,76.45,60
+3453,Law Enforcement+AC0-Suspicious Package,60.35,60
+3455,Law Enforcement+AC0-Suspicious Package,14.083333333333334,60
+3473,Law Enforcement+AC0-Suspicious Package,45.9,60
+3475,Law Enforcement+AC0-Bomb Threat,49.083333333333336,60
+3481,Law Enforcement+AC0-Suspicious Package,69.61666666666666,60
+3500,Law Enforcement+AC0-Suspicious Package,333.6166666666667,60
+3501,Law Enforcement+AC0-Suspicious Package,59.833333333333336,60
+6915,Law Enforcement+AC0-Suspicious Vehicle,97.2,60
+3507,Law Enforcement+AC0-Suspicious Package,44.583333333333336,60
+6772,Law Enforcement+AC0-Suspicious Substance,1145.0,60
+3510,Law Enforcement+AC0-Suspicious Substance,1145.0,60
+6710,Law Enforcement+AC0-Suspicious Package,48.916666666666664,60
+3511,Law Enforcement+AC0-Suspicious Package,0.0,60
+6773,Law Enforcement+AC0-Suspicious Powder,245.0166666666667,60
+3515,Law Enforcement+AC0-Suspicious Package,9.583333333333334,60
+3525,Law Enforcement+AC0-Suspicious Package,216.78333333333333,60
+6711,Law Enforcement+AC0-Suspicious Package,84.35,60
+3530,Law Enforcement+AC0-Suspicious Package,87.03333333333333,60
+6944,Law Enforcement+AC0-Suspicious Package,27.283333333333335,60
+6875,Law Enforcement+AC0-Suspicious Package,44.95,60
+3586,Law Enforcement+AC0-Suspicious Package,25.183333333333334,60
+3587,Law Enforcement+AC0-Suspicious Package,27.75,60
+3588,Law Enforcement+AC0-Suspicious Package,43.81666666666667,60
+3606,Law Enforcement+AC0-White Powder,90.46666666666667,60
+6782,Law Enforcement+AC0-Suspicious Package,27.65,60
+3612,Law Enforcement+AC0-Suspicious Package,13.066666666666666,60
+3637,Law Enforcement+AC0-Suspicious Vehicle,8.350000000000001,60
+3642,Law Enforcement+AC0-Suspicious Package,43.233333333333334,60
+6965,Law Enforcement+AC0-Suspicious Package,24.8,60
+6900,Law Enforcement+AC0-Suspicious Package,40.333333333333336,60
+6989,Law Enforcement+AC0-Suspicious Package,20.933333333333334,60
+3685,Law Enforcement+AC0-Suspicious Package,78.96666666666667,60
+3706,Law Enforcement+AC0-Haz Mat,1145.0,60
+3710,Law Enforcement+AC0-Suspicious Package,45.666666666666664,60
+3712,Law Enforcement+AC0-Suspicious Package,132.5666666666667,60
+3717,Law Enforcement+AC0-Report of Police Officer Shot,5.066666666666666,60
+3732,Law Enforcement+AC0-Suspicious Package,114.01666666666667,60
+6920,Law Enforcement+AC0-Suspicious Package,98.55,60
+3771,Law Enforcement+AC0-Device,46.983333333333334,60
+4056,Law Enforcement+AC0-Suspicious Device,1145.0,60
+3776,Law Enforcement+AC0-Suspicious Package,66.85000000000001,60
+3795,Law Enforcement+AC0-Suspicious Package,426.05,60
+3796,Law Enforcement+AC0-Suspicious Package,166.71666666666667,60
+6929,Law Enforcement+AC0-Suspicious Package,78.8,60
+3798,Law Enforcement+AC0-Suspicious Package,57.28333333333333,60
+3799,Law Enforcement+AC0-Suspicious Package,49.916666666666664,60
+3802,Law Enforcement+AC0-Suspicious Package,98.56666666666666,60
+6894,Law Enforcement+AC0-Suspicious Package,46.03333333333333,60
+3805,Law Enforcement+AC0-Suspicious Package,67.61666666666667,60
+3806,Law Enforcement+AC0-Suspicious Package,52.233333333333334,60
+3808,Law Enforcement+AC0-Suspicious Package,129.73333333333335,60
+3821,Law Enforcement+AC0-Suspicious Package,753.4333333333333,60
+3822,Law Enforcement+AC0-Suspicious Package,52.85,60
+3824,Law Enforcement+AC0-Suspicious Vehicle,58.9,60
+6953,Law Enforcement+AC0-Suspicious Package,1145.0,60
+6866,Law Enforcement+AC0-Suspicious Package,74.5,60
+3825,Law Enforcement+AC0-Suspicious Package,36.03333333333333,60
+4039,Law Enforcement+AC0-Suspicious Package,1145.0,60
+3826,Law Enforcement+AC0-Suspicious Package,15.816666666666668,60
+6814,Law Enforcement+AC0-Suspicious Package,66.85000000000001,60
+3829,Law Enforcement+AC0-Suspicious Package,33.983333333333334,60
+3831,Law Enforcement+AC0-Device,54.233333333333334,60
+3843,Law Enforcement+AC0-Suspicious Package,189.55,60
+6952,Law Enforcement+AC0-Suspicious Package,1145.0,60
+3845,Law Enforcement+AC0-Suspicious Package,29.133333333333333,60
+3847,Law Enforcement+AC0-Suspicious Package,30.0,60
+3850,Law Enforcement+AC0-Suspicious Package,72.2,60
+3857,Law Enforcement+AC0-Missing Person,1145.0,60
+3858,Law Enforcement+AC0-Suspicious Package,21.0,60
+3871,Law Enforcement+AC0-Suspicious Package,108.03333333333333,60
+3875,Law Enforcement+AC0-Suspicious Package,98.91666666666667,60
+4033,Law Enforcement+AC0-Suspicious Package,1145.0,60
+6902,Law Enforcement+AC0-Suspicious Vehicle,226.45,60
+6908,Law Enforcement+AC0-Suspicious Package,156.36666666666667,60
+3984,Law Enforcement+AC0-Possible Bomb Threat,26.066666666666666,60
+3986,Law Enforcement+AC0-Suspicious Package,37.583333333333336,60
+4013,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4011,Law Enforcement+AC0-School Evacuation,155.66666666666666,60
+4018,Law Enforcement+AC0-Suspicious Package,55.65,60
+7024,Law Enforcement+AC0-Suspicious Vehicle,18.483333333333334,60
+4060,Law Enforcement+AC0-Suspicious Package,35.11666666666667,60
+4063,Law Enforcement+AC0-Suspicious Package,75.4,60
+4064,Law Enforcement+AC0-Device,46.03333333333333,60
+7101,Law Enforcement+AC0-Suspicious Package,67.4,60
+4088,Law Enforcement+AC0-Subway Track Search,159.61666666666667,60
+4123,Law Enforcement+AC0-Suspicious Package,63.183333333333344,60
+6982,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7044,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4176,Law Enforcement+AC0-Suspicious Package,88.11666666666666,60
+6963,Law Enforcement+AC0-Explosion,125.15000000000002,60
+4212,Law Enforcement+AC0-Mobilization,74.81666666666666,60
+7016,Law Enforcement+AC0-Suspicious Package,44.35,60
+7103,Law Enforcement+AC0-School Lock Down,24.466666666666665,60
+7001,Law Enforcement+AC0-Suspicious Package,73.46666666666667,60
+7017,Law Enforcement+AC0-Suspicious Package,47.03333333333333,60
+4256,Law Enforcement+AC0-Suspicious Package,94.18333333333334,60
+4258,Law Enforcement+AC0-Explosion,445.8666666666667,60
+7110,Law Enforcement+AC0-Suspicious Package,16.35,60
+4275,Law Enforcement+AC0-Suspicious Package,47.583333333333336,60
+4300,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4287,Law Enforcement+AC0-Suspicious Package,171.15,60
+4309,Law Enforcement+AC0-Haz Mat,1145.0,60
+7125,Law Enforcement+AC0-Suspicious Package,4.183333333333334,60
+4339,Law Enforcement+AC0-Suspicious powder,1145.0,60
+4406,Law Enforcement+AC0-Suspicious Package,94.55,60
+4452,Law Enforcement+AC0-Suspicious Package,1.8666666666666667,60
+4455,Law Enforcement+AC0-Suspicious Package,171.08333333333334,60
+4456,Law Enforcement+AC0-Suspicious Package,14.433333333333334,60
+7064,Law Enforcement+AC0-Suspicious Package,71.83333333333333,60
+7065,Law Enforcement+AC0-Device,40.55,60
+7094,Law Enforcement+AC0-Suspicious Package,54.06666666666667,60
+7066,Law Enforcement+AC0-Suspicious Package,106.3,60
+4475,Law Enforcement+AC0-Suspicious Vehicle,56.06666666666667,60
+7082,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7157,Law Enforcement+AC0-Suspicious Package,67.13333333333334,60
+7095,Law Enforcement+AC0-Suspicious Package,73.46666666666667,60
+4502,Law Enforcement+AC0-Suspicious Package,74.35,60
+4516,Law Enforcement+AC0-Residence Search,245.66666666666669,60
+7096,Law Enforcement+AC0-Suspicious Package,72.83333333333333,60
+7128,Law Enforcement+AC0-Suspicious Package,85.01666666666667,60
+7201,Law Enforcement+AC0-Suspicious Package,47.85,60
+4544,Law Enforcement+AC0-Suspicious Package,172.66666666666666,60
+4568,Law Enforcement+AC0-Suspicious Package,34.03333333333334,60
+7098,Law Enforcement+AC0-Report of a Bomb Threat,93.9,60
+4793,Law Enforcement+AC0-Suspicious Package,33.333333333333336,60
+5147,Law Enforcement+AC0-Bomb Threat,64.78333333333335,60
+7141,Law Enforcement+AC0-Suspicious Package,67.48333333333333,60
+4586,Law Enforcement+AC0-Suspicious Package,67.48333333333333,60
+7234,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4588,Law Enforcement+AC0-Other,283.7,60
+4592,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7132,Law Enforcement+AC0-Suspicious Package,57.96666666666667,60
+4656,Law Enforcement+AC0-Other,1145.0,60
+4615,Law Enforcement+AC0-Suspicious Package,31.683333333333337,60
+7134,Law Enforcement+AC0-Suspicious Package,46.55,60
+4621,Law Enforcement+AC0-Suspicious Package,26.366666666666667,60
+7259,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7120,Law Enforcement+AC0-Suspicious Package,34.050000000000004,60
+7122,Law Enforcement+AC0-Suspicious Package,74.58333333333333,60
+7123,Law Enforcement+AC0-Suspicious Package,53.36666666666667,60
+4639,Law Enforcement+AC0-Suspicious Package,39.65,60
+7146,Law Enforcement+AC0-Device,83.3,60
+7147,Law Enforcement+AC0-Device,61.88333333333334,60
+7149,Law Enforcement+AC0-Device,166.96666666666667,60
+4645,Law Enforcement+AC0-Haz Mat,88.73333333333333,60
+7153,Law Enforcement+AC0-Suspicious Package,35.916666666666664,60
+7164,Law Enforcement+AC0-Suspicious Package,84.4,60
+7237,Law Enforcement+AC0-Suspicious Package,7.666666666666668,60
+4663,Law Enforcement+AC0-Haz Mat,1145.0,60
+4665,Law Enforcement+AC0-Other,1145.0,60
+4660,Law Enforcement+AC0-Device,61.26666666666667,60
+4661,Law Enforcement+AC0-Suspicious Package,44.75,60
+4664,Law Enforcement+AC0-Suspicious Package,789.0833333333334,60
+7184,Law Enforcement+AC0-Suspicious Package,119.7,60
+4911,Law Enforcement+AC0-Other,1145.0,60
+4751,Law Enforcement+AC0-Suspicious Package,35.93333333333333,60
+7214,Law Enforcement+AC0-Suspicious Package,68.55,60
+7218,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4785,Law Enforcement+AC0-Suspicious Package,270.55,60
+7287,Law Enforcement+AC0-Suspicious Package,29.366666666666667,60
+4799,Law Enforcement+AC0-Suspicious Package,34.85,60
+4802,Law Enforcement+AC0-Suspicious Package,78.9,60
+7284,Law Enforcement+AC0-Suspicious Package,174.95,60
+4805,Law Enforcement+AC0-Suspicious Package,85.43333333333334,60
+4807,Law Enforcement+AC0-Suspicious Package,74.63333333333334,60
+4838,Law Enforcement+AC0-Haz Mat,1145.0,60
+4841,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7263,Law Enforcement+AC0-Other,1145.0,60
+4844,Law Enforcement+AC0-Other,1145.0,60
+7246,Law Enforcement+AC0-Suspicious Package,23.6,60
+4843,Law Enforcement+AC0-Suspicious Package,38.25,60
+4845,Law Enforcement+AC0-Suspicious Package,74.31666666666666,60
+7257,Law Enforcement+AC0-Suspicious Package,55.45,60
+4855,Law Enforcement+AC0-Suspicious Package,9.35,60
+5271,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4856,Law Enforcement+AC0-Suspicious Package,59.8,60
+4875,Law Enforcement+AC0-Suspicious Package,46.86666666666667,60
+7264,Law Enforcement+AC0-Suspicious Package,22.216666666666665,60
+7267,Law Enforcement+AC0-Suspicious Package,30.466666666666672,60
+4891,Law Enforcement+AC0-Suspicious Package,89.35,60
+4894,Law Enforcement+AC0-Suspicious Package,61.433333333333344,60
+4896,Law Enforcement+AC0-Suspicious Package,67.81666666666668,60
+4958,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4953,Law Enforcement+AC0-Suspicious Package,43.4,60
+7309,Law Enforcement+AC0-Other,868.2,60
+7286,Law Enforcement+AC0-Suspicious Package,32.68333333333334,60
+5016,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4978,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4962,Law Enforcement+AC0-Suspicious Package,77.43333333333334,60
+4974,Law Enforcement+AC0-Suspicious Package,460.23333333333335,60
+7332,Law Enforcement+AC0-Suspicious Package,92.48333333333333,60
+5048,Law Enforcement+AC0-Other,1145.0,60
+4987,Law Enforcement+AC0-Suspicious Package,86.38333333333334,60
+5025,Law Enforcement+AC0-Suspicious Package,35.28333333333333,60
+5043,Law Enforcement+AC0-Suspicious Package,69.3,60
+5044,Law Enforcement+AC0-Suspicious Package,325.1166666666667,60
+7336,Law Enforcement+AC0-Explosion,29.483333333333334,60
+5072,Law Enforcement+AC0-Device,588.75,60
+7526,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7342,Law Enforcement+AC0-Suspicious Package,70.05,60
+7373,Law Enforcement+AC0-Other,1145.0,60
+5100,Law Enforcement+AC0-Suspicious Package,110.61666666666666,60
+5104,Law Enforcement+AC0-Device,53.916666666666664,60
+5130,Law Enforcement+AC0-Mobilization,79.61666666666666,60
+5188,Law Enforcement+AC0-Mobilization,596.25,60
+5192,Law Enforcement+AC0-Suspicious Package,41.733333333333334,60
+5209,Law Enforcement+AC0-Suspicious Package,106.28333333333333,60
+5211,Law Enforcement+AC0-Suspicious Package,73.96666666666667,60
+5228,Law Enforcement+AC0-Suspicious Package,22.233333333333334,60
+7369,Law Enforcement+AC0-Suspicious Package,64.11666666666667,60
+7402,Law Enforcement+AC0-Suspicious Package,34.63333333333333,60
+7409,Law Enforcement+AC0-Device,71.41666666666667,60
+7413,Law Enforcement+AC0-Suspicious Package,82.03333333333333,60
+5357,Law Enforcement+AC0-Suspicious Package,142.11666666666667,60
+5360,Law Enforcement+AC0-Other,47.88333333333333,60
+7428,Law Enforcement+AC0-Haz Mat,17.566666666666666,60
+5482,Law Enforcement+AC0-Suspicious Package,95.18333333333334,60
+7457,Law Enforcement+AC0-Device,107.56666666666666,60
+7460,Law Enforcement+AC0-Suspicious Package,53.13333333333333,60
+5673,Law Enforcement+AC0-Suspicious Package,33.2,60
+7475,Law Enforcement+AC0-Suspicious Package,67.7,60
+5766,Law Enforcement+AC0-Other,136.26666666666668,60
+5771,Law Enforcement+AC0-Other,53.35,60
+7501,Law Enforcement+AC0-Suspicious Package,189.93333333333334,60
+7509,Law Enforcement+AC0-Other,768.5,60
+6311,Law Enforcement+AC0-Suspicious Package,29.466666666666665,60
+7517,Law Enforcement+AC0-Other,1145.0,60
+7530,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7531,Law Enforcement+AC0-Haz Mat,1145.0,60
+7522,Law Enforcement+AC0-Suspicious Package,146.76666666666668,60
+7523,Law Enforcement+AC0-Suspicious Package,34.36666666666667,60
+7528,Law Enforcement+AC0-Device,160.63333333333333,60
+7529,Law Enforcement+AC0-Device,43.983333333333334,60
+7532,Law Enforcement+AC0-Civil Unrest,223.81666666666666,60
+6127,Law Enforcement+AC0-Mobilization,0.6,60
+5835,Law Enforcement+AC0-Other,63.683333333333344,60
+7575,Law Enforcement+AC0-Other,42.5,60
+7577,Law Enforcement+AC0-Suspicious Package,50.45,60
+7581,Law Enforcement+AC0-Suspicious Package,91.03333333333333,60
+7582,Law Enforcement+AC0-Other,66.68333333333334,60
+7583,Law Enforcement+AC0-Suspicious Package,19.25,60
+7590,Law Enforcement+AC0-Suspicious Package,77.05,60
+7597,Law Enforcement+AC0-Suspicious Package,67.46666666666667,60
+7605,Law Enforcement+AC0-Suspicious Package,28.1,60
+7619,Law Enforcement+AC0-Suspicious Package,115.56666666666666,60
+7628,Law Enforcement+AC0-Other,93.56666666666666,60
+7629,Law Enforcement+AC0-Haz Mat,113.93333333333334,60
+7631,Law Enforcement+AC0-Other,38.56666666666667,60
+7632,Law Enforcement+AC0-Device,81.78333333333333,60
+7634,Law Enforcement+AC0-Suspicious Package,20.55,60
+7639,Law Enforcement+AC0-Suspicious Package,173.16666666666666,60
+7642,Law Enforcement+AC0-Suspicious Package,54.166666666666664,60
+7654,Law Enforcement+AC0-Suspicious Package,58.7,60
+7656,Law Enforcement+AC0-Suspicious Package,22.166666666666668,60
+5243,Law Enforcement+AC0-Suspicious Package,65.68333333333334,60
+7664,Law Enforcement+AC0-Device,123.01666666666668,60
+6436,Law Enforcement+AC0-Haz Mat,224.1,60
+7667,Law Enforcement+AC0-Other,126.53333333333335,60
+7669,Law Enforcement+AC0-Suspicious Package,59.56666666666667,60
+7670,Law Enforcement+AC0-Suspicious Package,65.33333333333334,60
+7685,Law Enforcement+AC0-Suspicious Package,233.73333333333332,60
+7690,Law Enforcement+AC0-Other,213.48333333333332,60
+7693,Law Enforcement+AC0-Suspicious Package,85.55,60
+7698,Law Enforcement+AC0-Suspicious Package,59.3,60
+7702,Law Enforcement+AC0-Device,54.416666666666664,60
+7707,Law Enforcement+AC0-Other,690.6,60
+7708,Law Enforcement+AC0-Other,18.05,60
+7711,Law Enforcement+AC0-Suspicious Package,72.23333333333333,60
+7714,Law Enforcement+AC0-Suspicious Package,90.3,60
+7727,Law Enforcement+AC0-Explosion,69.13333333333334,60
+7737,Law Enforcement+AC0-Device,66.65,60
+7742,Law Enforcement+AC0-Device,61.800000000000004,60
+7760,Law Enforcement+AC0-Suspicious Package,37.416666666666664,60
+7768,Law Enforcement+AC0-Other,14.816666666666666,60
+7776,Law Enforcement+AC0-Device,49.416666666666664,60
+7798,Law Enforcement+AC0-Device,37.61666666666667,60
+7808,Law Enforcement+AC0-Suspicious Package,106.43333333333334,60
+7887,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7825,Law Enforcement+AC0-Suspicious Package,48.666666666666664,60
+7827,Law Enforcement+AC0-Suspicious Package,54.06666666666667,60
+7836,Law Enforcement+AC0-Suspicious Package,79.05,60
+7848,Law Enforcement+AC0-Other,16.233333333333334,60
+7874,Law Enforcement+AC0-Suspicious Package,13.233333333333333,60
+7881,Law Enforcement+AC0-Suspicious Package,340.56666666666666,60
+7891,Law Enforcement+AC0-Suspicious Package,59.36666666666667,60
+7892,Law Enforcement+AC0-Suspicious Package,61.466666666666676,60
+7895,Law Enforcement+AC0-Suspicious Package,40.86666666666667,60
+7902,Law Enforcement+AC0-Device,62.91666666666667,60
+7908,Law Enforcement+AC0-Suspicious Package,62.85000000000001,60
+7910,Law Enforcement+AC0-Suspicious Package,27.283333333333335,60
+7919,Law Enforcement+AC0-Other,17.2,60
+7926,Law Enforcement+AC0-Other,46.166666666666664,60
+7931,Law Enforcement+AC0-Suspicious Package,55.25,60
+7933,Law Enforcement+AC0-Suspicious Package,49.28333333333333,60
+7935,Law Enforcement+AC0-Device,65.11666666666667,60
+7939,Law Enforcement+AC0-Suspicious Package,97.66666666666667,60
+7968,Law Enforcement+AC0-Other,31.583333333333336,60
+7989,Law Enforcement+AC0-Suspicious Package,49.78333333333333,60
+7992,Law Enforcement+AC0-Suspicious Package,3.6,60
+8009,Law Enforcement+AC0-Suspicious Package,1145.0,60
+7997,Law Enforcement+AC0-Suspicious Package,48.65,60
+8008,Law Enforcement+AC0-Suspicious Package,352.4,60
+8020,Law Enforcement+AC0-Suspicious Package,54.88333333333333,60
+8024,Law Enforcement+AC0-Suspicious Package,59.266666666666666,60
+8031,Law Enforcement+AC0-Suspicious Package,1145.0,60
+8027,Law Enforcement+AC0-Other,56.3,60
+8040,Law Enforcement+AC0-Suspicious Package,63.650000000000006,60
+8043,Law Enforcement+AC0-Suspicious Package,81.45,60
+8047,Law Enforcement+AC0-Other,112.03333333333333,60
+8055,Law Enforcement+AC0-Suspicious Package,71.8,60
+8057,Law Enforcement+AC0-Suspicious Package,89.31666666666666,60
+8069,Law Enforcement+AC0-Suspicious Package,16.033333333333335,60
+8084,Law Enforcement+AC0-Suspicious Package,59.416666666666664,60
+8087,Law Enforcement+AC0-Suspicious Package,19.883333333333333,60
+8092,Law Enforcement+AC0-Suspicious Package,45.15,60
+8099,Law Enforcement+AC0-Suspicious Package,98.65,60
+8108,Law Enforcement+AC0-Suspicious Package,349.5,60
+8125,Law Enforcement+AC0-Suspicious Package,128.88333333333335,60
+8128,Law Enforcement+AC0-Suspicious Package,33.13333333333334,60
+8130,Law Enforcement+AC0-Device,145.01666666666668,60
+8137,Law Enforcement+AC0-Suspicious Package,4.95,60
+8160,Law Enforcement+AC0-Other,277.3833333333333,60
+8165,Law Enforcement+AC0-Other,51.666666666666664,60
+8166,Law Enforcement+AC0-Suspicious Package,30.466666666666672,60
+8175,Law Enforcement+AC0-Other,263.9166666666667,60
+8176,Law Enforcement+AC0-Other,86.71666666666667,60
+8223,Law Enforcement+AC0-Suspicious Package,39.18333333333333,60
+8273,Law Enforcement+AC0-Suspicious Package,1145.0,60
+8258,Law Enforcement+AC0-Device,34.96666666666667,60
+8259,Law Enforcement+AC0-Device,94.43333333333334,60
+8266,Law Enforcement+AC0-Other,233.16666666666666,60
+8276,Law Enforcement+AC0-Suspicious Package,6.683333333333334,60
+8278,Law Enforcement+AC0-Other,45.21666666666667,60
+8291,Law Enforcement+AC0-Other,1145.0,60
+8295,Law Enforcement+AC0-Suspicious Package,16.933333333333334,60
+8312,Law Enforcement+AC0-Suspicious Package,26.983333333333334,60
+8324,Law Enforcement+AC0-Other,104.76666666666667,60
+8327,Law Enforcement+AC0-Suspicious Package,51.766666666666666,60
+8335,Law Enforcement+AC0-Suspicious Package,62.70000000000001,60
+8338,Law Enforcement+AC0-Device,92.91666666666667,60
+8350,Law Enforcement+AC0-Other,69.05,60
+8353,Law Enforcement+AC0-Suspicious Package,71.88333333333334,60
+8360,Law Enforcement+AC0-Suspicious Package,45.36666666666667,60
+8364,Law Enforcement+AC0-Other,28.366666666666667,60
+8367,Law Enforcement+AC0-Suspicious Package,97.71666666666667,60
+8374,Law Enforcement+AC0-Suspicious Package,616.8333333333334,60
+8375,Law Enforcement+AC0-Suspicious Package,27.4,60
+8376,Law Enforcement+AC0-Other,181.95,60
+8382,Law Enforcement+AC0-Other,72.26666666666667,60
+8385,Law Enforcement+AC0-Suspicious Package,102.31666666666666,60
+8413,Law Enforcement+AC0-Other,56.36666666666667,60
+8415,Law Enforcement+AC0-Suspicious Package,59.0,60
+8430,Law Enforcement+AC0-Device,28.3,60
+8436,Law Enforcement+AC0-Haz Mat,89.06666666666666,60
+8439,Law Enforcement+AC0-Suspicious Package,55.983333333333334,60
+8444,Law Enforcement+AC0-Suspicious Package,10.95,60
+8446,Law Enforcement+AC0-Suspicious Package,64.56666666666668,60
+8453,Law Enforcement+AC0-Device,75.45,60
+8465,Law Enforcement+AC0-Suspicious Package,829.15,60
+8470,Law Enforcement+AC0-Device,53.7,60
+8481,Law Enforcement+AC0-Haz Mat,126.25000000000001,60
+8486,Law Enforcement+AC0-Haz Mat,827.1666666666666,60
+8499,Law Enforcement+AC0-Suspicious Package,50.13333333333333,60
+8503,Law Enforcement+AC0-Suspicious Package,634.25,60
+8510,Law Enforcement+AC0-Suspicious Package,75.51666666666667,60
+8513,Law Enforcement+AC0-Suspicious Package,15.883333333333335,60
+8520,Law Enforcement+AC0-Other,92.31666666666666,60
+8548,Law Enforcement+AC0-Haz Mat,1145.0,60
+8539,Law Enforcement+AC0-Suspicious Package,13.633333333333333,60
+8552,Law Enforcement+AC0-Suspicious Package,17.783333333333335,60
+8568,Law Enforcement+AC0-Other,26.45,60
+8572,Law Enforcement+AC0-Device,45.45,60
+8589,Law Enforcement+AC0-Device,42.266666666666666,60
+8598,Law Enforcement+AC0-Suspicious Package,98.86666666666666,60
+8603,Law Enforcement+AC0-Suspicious Package,28.583333333333332,60
+8617,Law Enforcement+AC0-Suspicious Package,20.9,60
+8644,Law Enforcement+AC0-Device,73.2,60
+8656,Law Enforcement+AC0-Device,23.733333333333334,60
+8669,Law Enforcement+AC0-Suspicious Package,10.416666666666666,60
+8679,Law Enforcement+AC0-Suspicious Package,41.81666666666667,60
+8687,Law Enforcement+AC0-Device,103.43333333333334,60
+8689,Law Enforcement+AC0-Other,50.38333333333333,60
+8692,Law Enforcement+AC0-Device,123.76666666666668,60
+8693,Law Enforcement+AC0-Suspicious Package,55.36666666666667,60
+8703,Law Enforcement+AC0-Suspicious Package,45.78333333333333,60
+8706,Law Enforcement+AC0-Suspicious Package,63.966666666666676,60
+8712,Law Enforcement+AC0-Suspicious Package,6.866666666666666,60
+8725,Law Enforcement+AC0-Suspicious Package,83.68333333333334,60
+8726,Law Enforcement+AC0-Suspicious Package,48.6,60
+8728,Law Enforcement+AC0-Other,206.61666666666667,60
+8731,Law Enforcement+AC0-Other,1145.0,60
+8729,Law Enforcement+AC0-Suspicious Package,56.81666666666667,60
+8738,Law Enforcement+AC0-Suspicious Package,31.31666666666667,60
+8750,Law Enforcement+AC0-Haz Mat,28.333333333333332,60
+8755,Law Enforcement+AC0-Device,44.916666666666664,60
+8765,Law Enforcement+AC0-Suspicious Package,39.916666666666664,60
+8770,Law Enforcement+AC0-Suspicious Package,59.06666666666667,60
+8785,Law Enforcement+AC0-Other,279.45,60
+8800,Law Enforcement+AC0-Haz Mat,119.78333333333333,60
+8855,Law Enforcement+AC0-Suspicious Package,68.9,60
+8866,Law Enforcement+AC0-Suspicious Package,95.8,60
+8869,Law Enforcement+AC0-Suspicious Package,44.016666666666666,60
+8873,Law Enforcement+AC0-Device,44.78333333333333,60
+8878,Law Enforcement+AC0-Suspicious Package,15.216666666666669,60
+8880,Law Enforcement+AC0-Suspicious Package,45.15,60
+8882,Law Enforcement+AC0-Suspicious Package,60.65,60
+8883,Law Enforcement+AC0-Suspicious Package,59.916666666666664,60
+8886,Law Enforcement+AC0-Suspicious Package,59.63333333333333,60
+8885,Law Enforcement+AC0-Suspicious Package,27.316666666666666,60
+8887,Law Enforcement+AC0-Suspicious Package,53.25,60
+8888,Law Enforcement+AC0-Suspicious Package,49.766666666666666,60
+8891,Law Enforcement+AC0-Suspicious Package,61.85000000000001,60
+8894,Law Enforcement+AC0-Suspicious Package,100.2,60
+8893,Law Enforcement+AC0-Suspicious Package,26.916666666666668,60
+8895,Law Enforcement+AC0-Suspicious Package,4.95,60
+8900,Law Enforcement+AC0-Suspicious Package,57.56666666666667,60
+8899,Law Enforcement+AC0-Suspicious Package,17.266666666666666,60
+8904,Law Enforcement+AC0-Other,1145.0,60
+8903,Law Enforcement+AC0-Suspicious Package,19.466666666666665,60
+8906,Law Enforcement+AC0-Suspicious Package,9.966666666666667,60
+8911,Law Enforcement+AC0-Suspicious Package,26.766666666666666,60
+8920,Law Enforcement+AC0-Suspicious Package,48.25,60
+8921,Law Enforcement+AC0-Suspicious Package,64.46666666666667,60
+8922,Law Enforcement+AC0-Suspicious Package,140.73333333333332,60
+8924,Law Enforcement+AC0-Device,36.31666666666667,60
+8967,Law Enforcement+AC0-Explosion,1145.0,60
+8937,Law Enforcement+AC0-Haz Mat,1145.0,60
+8928,Law Enforcement+AC0-Suspicious Package,53.733333333333334,60
+8930,Law Enforcement+AC0-Suspicious Package,137.8,60
+8932,Law Enforcement+AC0-Device,77.2,60
+8935,Law Enforcement+AC0-Suspicious Package,85.0,60
+8939,Law Enforcement+AC0-Suspicious Package,129.78333333333336,60
+8952,Law Enforcement+AC0-Suspicious Package,32.81666666666667,60
+8958,Law Enforcement+AC0-Suspicious Package,85.75,60
+8969,Law Enforcement+AC0-Suspicious Package,60.75,60
+8988,Law Enforcement+AC0-Suspicious Package,1145.0,60
+8986,Law Enforcement+AC0-Device,43.31666666666667,60
+8919,Law Enforcement+AC0-Other,50.733333333333334,60
+2354,Law Enforcement+AC0-Other,1145.0,60
+5056,Law Enforcement+AC0-Other,1145.0,60
+8989,Law Enforcement+AC0-Suspicious Package,75.43333333333334,60
+8990,Law Enforcement+AC0-Suspicious Package,54.0,60
+8992,Law Enforcement+AC0-Suspicious Package,12.816666666666666,60
+8997,Law Enforcement+AC0-Other,59.71666666666667,60
+9001,Law Enforcement+AC0-Suspicious Package,47.416666666666664,60
+9002,Law Enforcement+AC0-Suspicious Package,34.2,60
+9009,Law Enforcement+AC0-Suspicious Package,89.31666666666666,60
+4809,Law Enforcement+AC0-Device,89.76666666666667,60
+4830,Law Enforcement+AC0-Device,79.15,60
+5858,Law Enforcement+AC0-Suspicious Package,29.933333333333334,60
+1307,Law Enforcement+AC0-Suspicious Package,68.78333333333333,60
+5082,Law Enforcement+AC0-Other,50.43333333333333,60
+1037,Law Enforcement+AC0-Suspicious Package,270.5666666666667,60
+3692,Law Enforcement+AC0-Suspicious Package,31.000000000000004,60
+4743,Law Enforcement+AC0-Suspicious Package,67.60000000000001,60
+5925,Law Enforcement+AC0-Device,15.450000000000001,60
+5342,Law Enforcement+AC0-Suspicious Package,88.3,60
+1044,Law Enforcement+AC0-Suspicious Package,75.36666666666666,60
+5133,Law Enforcement+AC0-Suspicious Package,46.81666666666667,60
+3670,Law Enforcement+AC0-Device,82.53333333333333,60
+4576,Law Enforcement+AC0-Suspicious Package,52.833333333333336,60
+2404,Law Enforcement+AC0-Suspicious Package,35.63333333333333,60
+4680,Law Enforcement+AC0-Device,38.81666666666667,60
+2377,Law Enforcement+AC0-Suspicious Package,42.75,60
+4858,Law Enforcement+AC0-Other,87.21666666666667,60
+5058,Law Enforcement+AC0-Device,38.71666666666667,60
+5405,Law Enforcement+AC0-Other,648.3333333333334,60
+5466,Law Enforcement+AC0-Device,23.566666666666666,60
+1374,Law Enforcement+AC0-Device,52.06666666666667,60
+1497,Law Enforcement+AC0-Device,66.01666666666668,60
+1661,Law Enforcement+AC0-Other,246.2166666666667,60
+2051,Law Enforcement+AC0-Other,79.28333333333333,60
+2097,Law Enforcement+AC0-Suspicious Package,16.3,60
+2967,Law Enforcement+AC0-Suspicious Package,78.06666666666666,60
+1929,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4072,Law Enforcement+AC0-Other,52.85,60
+5968,Law Enforcement+AC0-Device,29.616666666666667,60
+4242,Law Enforcement+AC0-Haz Mat,1145.0,60
+1100,Law Enforcement+AC0-Other,700.5,60
+1103,Law Enforcement+AC0-Suspicious Package,91.01666666666667,60
+3646,Law Enforcement+AC0-Mobilization,93.36666666666666,60
+1110,Law Enforcement+AC0-Suspicious Package,18.233333333333334,60
+1328,Law Enforcement+AC0-Device,31.500000000000004,60
+5295,Law Enforcement+AC0-Other,14.483333333333333,60
+5468,Law Enforcement+AC0-Suspicious Package,50.88333333333333,60
+1711,Law Enforcement+AC0-Suspicious Package,84.33333333333333,60
+3764,Law Enforcement+AC0-Other,79.88333333333334,60
+5822,Law Enforcement+AC0-Device,21.5,60
+5197,Law Enforcement+AC0-Device,64.43333333333334,60
+5326,Law Enforcement+AC0-Device,46.3,60
+5643,Law Enforcement+AC0-Suspicious Package,57.36666666666667,60
+5841,Law Enforcement+AC0-Mobilization,67.9,60
+5861,Law Enforcement+AC0-Suspicious Package,59.88333333333333,60
+1392,Law Enforcement+AC0-Mobilization,23.35,60
+3718,Law Enforcement+AC0-Device,35.65,60
+3765,Law Enforcement+AC0-Suspicious Package,31.000000000000004,60
+3810,Law Enforcement+AC0-Other,71.0,60
+1498,Law Enforcement+AC0-Suspicious Package,67.56666666666668,60
+4527,Law Enforcement+AC0-Suspicious Package,753.6666666666666,60
+4904,Law Enforcement+AC0-Other,820.4166666666666,60
+5135,Law Enforcement+AC0-Suspicious Package,96.75,60
+5176,Law Enforcement+AC0-Device,336.53333333333336,60
+1931,Law Enforcement+AC0-Other,442.98333333333335,60
+3436,Law Enforcement+AC0-Device,130.5666666666667,60
+4786,Law Enforcement+AC0-Other,187.6,60
+4860,Law Enforcement+AC0-Suspicious Package,22.966666666666665,60
+2880,Law Enforcement+AC0-Suspicious Package,78.56666666666666,60
+4214,Law Enforcement+AC0-Suspicious Package,151.41666666666666,60
+4192,Law Enforcement+AC0-Suspicious Package,147.76666666666668,60
+1147,Law Enforcement+AC0-Device,17.816666666666666,60
+2802,Law Enforcement+AC0-Explosion,1145.0,60
+3895,Law Enforcement+AC0-Suspicious Package,92.91666666666667,60
+1818,Law Enforcement+AC0-Suspicious Package,33.66666666666667,60
+4744,Law Enforcement+AC0-Suspicious Package,9.833333333333334,60
+5177,Law Enforcement+AC0-Suspicious Package,29.966666666666665,60
+5327,Law Enforcement+AC0-Suspicious Package,107.31666666666666,60
+5659,Law Enforcement+AC0-Suspicious Package,43.53333333333333,60
+4096,Law Enforcement+AC0-Suspicious Package,54.13333333333333,60
+4115,Law Enforcement+AC0-Device,33.68333333333334,60
+5138,Law Enforcement+AC0-Suspicious Package,61.63333333333334,60
+5277,Law Enforcement+AC0-Device,23.333333333333332,60
+5430,Law Enforcement+AC0-Mobilization,17.983333333333334,60
+851,Law Enforcement+AC0-Suspicious Package,50.6,60
+1843,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4074,Law Enforcement+AC0-Suspicious Package,1145.0,60
+1624,Law Enforcement+AC0-Suspicious Package,27.666666666666668,60
+1267,Law Enforcement+AC0-Suspicious Package,26.483333333333334,60
+3995,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4043,Law Enforcement+AC0-Suspicious Package,623.1666666666666,60
+4193,Law Enforcement+AC0-Suspicious Package,109.86666666666666,60
+3767,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4141,Law Enforcement+AC0-Other,1145.0,60
+5215,Law Enforcement+AC0-Suspicious Package,7.516666666666667,60
+5408,Law Enforcement+AC0-Suspicious Package,39.7,60
+5506,Law Enforcement+AC0-Other,40.93333333333333,60
+4489,Law Enforcement+AC0-Suspicious Package,1145.0,60
+1330,Law Enforcement+AC0-Suspicious Package,101.33333333333333,60
+1426,Law Enforcement+AC0-Suspicious Package,77.46666666666667,60
+4907,Law Enforcement+AC0-Suspicious Package,46.083333333333336,60
+5565,Law Enforcement+AC0-Other,59.05,60
+6076,Law Enforcement+AC0-Suspicious Package,26.483333333333334,60
+1428,Law Enforcement+AC0-Other,64.68333333333334,60
+6007,Law Enforcement+AC0-Other,243.31666666666666,60
+1907,Law Enforcement+AC0-Suspicious Package,91.61666666666666,60
+3076,Law Enforcement+AC0-Explosion,1145.0,60
+6197,Law Enforcement+AC0-Other,267.3666666666667,60
+5140,Law Enforcement+AC0-Other,170.91666666666666,60
+5364,Law Enforcement+AC0-Suspicious Package,65.68333333333334,60
+5278,Law Enforcement+AC0-Suspicious Package,49.25,60
+2997,Law Enforcement+AC0-Suspicious Package,74.71666666666667,60
+5525,Law Enforcement+AC0-Suspicious Package,80.18333333333334,60
+1558,Law Enforcement+AC0-Device,70.1,60
+2128,Law Enforcement+AC0-Other,36.516666666666666,60
+3574,Law Enforcement+AC0-Device,48.416666666666664,60
+2940,Law Enforcement+AC0-Suspicious Package,8.583333333333334,60
+1559,Law Enforcement+AC0-Other,1145.0,60
+5452,Law Enforcement+AC0-Suspicious Package,123.51666666666668,60
+6038,Law Enforcement+AC0-Suspicious Package,132.26666666666668,60
+431,Law Enforcement+AC0-Suspicious Package,203.98333333333332,60
+4776,Law Enforcement+AC0-Suspicious Package,1145.0,60
+5679,Law Enforcement+AC0-Other,1145.0,60
+5647,Law Enforcement+AC0-Suspicious Package,166.96666666666667,60
+1242,Law Enforcement+AC0-Suspicious Package,31.733333333333338,60
+2101,Law Enforcement+AC0-Suspicious Package,28.783333333333335,60
+1407,Law Enforcement+AC0-Suspicious Package,1145.0,60
+2714,Law Enforcement+AC0-Suspicious Package,44.2,60
+5013,Law Enforcement+AC0-Suspicious Package,233.73333333333332,60
+6270,Law Enforcement+AC0-Mobilization,106.11666666666666,60
+1958,Law Enforcement+AC0-Haz Mat,1145.0,60
+3077,Law Enforcement+AC0-Suspicious Package,1145.0,60
+1315,Law Enforcement+AC0-Suspicious Package,50.3,60
+3411,Law Enforcement+AC0-Suspicious Package,19.833333333333332,60
+3748,Law Enforcement+AC0-Suspicious Package,87.28333333333333,60
+4444,Law Enforcement+AC0-Suspicious Package,133.00000000000003,60
+5298,Law Enforcement+AC0-Device,168.23333333333332,60
+5411,Law Enforcement+AC0-Suspicious Package,56.18333333333333,60
+2859,Law Enforcement+AC0-Suspicious Package,29.316666666666666,60
+4371,Law Enforcement+AC0-Suspicious Package,17.066666666666666,60
+3975,Law Enforcement+AC0-Suspicious Package,81.88333333333334,60
+3099,Law Enforcement+AC0-Suspicious Package,1145.0,60
+1253,Law Enforcement+AC0-Suspicious Package,69.8,60
+6261,Law Enforcement+AC0-Other,289.96666666666664,60
+3921,Law Enforcement+AC0-Device,745.4166666666666,60
+4244,Law Enforcement+AC0-Suspicious Package,42.766666666666666,60
+4710,Law Enforcement+AC0-Suspicious Package,33.050000000000004,60
+1713,Law Enforcement+AC0-Haz Mat,158.45,60
+5885,Law Enforcement+AC0-Other,128.38333333333335,60
+5782,Law Enforcement+AC0-Other,42.8,60
+3520,Law Enforcement+AC0-Suspicious Package,29.1,60
+4749,Law Enforcement+AC0-Suspicious Package,1145.0,60
+6172,Law Enforcement+AC0-Device,198.23333333333332,60
+3976,Law Enforcement+AC0-Suspicious Package,77.05,60
+6029,Law Enforcement+AC0-Haz Mat,81.08333333333333,60
+5279,Law Enforcement+AC0-Other,25.116666666666667,60
+4750,Law Enforcement+AC0-Other,109.43333333333334,60
+5494,Law Enforcement+AC0-Suspicious Package,89.01666666666667,60
+5847,Law Enforcement+AC0-Suspicious Package,91.56666666666666,60
+6216,Law Enforcement+AC0-Device,32.650000000000006,60
+3678,Law Enforcement+AC0-Suspicious Package,79.75,60
+4048,Law Enforcement+AC0-Haz Mat,277.25,60
+3723,Law Enforcement+AC0-Suspicious Package,1137.7166666666667,60
+4143,Law Enforcement+AC0-Other,96.95,60
+5182,Law Enforcement+AC0-Haz Mat,52.916666666666664,60
+5527,Law Enforcement+AC0-Suspicious Package,53.18333333333333,60
+5826,Law Enforcement+AC0-Suspicious Package,17.6,60
+3369,Law Enforcement+AC0-Suspicious Package,531.0833333333334,60
+6039,Law Enforcement+AC0-Suspicious Package,16.46666666666667,60
+2631,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4834,Law Enforcement+AC0-Device,139.43333333333334,60
+5590,Law Enforcement+AC0-Suspicious Package,471.06666666666666,60
+2742,Law Enforcement+AC0-Suspicious Package,453.98333333333335,60
+6397,Law Enforcement+AC0-Device,49.666666666666664,60
+1408,Law Enforcement+AC0-Suspicious Package,94.11666666666666,60
+1530,Law Enforcement+AC0-Suspicious Package,62.73333333333334,60
+5986,Law Enforcement+AC0-Other,13.916666666666666,60
+4372,Law Enforcement+AC0-Suspicious Package,28.383333333333333,60
+4049,Law Enforcement+AC0-Suspicious Package,399.18333333333334,60
+6135,Law Enforcement+AC0-Other,1145.0,60
+4764,Law Enforcement+AC0-Suspicious Package,150.86666666666667,60
+5496,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4316,Law Enforcement+AC0-Device,30.3,60
+4731,Law Enforcement+AC0-Suspicious Package,89.03333333333333,60
+5367,Law Enforcement+AC0-Suspicious Package,195.98333333333332,60
+5473,Law Enforcement+AC0-Suspicious Package,218.38333333333333,60
+4627,Law Enforcement+AC0-Other,1145.0,60
+2499,Law Enforcement+AC0-Other,65.01666666666668,60
+2684,Law Enforcement+AC0-Device,57.833333333333336,60
+3725,Law Enforcement+AC0-Suspicious Package,36.46666666666667,60
+6189,Law Enforcement+AC0-Suspicious Package,118.43333333333334,60
+6012,Law Enforcement+AC0-Suspicious Package,88.91666666666667,60
+4392,Law Enforcement+AC0-Suspicious Package,44.53333333333333,60
+4732,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4992,Law Enforcement+AC0-Suspicious Package,40.81666666666667,60
+4293,Law Enforcement+AC0-Suspicious Package,103.75,60
+4422,Law Enforcement+AC0-Other,17.983333333333334,60
+4871,Law Enforcement+AC0-Device,17.233333333333334,60
+5528,Law Enforcement+AC0-Suspicious Package,55.2,60
+3324,Law Enforcement+AC0-Suspicious Package,1145.0,60
+5157,Law Enforcement+AC0-Suspicious Package,107.33333333333333,60
+6399,Law Enforcement+AC0-Other,42.55,60
+3184,Law Enforcement+AC0-Other,692.9333333333333,60
+5996,Law Enforcement+AC0-Suspicious Package,1145.0,60
+1304,Law Enforcement+AC0-Suspicious Package,1145.0,60
+1627,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4423,Law Enforcement+AC0-Suspicious Package,42.36666666666667,60
+5661,Law Enforcement+AC0-Device,52.333333333333336,60
+4813,Law Enforcement+AC0-Device,113.15,60
+6401,Law Enforcement+AC0-Other,79.5,60
+2028,Law Enforcement+AC0-Device,442.68333333333334,60
+1430,Law Enforcement+AC0-Suspicious Package,23.816666666666666,60
+4100,Law Enforcement+AC0-Explosion,20.033333333333335,60
+5513,Law Enforcement+AC0-Other,1145.0,60
+5038,Law Enforcement+AC0-Suspicious Package,33.233333333333334,60
+6403,Law Enforcement+AC0-Suspicious Package,50.516666666666666,60
+6425,Law Enforcement+AC0-Other,69.15,60
+2659,Law Enforcement+AC0-Other,156.21666666666667,60
+3633,Law Enforcement+AC0-Haz Mat,89.31666666666666,60
+6098,Law Enforcement+AC0-Suspicious Package,77.31666666666666,60
+4970,Law Enforcement+AC0-Suspicious Package,51.18333333333333,60
+3326,Law Enforcement+AC0-Device,103.08333333333333,60
+6266,Law Enforcement+AC0-Device,82.63333333333334,60
+2577,Law Enforcement+AC0-Suspicious Package,58.266666666666666,60
+3387,Law Enforcement+AC0-Device,50.38333333333333,60
+3243,Law Enforcement+AC0-Suspicious Package,117.68333333333334,60
+1562,Law Enforcement+AC0-Other,169.0,60
+4559,Law Enforcement+AC0-Suspicious Package,326.46666666666664,60
+5890,Law Enforcement+AC0-Other,1145.0,60
+3378,Law Enforcement+AC0-Other,1145.0,60
+2660,Law Enforcement+AC0-Other,27.3,60
+4932,Law Enforcement+AC0-Other,28.916666666666668,60
+3103,Law Enforcement+AC0-Suspicious Package,1145.0,60
+3329,Law Enforcement+AC0-Haz Mat,1145.0,60
+494,Law Enforcement+AC0-Haz Mat,1145.0,60
+5414,Law Enforcement+AC0-Suspicious Package,17.566666666666666,60
+4319,Law Enforcement+AC0-Suspicious Package,91.46666666666667,60
+5269,Law Enforcement+AC0-Haz Mat,1145.0,60
+4996,Law Enforcement+AC0-Device,67.46666666666667,60
+4630,Law Enforcement+AC0-Other,1145.0,60
+6239,Law Enforcement+AC0-Other,1145.0,60
+3684,Law Enforcement+AC0-Other,1145.0,60
+3683,Law Enforcement+AC0-Other,1145.0,60
+2578,Law Enforcement+AC0-Device,295.3333333333333,60
+3901,Law Enforcement+AC0-Suspicious Package,130.45000000000002,60
+6141,Law Enforcement+AC0-Suspicious Package,65.96666666666667,60
+1585,Law Enforcement+AC0-Suspicious Package,117.63333333333334,60
+4997,Law Enforcement+AC0-Suspicious Package,310.1333333333333,60
+4836,Law Enforcement+AC0-Suspicious Package,224.05,60
+5667,Law Enforcement+AC0-Suspicious Package,225.28333333333333,60
+5809,Law Enforcement+AC0-Other,36.483333333333334,60
+1980,Law Enforcement+AC0-Device,38.53333333333333,60
+3057,Law Enforcement+AC0-Device,197.08333333333334,60
+3352,Law Enforcement+AC0-Device,43.25,60
+4225,Law Enforcement+AC0-Suspicious Package,57.7,60
+5159,Law Enforcement+AC0-Suspicious Package,41.93333333333333,60
+5976,Law Enforcement+AC0-Suspicious Package,40.15,60
+3353,Law Enforcement+AC0-Suspicious Package,57.016666666666666,60
+5636,Law Enforcement+AC0-Other,921.8666666666667,60
+4357,Law Enforcement+AC0-Suspicious Package,126.41666666666669,60
+5370,Law Enforcement+AC0-Suspicious Package,36.75,60
+5616,Law Enforcement+AC0-Other,187.38333333333333,60
+5597,Law Enforcement+AC0-Suspicious Package,20.0,60
+4248,Law Enforcement+AC0-Suspicious Package,43.63333333333333,60
+2748,Law Enforcement+AC0-Suspicious Package,70.85,60
+5922,Law Enforcement+AC0-Mobilization,33.26666666666667,60
+4952,Law Enforcement+AC0-Suspicious Package,119.98333333333333,60
+1634,Law Enforcement+AC0-Suspicious Package,28.516666666666666,60
+5462,Law Enforcement+AC0-Suspicious Package,55.18333333333333,60
+4358,Law Enforcement+AC0-Suspicious Package,71.26666666666667,60
+5730,Law Enforcement+AC0-Suspicious Package,75.06666666666666,60
+4514,Law Enforcement+AC0-Suspicious Package,49.583333333333336,60
+2460,Law Enforcement+AC0-Other,75.46666666666667,60
+2461,Law Enforcement+AC0-Other,258.6,60
+932,Law Enforcement+AC0-Suspicious Package,1145.0,60
+4361,Law Enforcement+AC0-Device,293.0833333333333,60

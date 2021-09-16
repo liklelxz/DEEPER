@@ -1,0 +1,39 @@
+##### Previous preprocessing ####
+We tried different ways to address outliers and missing values:
+
+-FO_remove_small_and_large_RT.csv => Drop events whose response time is less than 30 or more than 10000
+-FO_remove_small_RT.csv => Drop events whose response time is less than 30
+-FO_remove_large_RT.csv => Drop events whose response time is more than 10000
+-FO_remove_small.csv => Drop incidents that occur 5 times or less
+
+Some previos code codes for data preprocessing:
+
+modify_dataset.py
+	Remove incidents that occur 5 times or less
+	Run script as follows: python modify_dataset.py --resource FO
+
+remove_large_RT.py
+	Remove response times less than 30 and more than 10000
+	Run script as follows: python remove_large_RT.py --resource FO
+
+The parameters that you can choose to run LSTM are:
+
+- Min and max dates from the original file:
+	2011-05-04 06:03:58
+	2019-12-17 20:19:18
+
+- The ranges of the periods include the initial date and exclude the final date:
+	dfInRange = dfGroup.loc[(dfGroup["Creation Date"]>=iniDate)  & (dfGroup["Creation Date"]<endDate)]
+
+
+### PROBABILITIES  &  COUNTING MATRIX ###
+
+- Parameters
+	--inputpath: the input csv file's path
+	--outputpath: the output csv file's path
+	--dayorweek: used to judge whether probabilities based on day or week of year. You can input 1 to get week probabilities and input 0 to get day probabilities. The default value is 1.
+ 
+- Set the PYTHONPATH variable with the current directory:
+	- type something like : export PYTHONPATH$PYTHONPATH:"thispath"
+- You can run script:
+    python pro_filter.py --inputpath Emergency_Response_Incidents.csv --outputpath ../Data/test_week.csv --dayorweek 1

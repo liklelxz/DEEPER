@@ -1,0 +1,3 @@
+ARIMA	LSTM
+../Results/arima/weapon/20-03-29_18-59/	../Results/lstm/weapon/20-03-29_19-23/
+../Results/arima/od/20-03-29_18-51/	../Results/lstm/od/20-03-29_19-24/

@@ -1,0 +1,81 @@
+You can run LSTM:
+	python model/seq2seq_unguided_LSTM.py --fileName Data/FO.csv --input-dim 1 --inputCols R --path Results/lstm --x-length 10 --y-length 5 --minEpoch 500 --learningRate 0.01 --hiddenLayer 10 --numLayers 1
+
+You can run RNN:
+python model/main_pytorch_rnn.py --data_path Data/FO_0-14400_allTime.csv --save_path Results/lstm/FO --x-length 15 --y-length 5 --inputCols R --numEpochs 1000 --learningRate 0.01 --hiddenLayer 100 --print_every 50
+
+for more than 1 feature:
+python model/main_pytorch_rnn2_1.py --data_path Data/With_Features/fire.csv --save_path Results/rnn/FO --x-length 20 --y-length 5 --inputCols R --numEpochs 1000 --learningRate 0.01 --hiddenLayer 10 --print_every 50 --input-dim 1 --output-dim 1 --typeScale nn
+
+RNN
+- It uses the same preprocessing file as lstm unguided and assumes that y_length is smaller than x_length. It takes the last y_length outputs [- y_length:, ...] to get the predictions
+
+
+
+Training RNN
+- I tried scaling, did not work
+- i tried getting rid of clip, did not work... it even make predictions worse
+- LSTM did not work
+- Adding a Sigmoid layer, did not work. Made output stand only betwee 0 and 1
+- Added FC over sigmoid , Final layer FC, Sigmoid, FC. did not work
+- Switch h initialization to random, did not work
+- torch.FloatTensor, did not work. The input values are float before and after torch.FloatTensor()
+- optimizer.zero_grad() did not work
+- Minibatches? did not work. partially, evaluating right now if minibatches with individual test would work.
+- Individual test seems to work
+- sample or tet function
+- Plot training predictions
+- Try defining h inside constructor or outside (meaning setting to 0 at every batch)
+- Try different types of minibatches
+- Just added validation
+- Trying all events but transforming outliers in MAX_VALUE
+- How do we compare epochs for mini_batches and all_dataset
+- What makes the change of getting stuck and getting out of it????
+- Add RMSE calculation
+- At testint time WE ARE SEEIN THE REAL ONE, NOT PREDICTED ONE
+- Reading about grading clipping. Similar to learning rate but, punishes the larger because it scales (with normal I guess) to a clip. However, LR maintains the scale
+- Comparing gradients of RNN and LSTM. Gradients are 0 in rnn and more values in LSTM
+
+Baselines (Results folder):
+
+LINEAR
+fire:
+20-05-07_11-25 => With_features
+20-05-07_11-36 => Drop_quant
+20-05-07_11-40 => Median_quant
+
+law:
+20-05-07_11-33 => With_features
+20-05-07_11-37 => Drop_quant
+20-05-07_11-42 => Median_quant
+
+structural:
+20-05-07_11-33 => With_features
+20-05-07_11-38 => Drop_quant
+20-05-07_11-42 => Median_quant
+
+utility:
+20-05-07_11-34 => With_features
+20-05-07_11-38 => Drop_quant
+20-05-07_11-43 => Median_quant
+
+ARIMA
+fire:
+20-05-07_11-28 => With_features
+20-05-07_11-36 => Drop_quant
+20-05-07_11-40 => Median_quant
+
+law:
+20-05-07_11-33 => With_features
+20-05-07_11-37 => Drop_quant
+20-05-07_11-42 => Median_quant
+
+structural:
+20-05-07_11-33 => With_features
+20-05-07_11-38 => Drop_quant
+20-05-07_11-42 => Median_quant
+
+utility:
+20-05-07_11-34 => With_features
+20-05-07_11-38 => Drop_quant
+20-05-07_11-43 => Median_quant

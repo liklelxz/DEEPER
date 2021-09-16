@@ -1,0 +1,2 @@
+model_checkpoint_path: "utility_10_10_model"
+all_model_checkpoint_paths: "utility_10_10_model"

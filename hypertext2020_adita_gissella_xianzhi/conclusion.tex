@@ -1,0 +1,10 @@
+%!TEX root = paper.tex
+
+In this paper, we presented DeepER, a deep learning based emergency resolution time prediction system that predicts future resolution times based on past data. We performed experiments on the NYC Emergency Response Incidents data provided by NYC Open Data. We compared the performance of DeepER with ARIMA and Linear Regression using two metrics--- Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE). DeepER achieved an average performance improvement of 3\% and 16\% with respect to RMSE and 10\% and 27\% with respect to MAE over ARIMA and Linear Regression, respectively. We also draw upon important learnings and insights from the data, which can be utilized for designing deep learning models for data in the emergency response domain and other related domains where the data can lack an overt predictable trend.
+As part of our future work, we plan to extend this analysis to  other cities so that it gives greater validity to our results. We want to also engage with city officials so that DeepER can be adopted to aid the planning and preparation of city emergency response systems.
+
+%we plan to continue working on a better approach for the replacement of invalid points (outliers and missing values). We would try sampling from valid points of the same year or month. In that way the replacement are closer in time. Another approach is to sample according to the subtype.
+%Finally, we suggest further analysis on the sparsity of peaks in the incident types. That might be a reason why, for few incident types, we underperform compared to ARIMA. The sparsity of the peaks might be related to the availability of the models to identify flexible dynamic-length instances pattern.
+
+
+%We designed a preprocessing phase according to the challenges found in the data. As almost 22\% and 8\% were missing and outlier values, we showed one way in which they can be replaced and commented about a previous more simple approach (random sampling). 

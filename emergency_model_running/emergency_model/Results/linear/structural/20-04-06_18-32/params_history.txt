@@ -1,0 +1,5 @@
+Building : structural
+xlength : 10
+yLength : 5
+Columns:R
+

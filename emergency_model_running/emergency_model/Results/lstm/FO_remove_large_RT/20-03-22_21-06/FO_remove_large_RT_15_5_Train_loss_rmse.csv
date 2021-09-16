@@ -1,0 +1,2 @@
+iteration,trainLoss,testLoss,trainRMSE-avg,testRMSE-avg
+0,1109407.6,2467635.0,1053.28,1570.8707

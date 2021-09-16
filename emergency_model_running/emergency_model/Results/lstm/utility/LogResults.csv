@@ -1,0 +1,85 @@
+modelType, epochs,inputDim, xLenght, yLenght, learningRate, unitsHiddenLayer, typeTraining, trainingSize,miniBatchSize, typeAF, lossTrain, lossTest,RMSE,DiffMaxMin,stdDev, folder,Comments,
+lstm+AF8-guided,50000,1,15,5,0.001,5,AD,579,200,relu,0.026,0.059,,1.4,,20+AC0-04+AC0-16+AF8-15+AC0-11,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,AD,579,200,relu,0.026,0.059,,1.4,,20+AC0-04+AC0-16+AF8-15+AC0-21,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,AD,579,200,relu,0.026,0.059,,1.4,,20+AC0-04+AC0-16+AF8-15+AC0-32,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,AD,579,200,relu,0.068,0.081,,0,,20+AC0-04+AC0-16+AF8-15+AC0-42,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,AD,579,200,relu,0.068,0.081,,0,,20+AC0-04+AC0-16+AF8-15+AC0-57,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,AD,579,200,relu,0.068,0.081,,0,,20+AC0-04+AC0-16+AF8-16+AC0-12,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,AD,579,200,relu,0,0.085,,1,,20+AC0-04+AC0-16+AF8-16+AC0-28,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,AD,579,200,relu,0,0.085,,1,,20+AC0-04+AC0-16+AF8-17+AC0-14,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,AD,579,200,relu,0,0.085,,1,,20+AC0-04+AC0-16+AF8-18+AC0-01,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,100,relu,0.022,0.068,,1.2,,20+AC0-04+AC0-16+AF8-18+AC0-47,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,100,relu,0.02,0.064,,1,,20+AC0-04+AC0-16+AF8-19+AC0-06,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,100,relu,0.026,0.064,,0.8,,20+AC0-04+AC0-16+AF8-19+AC0-26,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,100,relu,0.063,0.081,,0,,20+AC0-04+AC0-16+AF8-19+AC0-45,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,100,relu,0.069,0.081,,0,,20+AC0-04+AC0-16+AF8-20+AC0-10,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,100,relu,0.068,0.081,,0,,20+AC0-04+AC0-16+AF8-20+AC0-36,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,100,relu,0,0.059,,0.6,,20+AC0-04+AC0-16+AF8-21+AC0-02,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,100,relu,0,0.06,,0.6,,20+AC0-04+AC0-16+AF8-21+AC0-59,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,100,relu,0,0.061,,0.75,,20+AC0-04+AC0-16+AF8-22+AC0-56,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,200,relu,0.023,0.068,,0.8,,20+AC0-04+AC0-16+AF8-23+AC0-53,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,200,relu,0.024,0.066,,0.95,,20+AC0-04+AC0-17+AF8-00+AC0-04,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,200,relu,0.024,0.063,,0.8,,20+AC0-04+AC0-17+AF8-00+AC0-14,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,200,relu,0.068,0.081,,0,,20+AC0-04+AC0-17+AF8-00+AC0-25,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,200,relu,0.062,0.081,,0,,20+AC0-04+AC0-17+AF8-00+AC0-39,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,200,relu,0.069,0.081,,0,,20+AC0-04+AC0-17+AF8-00+AC0-53,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,200,relu,0,0.067,,0.7,,20+AC0-04+AC0-17+AF8-01+AC0-07,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,200,relu,0,0.065,,0.7,,20+AC0-04+AC0-17+AF8-01+AC0-48,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,200,relu,0,0.066,,0.7,,20+AC0-04+AC0-17+AF8-02+AC0-28,filtered and no diff max min. Same seed,
+lstm+AF8-guided,50000,1,15,5,0.001,5,AD,579,200,sigmoid,0.031,0.056,,0.7,0.09,20+AC0-04+AC0-19+AF8-05+AC0-18,filtered and different seed. Best val at 2500 then ascending slowly while training descending,
+lstm+AF8-guided,50000,1,15,5,0.001,20,AD,579,200,sigmoid,0.006,0.1,,0.99,0.23,20+AC0-04+AC0-19+AF8-05+AC0-28,,
+lstm+AF8-guided,50000,1,15,5,0.001,50,AD,579,200,sigmoid,0,0.099,,0.98,0.22,20+AC0-04+AC0-19+AF8-05+AC0-43,,
+lstm+AF8-guided,50000,1,15,5,0.001,100,AD,579,200,sigmoid,0,0.084,,0.94,0.18,20+AC0-04+AC0-19+AF8-06+AC0-09,,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,100,sigmoid,0.028,0.057,,0.91,0.1,20+AC0-04+AC0-19+AF8-06+AC0-55,,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,100,sigmoid,0.001,0.097,,0.99,0.23,20+AC0-04+AC0-19+AF8-07+AC0-15,,
+lstm+AF8-guided,50000,1,15,5,0.001,50,RB,579,100,sigmoid,0,0.073,,0.95,0.15,20+AC0-04+AC0-19+AF8-07+AC0-39,,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,100,sigmoid,0,0.066,,0.86,0.12,20+AC0-04+AC0-19+AF8-08+AC0-14,,
+lstm+AF8-guided,50000,1,15,5,0.001,5,RB,579,200,sigmoid,0.026,0.068,,0.96,0.14,20+AC0-04+AC0-19+AF8-09+AC0-11,,
+lstm+AF8-guided,50000,1,15,5,0.001,20,RB,579,200,sigmoid,0.001,0.105,,1,0.24,20+AC0-04+AC0-19+AF8-09+AC0-22,,
+lstm+AF8-guided,50000,1,15,5,0.001,50,RB,579,200,sigmoid,0,0.077,,0.99,0.17,20+AC0-04+AC0-19+AF8-09+AC0-35,,
+lstm+AF8-guided,50000,1,15,5,0.001,100,RB,579,200,sigmoid,0,0.064,,0.86,0.12,20+AC0-04+AC0-19+AF8-09+AC0-58,,
+lstm+AF8-guided,50000,1,15,5,0.01,10,RB,579,150,sigmoid,0.008,0.704,3276,0.17,0.01,20+AC0-05+AC0-01+AF8-19+AC0-56,,./Data/With+AF8-Features/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.001,50,RB,579,150,sigmoid,0,0.128,1363,0.82,0.15,20+AC0-05+AC0-01+AF8-20+AC0-18,,./Data/With+AF8-Features/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.0001,100,RB,579,150,sigmoid,0,0.193,1686,0.95,0.18,20+AC0-05+AC0-01+AF8-20+AC0-56,,./Data/With+AF8-Features/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.01,10,RB,704,150,sigmoid,0.021,0.19,1285,0.99,0.07,20+AC0-05+AC0-01+AF8-21+AC0-59,,./Data/DropCloseDate+AF8-Quant/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.001,50,RB,704,150,sigmoid,0,0.327,1686,0.98,0.16,20+AC0-05+AC0-01+AF8-22+AC0-27,,./Data/DropCloseDate+AF8-Quant/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.0001,100,RB,704,150,sigmoid,0.002,0.347,1735,0.98,0.19,20+AC0-05+AC0-01+AF8-23+AC0-17,,./Data/DropCloseDate+AF8-Quant/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.01,10,RB,922,150,sigmoid,0.101,0.646,2370,1,0.14,20+AC0-05+AC0-02+AF8-00+AC0-42,,./Data/Median+AF8-Quant/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.001,50,RB,922,150,sigmoid,0,0.287,1578,0.98,0.18,20+AC0-05+AC0-02+AF8-01+AC0-24,,./Data/Median+AF8-Quant/utility.csv
+lstm+AF8-guided,50000,1,15,5,0.0001,100,RB,922,150,sigmoid,0,0.199,1248,0.98,0.27,20+AC0-05+AC0-02+AF8-02+AC0-39,,./Data/Median+AF8-Quant/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.01,10,RB,579,150,sigmoid,0.037,0.048,,0.2,0.02,20+AC0-05+AC0-02+AF8-04+AC0-45,,./Data/With+AF8-Features/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.001,50,RB,579,150,sigmoid,0,0.078,,0.95,0.17,20+AC0-05+AC0-02+AF8-05+AC0-07,,./Data/With+AF8-Features/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.0001,100,RB,579,150,sigmoid,0.001,0.12,,1,0.26,20+AC0-05+AC0-02+AF8-05+AC0-42,,./Data/With+AF8-Features/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.01,10,RB,704,150,sigmoid,0.091,0.106,,0.19,0.01,20+AC0-05+AC0-02+AF8-06+AC0-38,,./Data/DropCloseDate+AF8-Quant/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.001,50,RB,704,150,sigmoid,0,0.196,,1,0.31,20+AC0-05+AC0-02+AF8-07+AC0-07,,./Data/DropCloseDate+AF8-Quant/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.0001,100,RB,704,150,sigmoid,0.003,0.248,,1,0.37,20+AC0-05+AC0-02+AF8-07+AC0-54,,./Data/DropCloseDate+AF8-Quant/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.01,10,RB,922,150,sigmoid,0.097,0.061,,0.33,0.02,20+AC0-05+AC0-02+AF8-09+AC0-08,,./Data/Median+AF8-Quant/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.001,50,RB,922,150,sigmoid,0,0.125,,1,0.27,20+AC0-05+AC0-02+AF8-09+AC0-51,,./Data/Median+AF8-Quant/utility.csv
+lstm+AF8-unguided,50000,1,15,5,0.0001,100,RB,922,150,sigmoid,0,0.139,,1,0.29,20+AC0-05+AC0-02+AF8-11+AC0-01,,./Data/Median+AF8-Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.01,10,RB,579,150,sigmoid,0.041,0.049,865.0,0.84,0.05,20-05-04_13-41,,./Data/With_Features/utility.csv
+lstm_unguided,50000,1,15,5,0.001,50,RB,579,150,sigmoid,0.0,0.078,1088.0,0.98,0.16,20-05-04_14-01,,./Data/With_Features/utility.csv
+lstm_unguided,50000,1,15,5,0.0001,100,RB,579,150,sigmoid,0.001,0.12,1350.0,1.0,0.27,20-05-04_14-35,,./Data/With_Features/utility.csv
+lstm_unguided,50000,1,15,5,0.01,10,RB,704,150,sigmoid,0.091,0.106,959.0,0.44,0.01,20-05-04_15-28,,./Data/DropCloseDate_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.001,50,RB,704,150,sigmoid,0.0,0.199,1316.0,1.0,0.3,20-05-04_15-55,,./Data/DropCloseDate_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.0001,100,RB,704,150,sigmoid,0.001,0.246,1463.0,1.0,0.36,20-05-04_16-40,,./Data/DropCloseDate_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.01,10,RB,922,150,sigmoid,0.094,0.062,732.0,0.24,0.01,20-05-04_17-52,,./Data/Median_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.001,50,RB,922,150,sigmoid,0.0,0.135,1083.0,1.0,0.28,20-05-04_18-33,,./Data/Median_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.0001,100,RB,922,150,sigmoid,0.0,0.132,1072.0,1.0,0.29,20-05-04_19-40,,./Data/Median_Quant/utility.csv
+lstm_guided,50000,1,15,5,0.01,10,FB,579,150,sigmoid,0.004,0.076,1077.0,0.88,0.1,20-05-04_21-40,,./Data/With_Features/utility.csv
+lstm_guided,50000,1,15,5,0.001,50,FB,579,150,sigmoid,0.0,0.097,1180.0,0.85,0.15,20-05-04_22-00,,./Data/With_Features/utility.csv
+lstm_guided,50000,1,15,5,0.0001,100,FB,579,150,sigmoid,0.001,0.377,2379.0,0.93,0.16,20-05-04_22-37,,./Data/With_Features/utility.csv
+lstm_guided,50000,1,15,5,0.01,10,FB,704,150,sigmoid,0.029,0.539,2166.0,0.62,0.07,20-05-04_23-38,,./Data/DropCloseDate_Quant/utility.csv
+lstm_guided,50000,1,15,5,0.001,50,FB,704,150,sigmoid,0.0,0.193,1293.0,0.94,0.16,20-05-05_00-04,,./Data/DropCloseDate_Quant/utility.csv
+lstm_guided,50000,1,15,5,0.0001,100,FB,704,150,sigmoid,0.001,0.149,1137.0,0.97,0.2,20-05-05_00-51,,./Data/DropCloseDate_Quant/utility.csv
+lstm_guided,50000,1,15,5,0.01,10,FB,922,150,sigmoid,0.056,0.108,969.0,1.0,0.05,20-05-05_02-09,,./Data/Median_Quant/utility.csv
+lstm_guided,50000,1,15,5,0.001,50,FB,922,150,sigmoid,0.0,0.122,988.0,0.93,0.19,20-05-05_02-47,,./Data/Median_Quant/utility.csv
+lstm_guided,50000,1,15,5,0.0001,100,FB,922,150,sigmoid,0.001,0.123,1021.0,0.99,0.22,20-05-05_03-57,,./Data/Median_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.01,10,FB,579,150,sigmoid,0.035,0.049,866.0,0.85,0.05,20-05-05_05-54,,./Data/With_Features/utility.csv
+lstm_unguided,50000,1,15,5,0.001,50,FB,579,150,sigmoid,0.0,0.075,1069.0,0.97,0.17,20-05-05_06-14,,./Data/With_Features/utility.csv
+lstm_unguided,50000,1,15,5,0.0001,100,FB,579,150,sigmoid,0.006,0.11,1292.0,1.0,0.24,20-05-05_06-46,,./Data/With_Features/utility.csv
+lstm_unguided,50000,1,15,5,0.01,10,FB,704,150,sigmoid,0.098,0.105,957.0,0.5,0.02,20-05-05_07-37,,./Data/DropCloseDate_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.001,50,FB,704,150,sigmoid,0.0,0.193,1296.0,1.0,0.3,20-05-05_08-03,,./Data/DropCloseDate_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.0001,100,FB,704,150,sigmoid,0.006,0.245,1460.0,1.0,0.37,20-05-05_08-46,,./Data/DropCloseDate_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.01,10,FB,922,150,sigmoid,0.093,0.061,730.0,0.0,0.0,20-05-05_09-57,,./Data/Median_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.001,50,FB,922,150,sigmoid,0.0,0.136,1088.0,1.0,0.27,20-05-05_10-38,,./Data/Median_Quant/utility.csv
+lstm_unguided,50000,1,15,5,0.0001,100,FB,922,150,sigmoid,0.003,0.152,1147.0,1.0,0.31,20-05-05_11-45,,./Data/Median_Quant/utility.csv

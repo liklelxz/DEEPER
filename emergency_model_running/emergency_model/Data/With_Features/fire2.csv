@@ -1,0 +1,1786 @@
+Incident Type,Creation Date,Response Time,Incident Number
+Fire-4th Alarm,2011-05-04,3471,1
+Fire-2nd Alarm,2011-05-04,1145,2
+Fire-4th Alarm,2011-05-13,2097,1
+Fire-School,2011-05-14,112,3
+Fire-1st Alarm,2011-05-17,3333,4
+Fire-1st Alarm,2011-05-19,65,4
+Fire-3rd Alarm,2011-05-26,272,5
+Fire-1st Alarm,2011-06-09,45,4
+Fire-1st Alarm,2011-06-11,66,4
+Fire-2nd Alarm,2011-06-24,90,2
+Fire-3rd Alarm,2011-06-25,339,5
+Fire-Sensitive Location,2011-06-27,86,6
+Fire-Hospital,2011-06-27,54,7
+Fire-2nd Alarm,2011-06-27,125,2
+Fire-2nd Alarm,2011-07-08,601,2
+Fire-2nd Alarm,2011-07-10,875,2
+Fire-Manhole,2011-07-11,1335,8
+Fire-3rd Alarm,2011-07-12,257,5
+Fire-Hospital,2011-07-21,189,7
+Fire-1st Alarm,2011-07-22,54,4
+Fire-1st Alarm,2011-07-24,67,4
+Fire-Explosion,2011-07-27,1234,9
+Fire-1st Alarm,2011-08-01,3,4
+Fire-10-77 (Residential High Rise Fire),2011-08-04,79,10
+Fire-Haz Mat,2011-08-08,83,11
+Fire-Manhole,2011-08-17,199,8
+Fire-4th Alarm,2011-08-21,1177,1
+Fire-4th Alarm,2011-08-22,2464,1
+Fire-2nd Alarm,2011-08-25,174,2
+Fire-10-76 (Commercial High Rise Fire),2011-08-28,236,12
+Fire-3rd Alarm,2011-08-30,158,5
+Fire-1st Alarm,2011-08-31,83,4
+Fire-1st Alarm,2011-09-02,88,4
+Fire-Sensitive Location,2011-09-07,78,6
+Fire-10-77 (Residential High Rise Fire),2011-09-12,77,10
+Fire-School,2011-09-16,106,3
+Fire-3rd Alarm,2011-09-16,2366,5
+Fire-1st Alarm,2011-09-19,217,4
+Fire-2nd Alarm,2011-09-20,100,2
+Fire-Haz Mat,2011-09-22,111,11
+Fire-5th Alarm,2011-09-23,1393,13
+Fire-1st Alarm,2011-10-06,115,4
+Fire-10-77 (Residential High Rise Fire),2011-10-17,38,10
+Fire-Haz Mat,2011-10-18,373,11
+Fire-1st Alarm,2011-10-20,151,4
+Fire-10-76 (Commercial High Rise Fire),2011-10-21,1504,12
+Fire-2nd Alarm,2011-10-23,172,2
+Fire-1st Alarm,2011-10-29,96,4
+Fire-Haz Mat,2011-11-01,84,11
+Fire-2nd Alarm,2011-11-09,175,2
+Fire-1st Alarm,2011-11-11,305,4
+Fire-2nd Alarm,2011-11-12,90,2
+Fire-2nd Alarm,2011-11-15,650,2
+Fire-10-77 (Residential High Rise Fire),2011-11-16,88,10
+Fire-2nd Alarm,2011-11-21,85,2
+Fire-Sensitive Location,2011-11-21,14,6
+Fire-Manhole,2011-11-23,92,8
+Fire-1st Alarm,2011-11-24,166,4
+Fire-Hospital,2011-11-27,421,7
+Fire-1st Alarm,2011-11-29,89,4
+Fire-Sensitive Location,2011-12-10,65,6
+Fire-10-76 (Commercial High Rise Fire),2011-12-12,71,12
+Fire-1st Alarm,2011-12-13,94,4
+Fire-2nd Alarm,2011-12-14,92,2
+Fire-1st Alarm,2011-12-17,58,4
+Fire-10-77 (Residential High Rise Fire),2011-12-18,88,10
+Fire-2nd Alarm,2011-12-19,206,2
+Fire-10-76 (Commercial High Rise Fire),2011-12-19,61,12
+Fire-10-76 (Commercial High Rise Fire),2011-12-20,195,12
+Fire-1st Alarm,2011-12-21,85,4
+Fire-2nd Alarm,2011-12-22,81,2
+Fire-1st Alarm,2011-12-23,47,4
+Fire-2nd Alarm,2011-12-23,1190,2
+Fire-2nd Alarm,2011-12-29,1160,2
+Fire-2nd Alarm,2012-01-04,1906,2
+Fire-1st Alarm,2012-01-05,90,4
+Fire-10-77 (Residential High Rise Fire),2012-01-07,1444,10
+Fire-3rd Alarm,2012-01-15,276,5
+Fire-3rd Alarm,2012-01-16,916,5
+Fire-3rd Alarm,2012-01-17,527,5
+Fire-Hospital,2012-01-24,71,7
+Fire-1st Alarm,2012-01-25,149,4
+Fire-Collapse,2012-02-04,146,14
+Fire-1st Alarm,2012-02-12,76,4
+Fire-Haz Mat,2012-02-13,283,11
+Fire-Manhole,2012-02-14,1376,8
+Fire-1st Alarm,2012-02-16,110,4
+Fire-4th Alarm,2012-02-20,589,1
+Fire-10-77 (Residential High Rise Fire),2012-03-03,107,10
+Fire-1st Alarm,2012-03-07,72,4
+Fire-1st Alarm,2012-03-08,1551,4
+Fire-4th Alarm,2012-03-08,232,1
+Fire-1st Alarm,2012-03-12,148,4
+Fire-1st Alarm,2012-03-14,95,4
+Fire-3rd Alarm,2012-03-14,1475,5
+Fire-1st Alarm,2012-03-21,658,4
+Fire-3rd Alarm,2012-03-23,930,5
+Fire-Manhole,2012-03-25,126,8
+Fire-3rd Alarm,2012-03-25,2212,5
+Fire-3rd Alarm,2012-03-27,269,5
+Fire-3rd Alarm,2012-03-28,385,5
+Fire-10-76 (Commercial High Rise Fire),2012-04-04,1036,12
+Fire-4th Alarm,2012-04-09,345,1
+Fire-10-76 (Commercial High Rise Fire),2012-04-09,82,12
+Fire-Hospital,2012-04-09,30,7
+Fire-1st Alarm,2012-04-13,69,4
+Fire-10-77 (Residential High Rise Fire),2012-04-14,277,10
+Fire-School,2012-04-16,37,3
+Fire-2nd Alarm,2012-04-16,311,2
+Fire-1st Alarm,2012-04-24,149,4
+Fire-Sensitive Location,2012-04-27,1126,6
+Fire-2nd Alarm,2012-04-27,133,2
+Fire-Sensitive Location,2012-04-29,1317,6
+Fire-Sensitive Location,2012-05-08,119,6
+Fire-3rd Alarm,2012-05-12,292,5
+Fire-10-76 (Commercial High Rise Fire),2012-05-15,494,12
+Fire-10-77 (Residential High Rise Fire),2012-05-22,133,10
+Fire-1st Alarm,2012-05-23,168,4
+Fire-1st Alarm,2012-05-28,29,4
+Fire-10-76 (Commercial High Rise Fire),2012-06-01,172,12
+Fire-Explosion,2012-06-01,179,9
+Fire-10-77 (Residential High Rise Fire),2012-06-01,142,10
+Fire-3rd Alarm,2012-06-01,864,5
+Fire-1st Alarm,2012-06-02,3154,4
+Fire-2nd Alarm,2012-06-09,85,2
+Fire-2nd Alarm,2012-06-11,300,2
+Fire-1st Alarm,2012-06-12,62,4
+Fire-1st Alarm,2012-06-13,384,4
+Fire-4th Alarm,2012-06-21,443,1
+Fire-Manhole,2012-06-22,125,8
+Fire-Sensitive Location,2012-06-24,77,6
+Fire-1st Alarm,2012-06-25,97,4
+Fire-1st Alarm,2012-07-03,500,4
+Fire-Manhole,2012-07-04,45,8
+Fire-4th Alarm,2012-07-05,1548,1
+Fire-Haz Mat,2012-07-06,82,11
+Fire-10-77 (Residential High Rise Fire),2012-07-07,2793,10
+Fire-School,2012-07-10,98,3
+Fire-3rd Alarm,2012-07-12,1897,5
+Fire-3rd Alarm,2012-07-14,184,5
+Fire-Manhole,2012-07-16,227,8
+Fire-1st Alarm,2012-07-18,91,4
+Fire-3rd Alarm,2012-07-21,2292,5
+Fire-4th Alarm,2012-07-30,538,1
+Fire-10-76 (Commercial High Rise Fire),2012-07-30,183,12
+Fire-2nd Alarm,2012-07-31,130,2
+Fire-Explosion,2012-08-01,123,9
+Fire-School,2012-08-01,217,3
+Fire-1st Alarm,2012-08-05,83,4
+Fire-10-76 (Commercial High Rise Fire),2012-08-08,58,12
+Fire-10-77 (Residential High Rise Fire),2012-08-09,44,10
+Fire-1st Alarm,2012-08-14,197,4
+Fire-10-77 (Residential High Rise Fire),2012-08-14,88,10
+Fire-3rd Alarm,2012-08-14,1061,5
+Fire-Explosion,2012-08-16,41,9
+Fire-3rd Alarm,2012-08-20,2049,5
+Fire-Explosion,2012-08-21,227,9
+Fire-2nd Alarm,2012-08-23,177,2
+Fire-1st Alarm,2012-08-24,80,4
+Fire-Sensitive Location,2012-08-27,48,6
+Fire-4th Alarm,2012-09-03,184,1
+Fire-School,2012-09-06,153,3
+Fire-School,2012-09-07,203,3
+Fire-1st Alarm,2012-09-07,328,4
+Fire-1st Alarm,2012-09-10,174,4
+Fire-Hospital,2012-09-12,71,7
+Fire-4th Alarm,2012-09-15,220,1
+Fire-Sensitive Location,2012-10-02,2268,6
+Fire-10-76 (Commercial High Rise Fire),2012-10-20,76,12
+Fire-Haz Mat,2012-10-23,141,11
+Fire-Hospital,2012-10-29,328,7
+Fire-2nd Alarm,2012-10-31,406,2
+Fire-2nd Alarm,2012-10-31,84,2
+Fire-Manhole,2012-11-02,239,8
+Fire-10-77 (Residential High Rise Fire),2012-11-09,40,10
+Fire-1st Alarm,2012-11-09,74,4
+Fire-10-77 (Residential High Rise Fire),2012-11-16,58,10
+Fire-3rd Alarm,2012-11-21,375,5
+Fire-2nd Alarm,2012-11-22,1213,2
+Fire-10-76 (Commercial High Rise Fire),2012-11-23,109,12
+Fire-3rd Alarm,2012-11-25,961,5
+Fire-School,2012-11-27,88,3
+Fire-2nd Alarm,2012-12-09,136,2
+Fire-2nd Alarm,2012-12-09,267,2
+Fire-2nd Alarm,2012-12-13,119,2
+Fire-4th Alarm,2012-12-16,1527,1
+Fire-4th Alarm,2012-12-17,525,1
+Fire-2nd Alarm,2012-12-23,244,2
+Fire-Sensitive Location,2012-12-25,51,6
+Fire-2nd Alarm,2012-12-26,67,2
+Fire-Manhole,2012-12-29,129,8
+Fire-3rd Alarm,2012-12-31,3095,5
+Fire-2nd Alarm,2013-01-01,235,2
+Fire-5th Alarm,2013-01-10,3969,13
+Fire-2nd Alarm,2013-01-11,98,2
+Fire-4th Alarm,2013-01-12,530,1
+Fire-School,2013-01-14,113,3
+Fire-4th Alarm,2013-01-22,433,1
+Fire-4th Alarm,2013-01-23,1286,1
+Fire-3rd Alarm,2013-01-25,421,5
+Fire-1st Alarm,2013-01-26,43,4
+Fire-3rd Alarm,2013-01-27,232,5
+Fire-2nd Alarm,2013-01-27,152,2
+Fire-4th Alarm,2013-01-27,901,1
+Fire-1st Alarm,2013-02-04,47,4
+Fire-Manhole,2013-02-11,136,8
+Fire-Manhole,2013-02-11,178,8
+Fire-Manhole,2013-02-11,90,8
+Fire-School,2013-02-13,371,3
+Fire-4th Alarm,2013-02-14,1643,1
+Fire-4th Alarm,2013-02-15,962,1
+Fire-2nd Alarm,2013-02-24,215,2
+Fire-1st Alarm,2013-03-03,195,4
+Fire-2nd Alarm,2013-03-05,441,2
+Fire-2nd Alarm,2013-03-06,146,2
+Fire-2nd Alarm,2013-03-09,246,2
+Fire-3rd Alarm,2013-03-09,3013,5
+Fire-10-77 (Residential High Rise Fire),2013-03-13,48,10
+Fire-1st Alarm,2013-03-15,329,4
+Fire-10-77 (Residential High Rise Fire),2013-03-16,72,10
+Fire-4th Alarm,2013-03-17,374,1
+Fire-1st Alarm,2013-03-27,331,4
+Fire-1st Alarm,2013-04-01,58,4
+Fire-2nd Alarm,2013-04-04,258,2
+Fire-3rd Alarm,2013-04-06,557,5
+Fire-3rd Alarm,2013-04-11,194,5
+Fire-3rd Alarm,2013-04-13,300,5
+Fire-10-76 (Commercial High Rise Fire),2013-04-16,178,12
+Fire-1st Alarm,2013-04-17,73,4
+Fire-10-77 (Residential High Rise Fire),2013-04-17,92,10
+Fire-3rd Alarm,2013-04-28,196,5
+Fire-1st Alarm,2013-05-02,1106,4
+Fire-1st Alarm,2013-05-04,102,4
+Fire-1st Alarm,2013-05-05,111,4
+Fire-Haz Mat,2013-05-08,176,11
+Fire-10-77 (Residential High Rise Fire),2013-05-10,997,10
+Fire-School,2013-05-15,742,3
+Fire-1st Alarm,2013-05-16,89,4
+Fire-1st Alarm,2013-05-20,469,4
+Fire-10-76 (Commercial High Rise Fire),2013-05-20,92,12
+Fire-2nd Alarm,2013-05-29,1743,2
+Fire-Sensitive Location,2013-05-29,179,6
+Fire-Haz Mat,2013-05-30,153,11
+Fire-Manhole,2013-06-03,205,8
+Fire-School,2013-06-05,75,3
+Fire-Manhole,2013-06-05,1477,8
+Fire-10-76 (Commercial High Rise Fire),2013-06-11,1980,12
+Fire-Collapse,2013-06-12,1372,14
+Fire-Sensitive Location,2013-06-20,508,6
+Fire-1st Alarm,2013-06-24,166,4
+Fire-1st Alarm,2013-06-24,79,4
+Fire-Manhole,2013-06-25,143,8
+Fire-10-76 (Commercial High Rise Fire),2013-07-02,72,12
+Fire-3rd Alarm,2013-07-04,217,5
+Fire-10-77 (Residential High Rise Fire),2013-07-04,59,10
+Fire-3rd Alarm,2013-07-09,532,5
+Fire-3rd Alarm,2013-07-09,1318,5
+Fire-1st Alarm,2013-07-15,204,4
+Fire-2nd Alarm,2013-07-16,225,2
+Fire-5th Alarm,2013-07-17,891,13
+Fire-Manhole,2013-07-17,155,8
+Fire-1st Alarm,2013-07-18,823,4
+Fire-2nd Alarm,2013-07-23,3162,2
+Fire-Manhole,2013-07-30,897,8
+Fire-Sensitive Location,2013-07-30,42,6
+Fire-10-76 (Commercial High Rise Fire),2013-08-14,76,12
+Fire-3rd Alarm,2013-08-14,129,5
+Fire-3rd Alarm,2013-08-15,143,5
+Fire-Sensitive Location,2013-08-18,78,6
+Fire-10-76 (Commercial High Rise Fire),2013-08-22,299,12
+Fire-2nd Alarm,2013-08-23,1676,2
+Fire-10-77 (Residential High Rise Fire),2013-08-24,46,10
+Fire-1st Alarm,2013-08-28,1341,4
+Fire-2nd Alarm,2013-08-29,409,2
+Fire-10-77 (Residential High Rise Fire),2013-09-03,96,10
+Fire-10-76 (Commercial High Rise Fire),2013-09-06,91,12
+Fire-1st Alarm,2013-09-08,371,4
+Fire-School,2013-09-09,6,3
+Fire-5th Alarm,2013-09-09,494,13
+Fire-10-76 (Commercial High Rise Fire),2013-09-11,60,12
+Fire-Sensitive Location,2013-10-01,96,6
+Fire-Sensitive Location,2013-10-04,260,6
+Fire-2nd Alarm,2013-10-04,156,2
+Fire-10-76 (Commercial High Rise Fire),2013-10-06,143,12
+Fire-2nd Alarm,2013-10-12,50,2
+Fire-3rd Alarm,2013-10-23,505,5
+Fire-2nd Alarm,2013-10-25,1388,2
+Fire-2nd Alarm,2013-10-25,123,2
+Fire-1st Alarm,2013-10-28,68,4
+Fire-10-76 (Commercial High Rise Fire),2013-11-04,84,12
+Fire-2nd Alarm,2013-11-04,109,2
+Fire-1st Alarm,2013-11-11,1039,4
+Fire-2nd Alarm,2013-11-11,120,2
+Fire-3rd Alarm,2013-11-12,281,5
+Fire-4th Alarm,2013-11-12,2441,1
+Fire-School,2013-11-15,76,3
+Fire-School,2013-11-18,40,3
+Fire-4th Alarm,2013-11-18,1459,1
+Fire-10-76 (Commercial High Rise Fire),2013-11-19,39,12
+Fire-4th Alarm,2013-11-20,1242,1
+Fire-10-77 (Residential High Rise Fire),2013-11-21,18,10
+Fire-1st Alarm,2013-11-23,35,4
+Fire-10-77 (Residential High Rise Fire),2013-11-23,80,10
+Fire-3rd Alarm,2013-11-24,584,5
+Fire-2nd Alarm,2013-11-24,905,2
+Fire-10-77 (Residential High Rise Fire),2013-11-25,1206,10
+Fire-2nd Alarm,2013-11-26,299,2
+Fire-1st Alarm,2013-11-28,649,4
+Fire-1st Alarm,2013-11-29,69,4
+Fire-10-76 (Commercial High Rise Fire),2013-12-04,55,12
+Fire-2nd Alarm,2013-12-08,125,2
+Fire-10-76 (Commercial High Rise Fire),2013-12-10,73,12
+Fire-1st Alarm,2013-12-13,173,4
+Fire-1st Alarm,2013-12-15,615,4
+Fire-Explosion,2013-12-17,85,9
+Fire-2nd Alarm,2013-12-18,329,2
+Fire-2nd Alarm,2013-12-19,37,2
+Fire-Manhole,2013-12-19,504,8
+Fire-Sensitive Location,2013-12-20,74,6
+Fire-10-77 (Residential High Rise Fire),2013-12-20,49,10
+Fire-Manhole,2013-12-20,43,8
+Fire-10-77 (Residential High Rise Fire),2013-12-21,76,10
+Fire-Sensitive Location,2013-12-22,726,6
+Fire-1st Alarm,2013-12-25,30,4
+Fire-10-77 (Residential High Rise Fire),2013-12-25,55,10
+Fire-1st Alarm,2013-12-25,43,4
+Fire-Explosion,2013-12-30,104,9
+Fire-Manhole,2013-12-31,44,8
+Fire-Hospital,2014-01-01,84,7
+Fire-3rd Alarm,2014-01-03,2596,5
+Fire-10-76 (Commercial High Rise Fire),2014-01-03,67,12
+Fire-1st Alarm,2014-01-03,2879,4
+Fire-1st Alarm,2014-01-04,99,4
+Fire-3rd Alarm,2014-01-05,1582,5
+Fire-Manhole,2014-01-06,3412,8
+Fire-1st Alarm,2014-01-06,111,4
+Fire-3rd Alarm,2014-01-09,2654,5
+Fire-10-77 (Residential High Rise Fire),2014-01-10,79,10
+Fire-1st Alarm,2014-01-14,61,4
+Fire-2nd Alarm,2014-01-15,84,2
+Fire-2nd Alarm,2014-01-17,112,2
+Fire-3rd Alarm,2014-01-17,1810,5
+Fire-2nd Alarm,2014-01-23,1861,2
+Fire-Sensitive Location,2014-01-26,30,6
+Fire-Sensitive Location,2014-01-29,323,6
+Fire-2nd Alarm,2014-01-29,507,2
+Fire-Hospital,2014-01-30,55,7
+Fire-Sensitive Location,2014-01-30,140,6
+Fire-1st Alarm,2014-02-01,121,4
+Fire-Manhole,2014-02-01,353,8
+Fire-10-76 (Commercial High Rise Fire),2014-02-02,82,12
+Fire-1st Alarm,2014-02-06,120,4
+Fire-1st Alarm,2014-02-10,69,4
+Fire-10-76 (Commercial High Rise Fire),2014-02-11,15,12
+Fire-4th Alarm,2014-02-13,1794,1
+Fire-Manhole,2014-02-14,92,8
+Fire-2nd Alarm,2014-02-17,184,2
+Fire-3rd Alarm,2014-02-17,1339,5
+Fire-Manhole,2014-02-19,377,8
+Fire-3rd Alarm,2014-02-23,328,5
+Fire-10-77 (Residential High Rise Fire),2014-02-24,41,10
+Fire-Manhole,2014-02-24,150,8
+Fire-1st Alarm,2014-02-24,79,4
+Fire-3rd Alarm,2014-02-27,239,5
+Fire-3rd Alarm,2014-03-01,735,5
+Fire-Manhole,2014-03-06,365,8
+Fire-3rd Alarm,2014-03-06,1780,5
+Fire-2nd Alarm,2014-03-09,905,2
+Fire-2nd Alarm,2014-03-17,168,2
+Fire-3rd Alarm,2014-03-19,455,5
+Fire-4th Alarm,2014-03-20,303,1
+Fire-Sensitive Location,2014-03-21,3231,6
+Fire-3rd Alarm,2014-03-23,1566,5
+Fire-3rd Alarm,2014-03-23,378,5
+Fire-10-76 (Commercial High Rise Fire),2014-03-24,65,12
+Fire-3rd Alarm,2014-03-28,201,5
+Fire-1st Alarm,2014-03-28,263,4
+Fire-2nd Alarm,2014-03-30,106,2
+Fire-10-77 (Residential High Rise Fire),2014-04-06,164,10
+Fire-4th Alarm,2014-04-06,317,1
+Fire-3rd Alarm,2014-04-11,1790,5
+Fire-1st Alarm,2014-04-11,64,4
+Fire-1st Alarm,2014-04-12,71,4
+Fire-1st Alarm,2014-04-12,83,4
+Fire-Sensitive Location,2014-04-13,234,6
+Fire-3rd Alarm,2014-04-13,250,5
+Fire-Collapse,2014-04-14,246,14
+Fire-1st Alarm,2014-04-17,115,4
+Fire-School,2014-04-21,77,3
+Fire-1st Alarm,2014-04-28,57,4
+Fire-3rd Alarm,2014-04-29,164,5
+Fire-School,2014-04-30,80,3
+Fire-Haz Mat,2014-04-30,338,11
+Fire-Manhole,2014-05-01,346,8
+Fire-1st Alarm,2014-05-01,95,4
+Fire-Explosion,2014-05-01,218,9
+Fire-10-76 (Commercial High Rise Fire),2014-05-04,101,12
+Fire-2nd Alarm,2014-05-12,173,2
+Fire-1st Alarm,2014-05-14,72,4
+Fire-10-76 (Commercial High Rise Fire),2014-05-14,31,12
+Fire-10-77 (Residential High Rise Fire),2014-05-20,121,10
+Fire-Sensitive Location,2014-05-23,345,6
+Fire-1st Alarm,2014-05-27,104,4
+Fire-Manhole,2014-05-27,629,8
+Fire-Manhole,2014-05-28,651,8
+Fire-School,2014-05-31,211,3
+Fire-1st Alarm,2014-06-04,131,4
+Fire-5th Alarm,2014-06-05,3486,13
+Fire-3rd Alarm,2014-06-06,425,5
+Fire-3rd Alarm,2014-06-06,166,5
+Fire-3rd Alarm,2014-06-06,3,5
+Fire-1st Alarm,2014-06-08,75,4
+Fire-1st Alarm,2014-06-09,265,4
+Fire-2nd Alarm,2014-06-09,417,2
+Fire-3rd Alarm,2014-06-16,200,5
+Fire-10-76 (Commercial High Rise Fire),2014-06-16,90,12
+Fire-Haz Mat,2014-06-23,195,11
+Fire-Haz Mat,2014-06-25,262,11
+Fire-1st Alarm,2014-07-01,57,4
+Fire-Collapse,2014-07-05,146,14
+Fire-Haz Mat,2014-07-06,112,11
+Fire-10-77 (Residential High Rise Fire),2014-07-07,181,10
+Fire-1st Alarm,2014-07-07,61,4
+Fire-1st Alarm,2014-07-09,547,4
+Fire-Explosion,2014-07-11,62,9
+Fire-2nd Alarm,2014-07-12,76,2
+Fire-Other,2014-07-15,761,15
+Fire-1st Alarm,2014-07-16,57,4
+Fire-Haz Mat,2014-07-18,85,11
+Fire-Other,2014-07-18,42,15
+Fire-Collapse,2014-07-19,28,14
+Fire-5th Alarm,2014-07-25,1968,13
+Fire-10-77 (Residential High Rise Fire),2014-07-25,61,10
+Fire-10-77 (Residential High Rise Fire),2014-07-29,90,10
+Fire-2nd Alarm,2014-07-29,103,2
+Fire-Other,2014-07-30,137,15
+Fire-10-77 (Residential High Rise Fire),2014-07-31,3942,10
+Fire-10-77 (Residential High Rise Fire),2014-08-04,104,10
+Fire-10-77 (Residential High Rise Fire),2014-08-05,583,10
+Fire-1st Alarm,2014-08-05,593,4
+Fire-1st Alarm,2014-08-07,60,4
+Fire-Haz Mat,2014-08-07,276,11
+Fire-2nd Alarm,2014-08-11,1238,2
+Fire-Haz Mat,2014-08-12,157,11
+Fire-Other,2014-08-20,120,15
+Fire-10-76 (Commercial High Rise Fire),2014-08-21,94,12
+Fire-1st Alarm,2014-08-27,379,4
+Fire-1st Alarm,2014-08-28,137,4
+Fire-10-77 (Residential High Rise Fire),2014-08-29,4,10
+Fire-Haz Mat,2014-08-31,83,11
+Fire-1st Alarm,2014-09-09,220,4
+Fire-3rd Alarm,2014-09-10,719,5
+Fire-Haz Mat,2014-09-15,635,11
+Fire-Haz Mat,2014-09-16,79,11
+Fire-3rd Alarm,2014-09-17,623,5
+Fire-2nd Alarm,2014-09-21,1316,2
+Fire-2nd Alarm,2014-09-29,206,2
+Fire-Manhole,2014-09-30,3100,8
+Fire-2nd Alarm,2014-10-04,104,2
+Fire-Haz Mat,2014-10-06,27,11
+Fire-Haz Mat,2014-10-08,186,11
+Fire-Other,2014-10-08,329,15
+Fire-2nd Alarm,2014-10-10,1150,2
+Fire-10-76 (Commercial High Rise Fire),2014-10-10,82,12
+Fire-1st Alarm,2014-10-13,157,4
+Fire-2nd Alarm,2014-10-14,101,2
+Fire-2nd Alarm,2014-10-14,129,2
+Fire-2nd Alarm,2014-10-15,583,2
+Fire-2nd Alarm,2014-10-15,267,2
+Fire-1st Alarm,2014-10-15,13,4
+Fire-1st Alarm,2014-10-21,204,4
+Fire-Collapse,2014-10-23,157,14
+Fire-10-76 (Commercial High Rise Fire),2014-11-02,67,12
+Fire-Other,2014-11-02,234,15
+Fire-2nd Alarm,2014-11-02,173,2
+Fire-2nd Alarm,2014-11-03,117,2
+Fire-2nd Alarm,2014-11-04,229,2
+Fire-Sensitive Location,2014-11-05,373,6
+Fire-1st Alarm,2014-11-05,167,4
+Fire-2nd Alarm,2014-11-05,241,2
+Fire-2nd Alarm,2014-11-06,155,2
+Fire-1st Alarm,2014-11-07,97,4
+Fire-2nd Alarm,2014-11-10,1236,2
+Fire-Explosion,2014-11-13,1799,9
+Fire-2nd Alarm,2014-11-16,298,2
+Fire-Manhole,2014-11-17,246,8
+Fire-Manhole,2014-11-19,1228,8
+Fire-1st Alarm,2014-11-19,51,4
+Fire-2nd Alarm,2014-11-20,191,2
+Fire-2nd Alarm,2014-11-21,217,2
+Fire-3rd Alarm,2014-11-22,3854,5
+Fire-3rd Alarm,2014-11-25,1613,5
+Fire-1st Alarm,2014-11-25,354,4
+Fire-Explosion,2014-11-27,181,9
+Fire-Sensitive Location,2014-11-28,115,6
+Fire-10-76 (Commercial High Rise Fire),2014-11-29,102,12
+Fire-2nd Alarm,2014-12-05,102,2
+Fire-2nd Alarm,2014-12-09,195,2
+Fire-10-76 (Commercial High Rise Fire),2014-12-09,40,12
+Fire-School,2014-12-11,80,3
+Fire-10-77 (Residential High Rise Fire),2014-12-12,1444,10
+Fire-Sensitive Location,2014-12-12,142,6
+Fire-2nd Alarm,2014-12-14,119,2
+Fire-2nd Alarm,2014-12-14,253,2
+Fire-3rd Alarm,2014-12-15,1983,5
+Fire-2nd Alarm,2014-12-15,997,2
+Fire-2nd Alarm,2014-12-15,628,2
+Fire-1st Alarm,2014-12-16,68,4
+Fire-1st Alarm,2014-12-17,70,4
+Fire-2nd Alarm,2014-12-18,0,2
+Fire-10-76 (Commercial High Rise Fire),2014-12-19,57,12
+Fire-2nd Alarm,2014-12-20,295,2
+Fire-2nd Alarm,2014-12-20,214,2
+Fire-2nd Alarm,2014-12-21,169,2
+Fire-2nd Alarm,2014-12-21,144,2
+Fire-3rd Alarm,2014-12-24,240,5
+Fire-1st Alarm,2014-12-30,98,4
+Fire-2nd Alarm,2014-12-31,206,2
+Fire-2nd Alarm,2014-12-31,187,2
+Fire-1st Alarm,2015-01-02,43,4
+Fire-2nd Alarm,2015-01-04,2683,2
+Fire-2nd Alarm,2015-01-05,687,2
+Fire-Sensitive Location,2015-01-07,115,6
+Fire-2nd Alarm,2015-01-07,342,2
+Fire-1st Alarm,2015-01-08,122,4
+Fire-2nd Alarm,2015-01-09,1042,2
+Fire-10-77 (Residential High Rise Fire),2015-01-10,74,10
+Fire-2nd Alarm,2015-01-11,146,2
+Fire-1st Alarm,2015-01-12,61,4
+Fire-3rd Alarm,2015-01-13,849,5
+Fire-1st Alarm,2015-01-13,596,4
+Fire-2nd Alarm,2015-01-14,150,2
+Fire-Explosion,2015-01-15,166,9
+Fire-2nd Alarm,2015-01-17,310,2
+Fire-2nd Alarm,2015-01-17,1254,2
+Fire-2nd Alarm,2015-01-19,293,2
+Fire-10-77 (Residential High Rise Fire),2015-01-20,284,10
+Fire-1st Alarm,2015-01-20,81,4
+Fire-1st Alarm,2015-01-21,16,4
+Fire-1st Alarm,2015-01-21,44,4
+Fire-10-76 (Commercial High Rise Fire),2015-01-25,53,12
+Fire-2nd Alarm,2015-01-26,253,2
+Fire-2nd Alarm,2015-01-27,1,2
+Fire-2nd Alarm,2015-01-29,966,2
+Fire-Manhole,2015-01-29,1013,8
+Fire-2nd Alarm,2015-01-30,194,2
+Fire-2nd Alarm,2015-01-31,197,2
+Fire-2nd Alarm,2015-02-01,367,2
+Fire-Haz Mat,2015-02-02,830,11
+Fire-2nd Alarm,2015-02-04,247,2
+Fire-Haz Mat,2015-02-05,180,11
+Fire-School,2015-02-10,119,3
+Fire-Haz Mat,2015-02-10,57,11
+Fire-2nd Alarm,2015-02-12,93,2
+Fire-2nd Alarm,2015-02-12,375,2
+Fire-2nd Alarm,2015-02-12,289,2
+Fire-1st Alarm,2015-02-14,78,4
+Fire-2nd Alarm,2015-02-15,177,2
+Fire-2nd Alarm,2015-02-16,208,2
+Fire-2nd Alarm,2015-02-16,165,2
+Fire-2nd Alarm,2015-02-16,227,2
+Fire-2nd Alarm,2015-02-18,151,2
+Fire-2nd Alarm,2015-02-18,52,2
+Fire-10-77 (Residential High Rise Fire),2015-02-19,135,10
+Fire-School,2015-02-20,225,3
+Fire-Explosion,2015-02-20,122,9
+Fire-2nd Alarm,2015-02-20,119,2
+Fire-Explosion,2015-02-23,214,9
+Fire-10-77 (Residential High Rise Fire),2015-02-24,299,10
+Fire-2nd Alarm,2015-02-24,187,2
+Fire-2nd Alarm,2015-02-25,1051,2
+Fire-3rd Alarm,2015-02-27,109,5
+Fire-Manhole,2015-03-02,136,8
+Fire-Manhole,2015-03-04,3105,8
+Fire-Manhole,2015-03-04,21,8
+Fire-Sensitive Location,2015-03-04,87,6
+Fire-10-76 (Commercial High Rise Fire),2015-03-05,87,12
+Fire-Other,2015-03-05,276,15
+Fire-2nd Alarm,2015-03-05,130,2
+Fire-Haz Mat,2015-03-08,22,11
+Fire-Other,2015-03-10,330,15
+Fire-3rd Alarm,2015-03-10,206,5
+Fire-3rd Alarm,2015-03-11,275,5
+Fire-Manhole,2015-03-11,2392,8
+Fire-School,2015-03-13,42,3
+Fire-Other,2015-03-13,150,15
+Fire-1st Alarm,2015-03-16,65,4
+Fire-2nd Alarm,2015-03-18,122,2
+Fire-2nd Alarm,2015-03-18,220,2
+Fire-4th Alarm,2015-03-18,2311,1
+Fire-2nd Alarm,2015-03-19,40,2
+Fire-10-77 (Residential High Rise Fire),2015-03-19,907,10
+Fire-2nd Alarm,2015-03-20,3633,2
+Fire-2nd Alarm,2015-03-21,3493,2
+Fire-2nd Alarm,2015-03-22,1649,2
+Fire-Sensitive Location,2015-03-22,30,6
+Fire-2nd Alarm,2015-03-24,202,2
+Fire-2nd Alarm,2015-03-25,93,2
+Fire-2nd Alarm,2015-03-26,113,2
+Fire-3rd Alarm,2015-03-27,1234,5
+Fire-1st Alarm,2015-03-28,173,4
+Fire-2nd Alarm,2015-03-29,79,2
+Fire-1st Alarm,2015-03-30,208,4
+Fire-3rd Alarm,2015-04-02,214,5
+Fire-2nd Alarm,2015-04-02,161,2
+Fire-2nd Alarm,2015-04-02,138,2
+Fire-2nd Alarm,2015-04-02,154,2
+Fire-2nd Alarm,2015-04-03,191,2
+Fire-1st Alarm,2015-04-03,52,4
+Fire-2nd Alarm,2015-04-04,265,2
+Fire-Other,2015-04-05,184,15
+Fire-10-77 (Residential High Rise Fire),2015-04-05,34,10
+Fire-2nd Alarm,2015-04-07,250,2
+Fire-3rd Alarm,2015-04-07,995,5
+Fire-2nd Alarm,2015-04-08,160,2
+Fire-2nd Alarm,2015-04-08,134,2
+Fire-3rd Alarm,2015-04-08,2627,5
+Fire-2nd Alarm,2015-04-09,216,2
+Fire-2nd Alarm,2015-04-10,133,2
+Fire-10-76 (Commercial High Rise Fire),2015-04-11,140,12
+Fire-2nd Alarm,2015-04-12,196,2
+Fire-2nd Alarm,2015-04-13,195,2
+Fire-Haz Mat,2015-04-15,79,11
+Fire-2nd Alarm,2015-04-17,329,2
+Fire-2nd Alarm,2015-04-21,132,2
+Fire-Other,2015-04-21,98,15
+Fire-Haz Mat,2015-04-21,178,11
+Fire-2nd Alarm,2015-04-23,116,2
+Fire-2nd Alarm,2015-04-28,304,2
+Fire-2nd Alarm,2015-04-30,119,2
+Fire-2nd Alarm,2015-05-03,438,2
+Fire-2nd Alarm,2015-05-04,133,2
+Fire-2nd Alarm,2015-05-06,770,2
+Fire-2nd Alarm,2015-05-07,186,2
+Fire-Haz Mat,2015-05-07,54,11
+Fire-2nd Alarm,2015-05-08,679,2
+Fire-2nd Alarm,2015-05-08,227,2
+Fire-Explosion,2015-05-08,82,9
+Fire-3rd Alarm,2015-05-11,463,5
+Fire-School,2015-05-12,63,3
+Fire-1st Alarm,2015-05-13,88,4
+Fire-2nd Alarm,2015-05-14,221,2
+Fire-2nd Alarm,2015-05-14,165,2
+Fire-3rd Alarm,2015-05-16,521,5
+Fire-Explosion,2015-05-16,150,9
+Fire-1st Alarm,2015-05-17,42,4
+Fire-2nd Alarm,2015-05-18,89,2
+Fire-Other,2015-05-18,228,15
+Fire-2nd Alarm,2015-05-18,200,2
+Fire-Haz Mat,2015-05-21,95,11
+Fire-Haz Mat,2015-05-21,70,11
+Fire-2nd Alarm,2015-05-22,313,2
+Fire-1st Alarm,2015-05-22,610,4
+Fire-2nd Alarm,2015-05-24,198,2
+Fire-10-76 (Commercial High Rise Fire),2015-05-24,24,12
+Fire-3rd Alarm,2015-05-25,136,5
+Fire-3rd Alarm,2015-05-29,226,5
+Fire-2nd Alarm,2015-05-30,235,2
+Fire-2nd Alarm,2015-05-31,351,2
+Fire-2nd Alarm,2015-05-31,1130,2
+Fire-2nd Alarm,2015-05-31,11,2
+Fire-10-76 (Commercial High Rise Fire),2015-06-03,76,12
+Fire-10-76 (Commercial High Rise Fire),2015-06-03,96,12
+Fire-2nd Alarm,2015-06-06,501,2
+Fire-3rd Alarm,2015-06-08,329,5
+Fire-10-76 (Commercial High Rise Fire),2015-06-10,83,12
+Fire-1st Alarm,2015-06-11,85,4
+Fire-1st Alarm,2015-06-12,92,4
+Fire-Manhole,2015-06-12,269,8
+Fire-10-77 (Residential High Rise Fire),2015-06-15,287,10
+Fire-2nd Alarm,2015-06-15,114,2
+Fire-Manhole,2015-06-15,582,8
+Fire-2nd Alarm,2015-06-16,149,2
+Fire-1st Alarm,2015-06-17,86,4
+Fire-Other,2015-06-18,108,15
+Fire-1st Alarm,2015-06-19,3776,4
+Fire-10-77 (Residential High Rise Fire),2015-06-19,166,10
+Fire-2nd Alarm,2015-06-22,266,2
+Fire-1st Alarm,2015-06-23,155,4
+Fire-Manhole,2015-06-25,170,8
+Fire-2nd Alarm,2015-06-25,370,2
+Fire-2nd Alarm,2015-06-26,188,2
+Fire-10-77 (Residential High Rise Fire),2015-06-26,372,10
+Fire-Haz Mat,2015-06-28,53,11
+Fire-2nd Alarm,2015-06-30,98,2
+Fire-2nd Alarm,2015-07-04,1182,2
+Fire-1st Alarm,2015-07-05,29,4
+Fire-2nd Alarm,2015-07-07,128,2
+Fire-Manhole,2015-07-07,150,8
+Fire-1st Alarm,2015-07-08,45,4
+Fire-Collapse,2015-07-09,1329,14
+Fire-3rd Alarm,2015-07-12,304,5
+Fire-Manhole,2015-07-13,240,8
+Fire-2nd Alarm,2015-07-14,466,2
+Fire-Collapse,2015-07-16,656,14
+Fire-Hospital,2015-07-19,74,7
+Fire-Manhole,2015-07-20,2137,8
+Fire-10-77 (Residential High Rise Fire),2015-07-20,67,10
+Fire-Other,2015-07-20,34,15
+Fire-3rd Alarm,2015-07-22,643,5
+Fire-2nd Alarm,2015-07-25,1498,2
+Fire-1st Alarm,2015-07-27,48,4
+Fire-2nd Alarm,2015-07-28,500,2
+Fire-2nd Alarm,2015-07-29,106,2
+Fire-Manhole,2015-07-30,563,8
+Fire-Collapse,2015-07-31,77,14
+Fire-2nd Alarm,2015-08-06,243,2
+Fire-3rd Alarm,2015-08-09,191,5
+Fire-2nd Alarm,2015-08-13,323,2
+Fire-1st Alarm,2015-08-14,412,4
+Fire-1st Alarm,2015-08-14,131,4
+Fire-10-76 (Commercial High Rise Fire),2015-08-17,65,12
+Fire-2nd Alarm,2015-08-18,79,2
+Fire-3rd Alarm,2015-08-20,410,5
+Fire-2nd Alarm,2015-08-22,107,2
+Fire-2nd Alarm,2015-08-23,136,2
+Fire-10-77 (Residential High Rise Fire),2015-08-23,461,10
+Fire-Hospital,2015-08-26,52,7
+Fire-1st Alarm,2015-08-26,46,4
+Fire-1st Alarm,2015-08-27,285,4
+Fire-1st Alarm,2015-08-28,221,4
+Fire-2nd Alarm,2015-08-30,225,2
+Fire-Manhole,2015-08-31,2233,8
+Fire-3rd Alarm,2015-09-01,439,5
+Fire-Other,2015-09-03,0,15
+Fire-4th Alarm,2015-09-03,329,1
+Fire-Haz Mat,2015-09-03,82,11
+Fire-Haz Mat,2015-09-04,148,11
+Fire-Manhole,2015-09-05,889,8
+Fire-Hospital,2015-09-05,142,7
+Fire-Haz Mat,2015-09-06,47,11
+Fire-2nd Alarm,2015-09-08,40,2
+Fire-1st Alarm,2015-09-09,445,4
+Fire-Manhole,2015-09-13,1569,8
+Fire-Haz Mat,2015-09-16,73,11
+Fire-2nd Alarm,2015-09-20,610,2
+Fire-1st Alarm,2015-09-23,62,4
+Fire-10-77 (Residential High Rise Fire),2015-09-23,69,10
+Fire-2nd Alarm,2015-09-23,145,2
+Fire-1st Alarm,2015-09-24,91,4
+Fire-2nd Alarm,2015-09-28,120,2
+Fire-Manhole,2015-09-29,870,8
+Fire-4th Alarm,2015-09-30,2429,1
+Fire-2nd Alarm,2015-09-30,131,2
+Fire-School,2015-10-07,99,3
+Fire-3rd Alarm,2015-10-08,225,5
+Fire-2nd Alarm,2015-10-09,171,2
+Fire-Other,2015-10-13,105,15
+Fire-Haz Mat,2015-10-13,785,11
+Fire-Other,2015-10-14,703,15
+Fire-1st Alarm,2015-10-14,71,4
+Fire-2nd Alarm,2015-10-16,159,2
+Fire-Other,2015-10-17,93,15
+Fire-2nd Alarm,2015-10-20,233,2
+Fire-Haz Mat,2015-10-21,62,11
+Fire-1st Alarm,2015-10-21,83,4
+Fire-10-77 (Residential High Rise Fire),2015-10-22,1319,10
+Fire-2nd Alarm,2015-10-23,127,2
+Fire-2nd Alarm,2015-10-24,199,2
+Fire-3rd Alarm,2015-10-25,320,5
+Fire-Collapse,2015-10-29,162,14
+Fire-2nd Alarm,2015-11-01,113,2
+Fire-Manhole,2015-11-01,1066,8
+Fire-Manhole,2015-11-05,708,8
+Fire-Haz Mat,2015-11-06,67,11
+Fire-10-76 (Commercial High Rise Fire),2015-11-07,65,12
+Fire-3rd Alarm,2015-11-08,388,5
+Fire-Manhole,2015-11-09,687,8
+Fire-Haz Mat,2015-11-10,53,11
+Fire-2nd Alarm,2015-11-14,74,2
+Fire-2nd Alarm,2015-11-14,2744,2
+Fire-2nd Alarm,2015-11-14,97,2
+Fire-Haz Mat,2015-11-16,63,11
+Fire-2nd Alarm,2015-11-17,128,2
+Fire-2nd Alarm,2015-11-17,161,2
+Fire-2nd Alarm,2015-11-18,103,2
+Fire-1st Alarm,2015-11-19,11,4
+Fire-2nd Alarm,2015-11-23,101,2
+Fire-3rd Alarm,2015-11-25,161,5
+Fire-2nd Alarm,2015-11-25,130,2
+Fire-2nd Alarm,2015-11-25,146,2
+Fire-2nd Alarm,2015-11-25,1882,2
+Fire-2nd Alarm,2015-11-26,26,2
+Fire-2nd Alarm,2015-11-26,138,2
+Fire-10-77 (Residential High Rise Fire),2015-11-26,120,10
+Fire-2nd Alarm,2015-11-28,260,2
+Fire-2nd Alarm,2015-11-30,112,2
+Fire-2nd Alarm,2015-11-30,122,2
+Fire-Other,2015-12-01,408,15
+Fire-2nd Alarm,2015-12-01,990,2
+Fire-Haz Mat,2015-12-02,135,11
+Fire-2nd Alarm,2015-12-02,183,2
+Fire-10-77 (Residential High Rise Fire),2015-12-02,99,10
+Fire-Manhole,2015-12-04,1064,8
+Fire-Manhole,2015-12-05,182,8
+Fire-2nd Alarm,2015-12-05,167,2
+Fire-2nd Alarm,2015-12-06,105,2
+Fire-3rd Alarm,2015-12-06,3085,5
+Fire-10-77 (Residential High Rise Fire),2015-12-06,71,10
+Fire-2nd Alarm,2015-12-07,421,2
+Fire-Haz Mat,2015-12-09,1768,11
+Fire-2nd Alarm,2015-12-11,103,2
+Fire-3rd Alarm,2015-12-12,118,5
+Fire-Other,2015-12-14,292,15
+Fire-Haz Mat,2015-12-15,10,11
+Fire-Sensitive Location,2015-12-15,130,6
+Fire-2nd Alarm,2015-12-18,122,2
+Fire-Haz Mat,2015-12-18,49,11
+Fire-Other,2015-12-19,204,15
+Fire-Haz Mat,2015-12-20,46,11
+Fire-Haz Mat,2015-12-21,171,11
+Fire-Collapse,2015-12-21,58,14
+Fire-2nd Alarm,2015-12-21,261,2
+Fire-1st Alarm,2015-12-22,303,4
+Fire-1st Alarm,2015-12-26,114,4
+Fire-2nd Alarm,2015-12-27,150,2
+Fire-2nd Alarm,2015-12-28,108,2
+Fire-Manhole,2015-12-29,769,8
+Fire-1st Alarm,2016-01-01,417,4
+Fire-2nd Alarm,2016-01-02,171,2
+Fire-2nd Alarm,2016-01-03,139,2
+Fire-Haz Mat,2016-01-03,45,11
+Fire-School,2016-01-04,36,3
+Fire-2nd Alarm,2016-01-05,340,2
+Fire-Other,2016-01-06,43,15
+Fire-1st Alarm,2016-01-06,112,4
+Fire-2nd Alarm,2016-01-08,119,2
+Fire-2nd Alarm,2016-01-08,109,2
+Fire-1st Alarm,2016-01-09,40,4
+Fire-2nd Alarm,2016-01-11,143,2
+Fire-3rd Alarm,2016-01-12,770,5
+Fire-2nd Alarm,2016-01-14,95,2
+Fire-2nd Alarm,2016-01-15,200,2
+Fire-Haz Mat,2016-01-18,665,11
+Fire-10-77 (Residential High Rise Fire),2016-01-18,203,10
+Fire-2nd Alarm,2016-01-20,121,2
+Fire-3rd Alarm,2016-01-21,153,5
+Fire-2nd Alarm,2016-01-23,165,2
+Fire-Other,2016-01-23,33,15
+Fire-10-76 (Commercial High Rise Fire),2016-01-23,128,12
+Fire-4th Alarm,2016-01-24,383,1
+Fire-Collapse,2016-01-24,92,14
+Fire-2nd Alarm,2016-01-24,145,2
+Fire-2nd Alarm,2016-01-25,136,2
+Fire-2nd Alarm,2016-01-26,221,2
+Fire-2nd Alarm,2016-01-27,2224,2
+Fire-Haz Mat,2016-01-28,50,11
+Fire-1st Alarm,2016-01-29,68,4
+Fire-Manhole,2016-01-30,704,8
+Fire-2nd Alarm,2016-01-31,100,2
+Fire-2nd Alarm,2016-02-01,1415,2
+Fire-1st Alarm,2016-02-01,66,4
+Fire-3rd Alarm,2016-02-01,334,5
+Fire-Other,2016-02-02,12,15
+Fire-3rd Alarm,2016-02-02,376,5
+Fire-1st Alarm,2016-02-02,68,4
+Fire-1st Alarm,2016-02-04,40,4
+Fire-2nd Alarm,2016-02-06,319,2
+Fire-Other,2016-02-09,40,15
+Fire-Other,2016-02-09,26,15
+Fire-2nd Alarm,2016-02-12,117,2
+Fire-2nd Alarm,2016-02-13,149,2
+Fire-Other,2016-02-13,60,15
+Fire-2nd Alarm,2016-02-14,134,2
+Fire-3rd Alarm,2016-02-15,214,5
+Fire-Other,2016-02-15,41,15
+Fire-2nd Alarm,2016-02-16,136,2
+Fire-Sensitive Location,2016-02-19,131,6
+Fire-Other,2016-02-20,41,15
+Fire-2nd Alarm,2016-02-20,186,2
+Fire-1st Alarm,2016-02-21,31,4
+Fire-Hospital,2016-02-23,127,7
+Fire-2nd Alarm,2016-02-24,250,2
+Fire-Other,2016-02-26,176,15
+Fire-1st Alarm,2016-02-29,175,4
+Fire-2nd Alarm,2016-02-29,232,2
+Fire-Haz Mat,2016-02-29,43,11
+Fire-Haz Mat,2016-02-29,1220,11
+Fire-School,2016-03-01,43,3
+Fire-2nd Alarm,2016-03-01,647,2
+Fire-Haz Mat,2016-03-02,157,11
+Fire-Other,2016-03-02,40,15
+Fire-10-76 (Commercial High Rise Fire),2016-03-04,197,12
+Fire-2nd Alarm,2016-03-05,64,2
+Fire-10-76 (Commercial High Rise Fire),2016-03-06,98,12
+Fire-2nd Alarm,2016-03-07,55,2
+Fire-2nd Alarm,2016-03-09,599,2
+Fire-2nd Alarm,2016-03-09,102,2
+Fire-2nd Alarm,2016-03-10,173,2
+Fire-2nd Alarm,2016-03-10,226,2
+Fire-10-77 (Residential High Rise Fire),2016-03-11,66,10
+Fire-3rd Alarm,2016-03-13,163,5
+Fire-3rd Alarm,2016-03-13,150,5
+Fire-2nd Alarm,2016-03-14,133,2
+Fire-Manhole,2016-03-17,68,8
+Fire-1st Alarm,2016-03-18,217,4
+Fire-2nd Alarm,2016-03-21,152,2
+Fire-Sensitive Location,2016-03-22,129,6
+Fire-2nd Alarm,2016-03-22,143,2
+Fire-2nd Alarm,2016-03-23,3824,2
+Fire-Haz Mat,2016-03-24,147,11
+Fire-School,2016-03-25,93,3
+Fire-2nd Alarm,2016-03-26,2663,2
+Fire-2nd Alarm,2016-03-28,2947,2
+Fire-3rd Alarm,2016-03-29,218,5
+Fire-Haz Mat,2016-03-31,505,11
+Fire-Collapse,2016-04-03,765,14
+Fire-10-77 (Residential High Rise Fire),2016-04-06,175,10
+Fire-3rd Alarm,2016-04-07,738,5
+Fire-2nd Alarm,2016-04-10,104,2
+Fire-2nd Alarm,2016-04-13,143,2
+Fire-3rd Alarm,2016-04-13,373,5
+Fire-2nd Alarm,2016-04-16,364,2
+Fire-2nd Alarm,2016-04-18,117,2
+Fire-2nd Alarm,2016-04-18,2428,2
+Fire-2nd Alarm,2016-04-18,218,2
+Fire-2nd Alarm,2016-04-19,2141,2
+Fire-4th Alarm,2016-04-19,778,1
+Fire-2nd Alarm,2016-04-20,176,2
+Fire-2nd Alarm,2016-04-20,78,2
+Fire-Haz Mat,2016-04-23,322,11
+Fire-2nd Alarm,2016-04-24,177,2
+Fire-2nd Alarm,2016-04-24,63,2
+Fire-Sensitive Location,2016-04-24,52,6
+Fire-Haz Mat,2016-04-28,169,11
+Fire-2nd Alarm,2016-04-29,150,2
+Fire-Sensitive Location,2016-05-13,89,6
+Fire-Haz Mat,2016-05-13,896,11
+Fire-2nd Alarm,2016-05-15,141,2
+Fire-10-77 (Residential High Rise Fire),2016-05-15,66,10
+Fire-1st Alarm,2016-05-16,1174,4
+Fire-Other,2016-05-19,316,15
+Fire-2nd Alarm,2016-05-29,128,2
+Fire-2nd Alarm,2016-05-30,473,2
+Fire-2nd Alarm,2016-06-01,140,2
+Fire-1st Alarm,2016-06-05,166,4
+Fire-1st Alarm,2016-06-05,70,4
+Fire-2nd Alarm,2016-06-07,332,2
+Fire-Other,2016-06-11,953,15
+Fire-2nd Alarm,2016-06-14,4,2
+Fire-2nd Alarm,2016-06-14,230,2
+Fire-1st Alarm,2016-06-14,69,4
+Fire-1st Alarm,2016-06-15,213,4
+Fire-1st Alarm,2016-06-22,46,4
+Fire-1st Alarm,2016-06-22,230,4
+Fire-10-76 (Commercial High Rise Fire),2016-07-02,100,12
+Fire-Sensitive Location,2016-07-06,168,6
+Fire-3rd Alarm,2016-07-07,1217,5
+Fire-Explosion,2016-07-08,57,9
+Fire-2nd Alarm,2016-07-24,80,2
+Fire-Hospital,2016-07-25,64,7
+Fire-3rd Alarm,2016-08-02,3445,5
+Fire-3rd Alarm,2016-08-02,245,5
+Fire-5th Alarm,2016-08-03,3857,13
+Fire-10-76 (Commercial High Rise Fire),2016-08-09,99,12
+Fire-4th Alarm,2016-08-09,1196,1
+Fire-1st Alarm,2016-08-09,219,4
+Fire-2nd Alarm,2016-08-13,1025,2
+Fire-Manhole,2016-08-19,35,8
+Fire-1st Alarm,2016-08-20,1347,4
+Fire-Sensitive Location,2016-08-21,83,6
+Fire-2nd Alarm,2016-08-22,93,2
+Fire-2nd Alarm,2016-08-22,124,2
+Fire-Manhole,2016-08-22,273,8
+Fire-10-77 (Residential High Rise Fire),2016-08-23,46,10
+Fire-Sensitive Location,2016-08-25,158,6
+Fire-2nd Alarm,2016-08-25,102,2
+Fire-2nd Alarm,2016-08-25,170,2
+Fire-2nd Alarm,2016-08-26,227,2
+Fire-1st Alarm,2016-08-26,111,4
+Fire-4th Alarm,2016-09-03,305,1
+Fire-10-76 (Commercial High Rise Fire),2016-09-05,45,12
+Fire-Manhole,2016-09-08,1110,8
+Fire-10-77 (Residential High Rise Fire),2016-09-09,29,10
+Fire-2nd Alarm,2016-09-09,320,2
+Fire-2nd Alarm,2016-09-11,67,2
+Fire-Explosion,2016-09-21,65,9
+Fire-Haz Mat,2016-09-25,23,11
+Fire-2nd Alarm,2016-09-26,128,2
+Fire-2nd Alarm,2016-09-28,60,2
+Fire-3rd Alarm,2016-10-01,239,5
+Fire-3rd Alarm,2016-10-01,453,5
+Fire-2nd Alarm,2016-10-03,197,2
+Fire-2nd Alarm,2016-10-03,114,2
+Fire-Collapse,2016-10-05,20,14
+Fire-1st Alarm,2016-10-06,91,4
+Fire-1st Alarm,2016-10-10,86,4
+Fire-2nd Alarm,2016-10-20,276,2
+Fire-2nd Alarm,2016-10-20,1142,2
+Fire-1st Alarm,2016-10-22,856,4
+Fire-2nd Alarm,2016-10-25,183,2
+Fire-1st Alarm,2016-10-25,121,4
+Fire-3rd Alarm,2016-10-26,1761,5
+Fire-2nd Alarm,2016-10-27,90,2
+Fire-2nd Alarm,2016-10-27,108,2
+Fire-2nd Alarm,2016-10-29,119,2
+Fire-2nd Alarm,2016-11-01,152,2
+Fire-10-77 (Residential High Rise Fire),2016-11-07,8,10
+Fire-1st Alarm,2016-11-07,179,4
+Fire-10-77 (Residential High Rise Fire),2016-11-12,113,10
+Fire-2nd Alarm,2016-11-21,185,2
+Fire-2nd Alarm,2016-11-25,2338,2
+Fire-10-76 (Commercial High Rise Fire),2016-11-26,117,12
+Fire-3rd Alarm,2016-11-27,2285,5
+Fire-2nd Alarm,2016-11-28,208,2
+Fire-2nd Alarm,2016-11-29,120,2
+Fire-3rd Alarm,2016-11-30,236,5
+Fire-3rd Alarm,2016-11-30,619,5
+Fire-1st Alarm,2016-11-30,36,4
+Fire-Other,2016-12-07,1000,15
+Fire-2nd Alarm,2016-12-08,256,2
+Fire-School,2016-12-09,42,3
+Fire-Other,2016-12-09,45,15
+Fire-Other,2016-12-10,248,15
+Fire-2nd Alarm,2016-12-11,148,2
+Fire-2nd Alarm,2016-12-11,935,2
+Fire-4th Alarm,2016-12-13,338,1
+Fire-10-77 (Residential High Rise Fire),2016-12-14,105,10
+Fire-2nd Alarm,2016-12-14,79,2
+Fire-2nd Alarm,2016-12-14,2169,2
+Fire-2nd Alarm,2016-12-15,1070,2
+Fire-1st Alarm,2016-12-17,710,4
+Fire-2nd Alarm,2016-12-18,591,2
+Fire-2nd Alarm,2016-12-18,984,2
+Fire-10-76 (Commercial High Rise Fire),2016-12-18,281,12
+Fire-2nd Alarm,2016-12-21,130,2
+Fire-4th Alarm,2016-12-22,698,1
+Fire-1st Alarm,2016-12-25,2255,4
+Fire-2nd Alarm,2016-12-26,147,2
+Fire-2nd Alarm,2016-12-28,305,2
+Fire-2nd Alarm,2016-12-28,88,2
+Fire-2nd Alarm,2016-12-29,149,2
+Fire-5th Alarm,2016-12-30,1554,13
+Fire-Sensitive Location,2016-12-31,48,6
+Fire-2nd Alarm,2016-12-31,62,2
+Fire-2nd Alarm,2017-01-03,141,2
+Fire-Manhole,2017-01-04,250,8
+Fire-2nd Alarm,2017-01-04,174,2
+Fire-3rd Alarm,2017-01-06,769,5
+Fire-3rd Alarm,2017-01-08,471,5
+Fire-10-76 (Commercial High Rise Fire),2017-01-08,85,12
+Fire-3rd Alarm,2017-01-09,305,5
+Fire-5th Alarm,2017-01-11,553,13
+Fire-Haz Mat,2017-01-11,168,11
+Fire-2nd Alarm,2017-01-11,161,2
+Fire-3rd Alarm,2017-01-12,142,5
+Fire-2nd Alarm,2017-01-16,134,2
+Fire-10-77 (Residential High Rise Fire),2017-01-16,1475,10
+Fire-10-77 (Residential High Rise Fire),2017-01-16,7,10
+Fire-4th Alarm,2017-01-21,187,1
+Fire-2nd Alarm,2017-01-21,243,2
+Fire-1st Alarm,2017-01-23,492,4
+Fire-3rd Alarm,2017-01-24,348,5
+Fire-4th Alarm,2017-01-25,1680,1
+Fire-2nd Alarm,2017-01-28,93,2
+Fire-2nd Alarm,2017-01-29,48,2
+Fire-10-76 (Commercial High Rise Fire),2017-01-29,46,12
+Fire-2nd Alarm,2017-01-29,112,2
+Fire-3rd Alarm,2017-01-29,369,5
+Fire-2nd Alarm,2017-01-30,154,2
+Fire-2nd Alarm,2017-01-30,163,2
+Fire-2nd Alarm,2017-02-04,71,2
+Fire-2nd Alarm,2017-02-05,96,2
+Fire-4th Alarm,2017-02-08,1113,1
+Fire-3rd Alarm,2017-02-09,217,5
+Fire-2nd Alarm,2017-02-10,183,2
+Fire-10-76 (Commercial High Rise Fire),2017-02-11,132,12
+Fire-2nd Alarm,2017-02-12,117,2
+Fire-1st Alarm,2017-02-14,701,4
+Fire-Manhole,2017-02-14,147,8
+Fire-2nd Alarm,2017-02-14,82,2
+Fire-2nd Alarm,2017-02-15,245,2
+Fire-2nd Alarm,2017-02-16,119,2
+Fire-10-76 (Commercial High Rise Fire),2017-02-17,71,12
+Fire-2nd Alarm,2017-02-17,88,2
+Fire-Collapse,2017-02-19,395,14
+Fire-2nd Alarm,2017-02-21,229,2
+Fire-10-76 (Commercial High Rise Fire),2017-02-21,226,12
+Fire-Other,2017-02-21,15,15
+Fire-1st Alarm,2017-02-22,64,4
+Fire-1st Alarm,2017-02-23,84,4
+Fire-4th Alarm,2017-02-24,1283,1
+Fire-4th Alarm,2017-03-01,3809,1
+Fire-2nd Alarm,2017-03-02,111,2
+Fire-10-76 (Commercial High Rise Fire),2017-03-02,803,12
+Fire-10-77 (Residential High Rise Fire),2017-03-03,114,10
+Fire-2nd Alarm,2017-03-04,3672,2
+Fire-1st Alarm,2017-03-05,159,4
+Fire-2nd Alarm,2017-03-06,151,2
+Fire-10-77 (Residential High Rise Fire),2017-03-07,56,10
+Fire-5th Alarm,2017-03-12,1729,13
+Fire-10-76 (Commercial High Rise Fire),2017-03-13,97,12
+Fire-Collapse,2017-03-14,111,14
+Fire-2nd Alarm,2017-03-17,121,2
+Fire-10-76 (Commercial High Rise Fire),2017-03-17,127,12
+Fire-Other,2017-03-19,100,15
+Fire-2nd Alarm,2017-03-22,39,2
+Fire-Other,2017-03-23,476,15
+Fire-2nd Alarm,2017-03-23,145,2
+Fire-Other,2017-03-24,96,15
+Fire-1st Alarm,2017-03-26,33,4
+Fire-10-76 (Commercial High Rise Fire),2017-03-28,74,12
+Fire-1st Alarm,2017-03-30,124,4
+Fire-Haz Mat,2017-03-30,259,11
+Fire-Other,2017-04-01,1381,15
+Fire-2nd Alarm,2017-04-04,89,2
+Fire-1st Alarm,2017-04-04,102,4
+Fire-2nd Alarm,2017-04-05,928,2
+Fire-Other,2017-04-05,110,15
+Fire-Other,2017-04-06,18,15
+Fire-2nd Alarm,2017-04-07,140,2
+Fire-2nd Alarm,2017-04-07,89,2
+Fire-2nd Alarm,2017-04-08,155,2
+Fire-3rd Alarm,2017-04-09,1294,5
+Fire-10-76 (Commercial High Rise Fire),2017-04-09,533,12
+Fire-Haz Mat,2017-04-10,32,11
+Fire-2nd Alarm,2017-04-13,165,2
+Fire-2nd Alarm,2017-04-14,967,2
+Fire-2nd Alarm,2017-04-16,1102,2
+Fire-10-76 (Commercial High Rise Fire),2017-04-18,112,12
+Fire-Manhole,2017-04-19,128,8
+Fire-2nd Alarm,2017-04-20,702,2
+Fire-2nd Alarm,2017-04-20,103,2
+Fire-2nd Alarm,2017-04-22,173,2
+Fire-2nd Alarm,2017-04-23,178,2
+Fire-2nd Alarm,2017-04-23,95,2
+Fire-Sensitive Location,2017-04-23,0,6
+Fire-Manhole,2017-04-24,811,8
+Fire-1st Alarm,2017-04-25,87,4
+Fire-2nd Alarm,2017-04-25,146,2
+Fire-2nd Alarm,2017-04-27,132,2
+Fire-Manhole,2017-04-27,1,8
+Fire-Sensitive Location,2017-04-27,48,6
+Fire-3rd Alarm,2017-04-28,2680,5
+Fire-3rd Alarm,2017-04-28,585,5
+Fire-3rd Alarm,2017-04-28,1542,5
+Fire-3rd Alarm,2017-04-29,141,5
+Fire-Haz Mat,2017-04-30,67,11
+Fire-2nd Alarm,2017-05-02,197,2
+Fire-2nd Alarm,2017-05-04,162,2
+Fire-2nd Alarm,2017-05-05,156,2
+Fire-2nd Alarm,2017-05-07,94,2
+Fire-1st Alarm,2017-05-08,191,4
+Fire-1st Alarm,2017-05-10,120,4
+Fire-10-76 (Commercial High Rise Fire),2017-05-10,228,12
+Fire-Collapse,2017-05-13,112,14
+Fire-Sensitive Location,2017-05-17,1641,6
+Fire-Other,2017-05-19,127,15
+Fire-5th Alarm,2017-05-21,3607,13
+Fire-3rd Alarm,2017-05-23,509,5
+Fire-2nd Alarm,2017-05-28,108,2
+Fire-2nd Alarm,2017-05-29,964,2
+Fire-2nd Alarm,2017-05-29,147,2
+Fire-Manhole,2017-05-30,345,8
+Fire-2nd Alarm,2017-06-01,91,2
+Fire-Collapse,2017-06-03,926,14
+Fire-10-76 (Commercial High Rise Fire),2017-06-03,129,12
+Fire-2nd Alarm,2017-06-09,64,2
+Fire-2nd Alarm,2017-06-11,54,2
+Fire-Other,2017-06-12,8,15
+Fire-2nd Alarm,2017-06-13,256,2
+Fire-10-76 (Commercial High Rise Fire),2017-06-13,103,12
+Fire-2nd Alarm,2017-06-13,235,2
+Fire-2nd Alarm,2017-06-14,364,2
+Fire-2nd Alarm,2017-06-15,125,2
+Fire-10-76 (Commercial High Rise Fire),2017-06-16,48,12
+Fire-Other,2017-06-21,160,15
+Fire-1st Alarm,2017-06-21,190,4
+Fire-2nd Alarm,2017-06-22,93,2
+Fire-5th Alarm,2017-06-22,3402,13
+Fire-Other,2017-06-23,35,15
+Fire-Other,2017-06-23,42,15
+Fire-2nd Alarm,2017-06-25,1141,2
+Fire-2nd Alarm,2017-06-26,95,2
+Fire-1st Alarm,2017-06-29,44,4
+Fire-1st Alarm,2017-06-30,140,4
+Fire-2nd Alarm,2017-07-02,167,2
+Fire-2nd Alarm,2017-07-03,1127,2
+Fire-4th Alarm,2017-07-04,1935,1
+Fire-2nd Alarm,2017-07-04,158,2
+Fire-3rd Alarm,2017-07-05,842,5
+Fire-3rd Alarm,2017-07-05,268,5
+Fire-2nd Alarm,2017-07-09,892,2
+Fire-School,2017-07-11,87,3
+Fire-10-76 (Commercial High Rise Fire),2017-07-17,70,12
+Fire-2nd Alarm,2017-07-21,199,2
+Fire-2nd Alarm,2017-07-22,202,2
+Fire-2nd Alarm,2017-07-24,179,2
+Fire-2nd Alarm,2017-07-25,217,2
+Fire-2nd Alarm,2017-07-26,167,2
+Fire-2nd Alarm,2017-07-26,156,2
+Fire-1st Alarm,2017-08-01,201,4
+Fire-1st Alarm,2017-08-02,220,4
+Fire-1st Alarm,2017-08-04,55,4
+Fire-1st Alarm,2017-08-04,41,4
+Fire-1st Alarm,2017-08-06,142,4
+Fire-2nd Alarm,2017-08-15,161,2
+Fire-Explosion,2017-08-16,29,9
+Fire-2nd Alarm,2017-08-21,144,2
+Fire-2nd Alarm,2017-08-23,229,2
+Fire-Explosion,2017-08-24,120,9
+Fire-Manhole,2017-08-25,984,8
+Fire-2nd Alarm,2017-08-26,153,2
+Fire-3rd Alarm,2017-08-28,234,5
+Fire-2nd Alarm,2017-08-30,182,2
+Fire-2nd Alarm,2017-09-04,135,2
+Fire-School,2017-09-04,80,3
+Fire-10-76 (Commercial High Rise Fire),2017-09-07,49,12
+Fire-2nd Alarm,2017-09-08,173,2
+Fire-Sensitive Location,2017-09-08,44,6
+Fire-Other,2017-09-08,104,15
+Fire-2nd Alarm,2017-09-10,101,2
+Fire-2nd Alarm,2017-09-10,112,2
+Fire-2nd Alarm,2017-09-11,141,2
+Fire-Haz Mat,2017-09-16,83,11
+Fire-Other,2017-09-17,3368,15
+Fire-Haz Mat,2017-09-22,109,11
+Fire-2nd Alarm,2017-09-22,129,2
+Fire-2nd Alarm,2017-09-23,177,2
+Fire-1st Alarm,2017-09-24,107,4
+Fire-2nd Alarm,2017-09-25,381,2
+Fire-1st Alarm,2017-09-27,375,4
+Fire-2nd Alarm,2017-09-29,301,2
+Fire-2nd Alarm,2017-10-05,213,2
+Fire-Other,2017-10-07,56,15
+Fire-2nd Alarm,2017-10-07,244,2
+Fire-2nd Alarm,2017-10-09,273,2
+Fire-2nd Alarm,2017-10-12,325,2
+Fire-3rd Alarm,2017-10-16,136,5
+Fire-2nd Alarm,2017-10-21,147,2
+Fire-3rd Alarm,2017-10-23,1614,5
+Fire-Sensitive Location,2017-10-24,207,6
+Fire-Haz Mat,2017-10-25,321,11
+Fire-2nd Alarm,2017-10-30,148,2
+Fire-10-76 (Commercial High Rise Fire),2017-10-30,200,12
+Fire-3rd Alarm,2017-11-02,274,5
+Fire-2nd Alarm,2017-11-09,790,2
+Fire-3rd Alarm,2017-11-10,551,5
+Fire-10-76 (Commercial High Rise Fire),2017-11-12,174,12
+Fire-2nd Alarm,2017-11-14,2882,2
+Fire-1st Alarm,2017-11-15,58,4
+Fire-10-76 (Commercial High Rise Fire),2017-11-16,91,12
+Fire-10-76 (Commercial High Rise Fire),2017-11-16,45,12
+Fire-2nd Alarm,2017-11-17,104,2
+Fire-2nd Alarm,2017-11-19,406,2
+Fire-Collapse,2017-11-19,851,14
+Fire-2nd Alarm,2017-11-20,84,2
+Fire-School,2017-11-21,128,3
+Fire-Haz Mat,2017-11-22,75,11
+Fire-3rd Alarm,2017-11-23,181,5
+Fire-3rd Alarm,2017-11-26,195,5
+Fire-2nd Alarm,2017-11-27,299,2
+Fire-2nd Alarm,2017-11-27,1945,2
+Fire-10-76 (Commercial High Rise Fire),2017-11-27,105,12
+Fire-Hospital,2017-11-27,88,7
+Fire-1st Alarm,2017-11-29,87,4
+Fire-2nd Alarm,2017-11-29,271,2
+Fire-10-77 (Residential High Rise Fire),2017-11-29,1575,10
+Fire-1st Alarm,2017-12-01,63,4
+Fire-2nd Alarm,2017-12-03,159,2
+Fire-10-76 (Commercial High Rise Fire),2017-12-06,88,12
+Fire-Other,2017-12-06,320,15
+Fire-Explosion,2017-12-07,284,9
+Fire-2nd Alarm,2017-12-08,141,2
+Fire-10-76 (Commercial High Rise Fire),2017-12-09,56,12
+Fire-2nd Alarm,2017-12-09,63,2
+Fire-2nd Alarm,2017-12-13,104,2
+Fire-1st Alarm,2017-12-15,87,4
+Fire-2nd Alarm,2017-12-15,255,2
+Fire-2nd Alarm,2017-12-15,187,2
+Fire-Hospital,2017-12-17,40,7
+Fire-Sensitive Location,2017-12-17,118,6
+Fire-2nd Alarm,2017-12-17,107,2
+Fire-3rd Alarm,2017-12-18,3833,5
+Fire-10-77 (Residential High Rise Fire),2017-12-18,185,10
+Fire-2nd Alarm,2017-12-20,112,2
+Fire-1st Alarm,2017-12-20,58,4
+Fire-School,2017-12-20,23,3
+Fire-2nd Alarm,2017-12-21,149,2
+Fire-2nd Alarm,2017-12-22,113,2
+Fire-1st Alarm,2017-12-25,89,4
+Fire-3rd Alarm,2017-12-27,668,5
+Fire-2nd Alarm,2017-12-27,277,2
+Fire-3rd Alarm,2017-12-28,3319,5
+Fire-2nd Alarm,2017-12-29,194,2
+Fire-2nd Alarm,2017-12-29,868,2
+Fire-2nd Alarm,2017-12-31,53,2
+Fire-2nd Alarm,2018-01-01,149,2
+Fire-3rd Alarm,2018-01-01,3656,5
+Fire-2nd Alarm,2018-01-02,175,2
+Fire-2nd Alarm,2018-01-02,104,2
+Fire-3rd Alarm,2018-01-02,821,5
+Fire-3rd Alarm,2018-01-02,389,5
+Fire-2nd Alarm,2018-01-04,121,2
+Fire-1st Alarm,2018-01-05,28,4
+Fire-2nd Alarm,2018-01-06,181,2
+Fire-2nd Alarm,2018-01-08,64,2
+Fire-10-76 (Commercial High Rise Fire),2018-01-08,108,12
+Fire-2nd Alarm,2018-01-08,61,2
+Fire-10-76 (Commercial High Rise Fire),2018-01-08,74,12
+Fire-2nd Alarm,2018-01-09,80,2
+Fire-10-77 (Residential High Rise Fire),2018-01-12,316,10
+Fire-2nd Alarm,2018-01-12,418,2
+Fire-2nd Alarm,2018-01-13,89,2
+Fire-Haz Mat,2018-01-15,45,11
+Fire-2nd Alarm,2018-01-16,491,2
+Fire-School,2018-01-16,39,3
+Fire-2nd Alarm,2018-01-17,364,2
+Fire-3rd Alarm,2018-01-18,821,5
+Fire-Manhole,2018-01-18,640,8
+Fire-10-77 (Residential High Rise Fire),2018-01-18,94,10
+Fire-2nd Alarm,2018-01-18,121,2
+Fire-3rd Alarm,2018-01-18,276,5
+Fire-Explosion,2018-01-20,1868,9
+Fire-2nd Alarm,2018-01-20,117,2
+Fire-10-76 (Commercial High Rise Fire),2018-01-22,79,12
+Fire-Other,2018-01-22,36,15
+Fire-2nd Alarm,2018-01-22,1,2
+Fire-1st Alarm,2018-01-24,1407,4
+Fire-2nd Alarm,2018-01-26,190,2
+Fire-Other,2018-01-26,644,15
+Fire-4th Alarm,2018-01-30,3435,1
+Fire-2nd Alarm,2018-01-31,144,2
+Fire-School,2018-02-05,34,3
+Fire-10-77 (Residential High Rise Fire),2018-02-05,311,10
+Fire-2nd Alarm,2018-02-06,954,2
+Fire-2nd Alarm,2018-02-06,100,2
+Fire-1st Alarm,2018-02-08,185,4
+Fire-1st Alarm,2018-02-09,351,4
+Fire-2nd Alarm,2018-02-10,128,2
+Fire-Other,2018-02-11,171,15
+Fire-2nd Alarm,2018-02-12,369,2
+Fire-2nd Alarm,2018-02-13,227,2
+Fire-2nd Alarm,2018-02-17,357,2
+Fire-2nd Alarm,2018-02-18,339,2
+Fire-2nd Alarm,2018-02-21,170,2
+Fire-3rd Alarm,2018-02-28,1409,5
+Fire-2nd Alarm,2018-02-28,1033,2
+Fire-2nd Alarm,2018-02-28,807,2
+Fire-School,2018-03-01,73,3
+Fire-Other,2018-03-02,236,15
+Fire-2nd Alarm,2018-03-04,90,2
+Fire-2nd Alarm,2018-03-05,2257,2
+Fire-2nd Alarm,2018-03-09,150,2
+Fire-2nd Alarm,2018-03-10,109,2
+Fire-Sensitive Location,2018-03-13,148,6
+Fire-5th Alarm,2018-03-16,1661,13
+Fire-3rd Alarm,2018-03-19,316,5
+Fire-10-77 (Residential High Rise Fire),2018-03-19,97,10
+Fire-2nd Alarm,2018-03-19,147,2
+Fire-2nd Alarm,2018-03-20,319,2
+Fire-10-76 (Commercial High Rise Fire),2018-03-21,99,12
+Fire-4th Alarm,2018-03-24,3599,1
+Fire-2nd Alarm,2018-03-24,162,2
+Fire-Haz Mat,2018-03-24,153,11
+Fire-2nd Alarm,2018-03-26,549,2
+Fire-2nd Alarm,2018-03-28,357,2
+Fire-2nd Alarm,2018-03-28,4,2
+Fire-1st Alarm,2018-03-29,51,4
+Fire-2nd Alarm,2018-03-29,509,2
+Fire-2nd Alarm,2018-03-31,107,2
+Fire-Explosion,2018-04-02,20,9
+Fire-10-77 (Residential High Rise Fire),2018-04-02,177,10
+Fire-10-77 (Residential High Rise Fire),2018-04-03,109,10
+Fire-2nd Alarm,2018-04-06,500,2
+Fire-10-76 (Commercial High Rise Fire),2018-04-06,44,12
+Fire-2nd Alarm,2018-04-08,258,2
+Fire-10-77 (Residential High Rise Fire),2018-04-09,560,10
+Fire-1st Alarm,2018-04-10,119,4
+Fire-2nd Alarm,2018-04-10,232,2
+Fire-Other,2018-04-11,54,15
+Fire-4th Alarm,2018-04-11,1096,1
+Fire-2nd Alarm,2018-04-13,233,2
+Fire-2nd Alarm,2018-04-13,109,2
+Fire-2nd Alarm,2018-04-14,280,2
+Fire-2nd Alarm,2018-04-16,145,2
+Fire-10-76 (Commercial High Rise Fire),2018-04-16,356,12
+Fire-3rd Alarm,2018-04-17,248,5
+Fire-3rd Alarm,2018-04-21,283,5
+Fire-2nd Alarm,2018-04-21,1127,2
+Fire-2nd Alarm,2018-04-21,160,2
+Fire-2nd Alarm,2018-04-22,113,2
+Fire-Other,2018-04-25,50,15
+Fire-3rd Alarm,2018-04-27,181,5
+Fire-School,2018-04-27,16,3
+Fire-3rd Alarm,2018-04-29,2186,5
+Fire-1st Alarm,2018-04-30,32,4
+Fire-2nd Alarm,2018-04-30,163,2
+Fire-2nd Alarm,2018-05-02,200,2
+Fire-Sensitive Location,2018-05-03,89,6
+Fire-Collapse,2018-05-03,221,14
+Fire-2nd Alarm,2018-05-03,110,2
+Fire-10-77 (Residential High Rise Fire),2018-05-05,68,10
+Fire-10-76 (Commercial High Rise Fire),2018-05-07,35,12
+Fire-School,2018-05-10,111,3
+Fire-Other,2018-05-10,169,15
+Fire-4th Alarm,2018-05-10,250,1
+Fire-2nd Alarm,2018-05-11,88,2
+Fire-2nd Alarm,2018-05-11,2299,2
+Fire-2nd Alarm,2018-05-11,1055,2
+Fire-Sensitive Location,2018-05-13,233,6
+Fire-Collapse,2018-05-15,93,14
+Fire-10-76 (Commercial High Rise Fire),2018-05-16,74,12
+Fire-2nd Alarm,2018-05-16,138,2
+Fire-Collapse,2018-05-17,212,14
+Fire-3rd Alarm,2018-05-21,1054,5
+Fire-3rd Alarm,2018-05-21,2138,5
+Fire-Other,2018-05-21,30,15
+Fire-2nd Alarm,2018-05-21,83,2
+Fire-2nd Alarm,2018-05-27,767,2
+Fire-4th Alarm,2018-05-27,659,1
+Fire-3rd Alarm,2018-05-28,197,5
+Fire-2nd Alarm,2018-06-01,82,2
+Fire-2nd Alarm,2018-06-04,3444,2
+Fire-2nd Alarm,2018-06-04,553,2
+Fire-3rd Alarm,2018-06-06,273,5
+Fire-Sensitive Location,2018-06-07,295,6
+Fire-3rd Alarm,2018-06-13,205,5
+Fire-1st Alarm,2018-06-14,1266,4
+Fire-2nd Alarm,2018-06-16,288,2
+Fire-Other,2018-06-16,102,15
+Fire-5th Alarm,2018-06-16,226,13
+Fire-Collapse,2018-06-19,1075,14
+Fire-3rd Alarm,2018-06-19,128,5
+Fire-Manhole,2018-06-22,2162,8
+Fire-1st Alarm,2018-06-22,75,4
+Fire-1st Alarm,2018-06-23,90,4
+Fire-2nd Alarm,2018-06-26,110,2
+Fire-10-77 (Residential High Rise Fire),2018-06-30,244,10
+Fire-10-76 (Commercial High Rise Fire),2018-07-01,78,12
+Fire-10-77 (Residential High Rise Fire),2018-07-01,43,10
+Fire-2nd Alarm,2018-07-02,185,2
+Fire-2nd Alarm,2018-07-04,213,2
+Fire-2nd Alarm,2018-07-04,194,2
+Fire-Other,2018-07-05,182,15
+Fire-2nd Alarm,2018-07-06,1031,2
+Fire-10-76 (Commercial High Rise Fire),2018-07-06,206,12
+Fire-2nd Alarm,2018-07-07,166,2
+Fire-3rd Alarm,2018-07-09,698,5
+Fire-4th Alarm,2018-07-10,395,1
+Fire-Haz Mat,2018-07-12,275,11
+Fire-2nd Alarm,2018-07-15,283,2
+Fire-2nd Alarm,2018-07-15,219,2
+Fire-2nd Alarm,2018-07-17,59,2
+Fire-2nd Alarm,2018-07-20,142,2
+Fire-1st Alarm,2018-07-26,257,4
+Fire-2nd Alarm,2018-07-29,335,2
+Fire-2nd Alarm,2018-08-06,183,2
+Fire-2nd Alarm,2018-08-07,170,2
+Fire-3rd Alarm,2018-08-07,265,5
+Fire-10-76 (Commercial High Rise Fire),2018-08-11,40,12
+Fire-Hospital,2018-08-14,129,7
+Fire-3rd Alarm,2018-08-14,173,5
+Fire-3rd Alarm,2018-08-17,707,5
+Fire-2nd Alarm,2018-08-18,156,2
+Fire-4th Alarm,2018-08-22,1836,1
+Fire-2nd Alarm,2018-08-25,142,2
+Fire-1st Alarm,2018-08-25,52,4
+Fire-2nd Alarm,2018-08-25,2057,2
+Fire-2nd Alarm,2018-08-25,119,2
+Fire-2nd Alarm,2018-08-27,233,2
+Fire-Other,2018-08-27,304,15
+Fire-Sensitive Location,2018-08-27,80,6
+Fire-2nd Alarm,2018-08-28,234,2
+Fire-Manhole,2018-08-28,622,8
+Fire-Haz Mat,2018-09-02,140,11
+Fire-3rd Alarm,2018-09-05,209,5
+Fire-1st Alarm,2018-09-07,220,4
+Fire-2nd Alarm,2018-09-09,101,2
+Fire-2nd Alarm,2018-09-09,668,2
+Fire-2nd Alarm,2018-09-10,385,2
+Fire-3rd Alarm,2018-09-11,346,5
+Fire-10-76 (Commercial High Rise Fire),2018-09-17,47,12
+Fire-10-76 (Commercial High Rise Fire),2018-09-18,870,12
+Fire-Manhole,2018-09-18,278,8
+Fire-10-76 (Commercial High Rise Fire),2018-09-18,7,12
+Fire-2nd Alarm,2018-09-18,940,2
+Fire-Other,2018-09-19,160,15
+Fire-2nd Alarm,2018-09-20,240,2
+Fire-2nd Alarm,2018-09-21,263,2
+Fire-3rd Alarm,2018-09-24,148,5
+Fire-2nd Alarm,2018-09-25,186,2
+Fire-Manhole,2018-09-25,1263,8
+Fire-4th Alarm,2018-09-29,2937,1
+Fire-Sensitive Location,2018-09-30,184,6
+Fire-2nd Alarm,2018-10-01,101,2
+Fire-2nd Alarm,2018-10-05,441,2
+Fire-2nd Alarm,2018-10-07,130,2
+Fire-Haz Mat,2018-10-11,74,11
+Fire-Other,2018-10-11,244,15
+Fire-Other,2018-10-12,169,15
+Fire-Hospital,2018-10-12,28,7
+Fire-1st Alarm,2018-10-15,99,4
+Fire-10-76 (Commercial High Rise Fire),2018-10-23,94,12
+Fire-2nd Alarm,2018-10-28,80,2
+Fire-1st Alarm,2018-10-29,137,4
+Fire-10-76 (Commercial High Rise Fire),2018-10-30,139,12
+Fire-2nd Alarm,2018-11-08,162,2
+Fire-2nd Alarm,2018-11-08,206,2
+Fire-2nd Alarm,2018-11-09,414,2
+Fire-Hospital,2018-11-10,647,7
+Fire-3rd Alarm,2018-11-13,129,5
+Fire-2nd Alarm,2018-11-13,186,2
+Fire-10-76 (Commercial High Rise Fire),2018-11-14,79,12
+Fire-Explosion,2018-11-16,86,9
+Fire-2nd Alarm,2018-11-18,147,2
+Fire-Manhole,2018-11-19,917,8
+Fire-Other,2018-11-21,70,15
+Fire-Other,2018-11-21,15,15
+Fire-Other,2018-11-21,342,15
+Fire-Other,2018-11-21,107,15
+Fire-3rd Alarm,2018-11-22,1320,5
+Fire-2nd Alarm,2018-11-22,234,2
+Fire-2nd Alarm,2018-11-23,145,2
+Fire-10-76 (Commercial High Rise Fire),2018-11-25,216,12
+Fire-Haz Mat,2018-11-25,2429,11
+Fire-2nd Alarm,2018-11-26,145,2
+Fire-2nd Alarm,2018-11-30,147,2
+Fire-2nd Alarm,2018-12-04,313,2
+Fire-1st Alarm,2018-12-04,236,4
+Fire-2nd Alarm,2018-12-04,179,2
+Fire-2nd Alarm,2018-12-05,264,2
+Fire-2nd Alarm,2018-12-05,182,2
+Fire-1st Alarm,2018-12-07,115,4
+Fire-2nd Alarm,2018-12-08,238,2
+Fire-2nd Alarm,2018-12-08,571,2
+Fire-2nd Alarm,2018-12-08,138,2
+Fire-3rd Alarm,2018-12-09,148,5
+Fire-2nd Alarm,2018-12-09,202,2
+Fire-Sensitive Location,2018-12-10,503,6
+Fire-2nd Alarm,2018-12-11,114,2
+Fire-1st Alarm,2018-12-11,83,4
+Fire-5th Alarm,2018-12-13,2356,13
+Fire-2nd Alarm,2018-12-13,199,2
+Fire-1st Alarm,2018-12-14,104,4
+Fire-2nd Alarm,2018-12-14,307,2
+Fire-3rd Alarm,2018-12-14,207,5
+Fire-2nd Alarm,2018-12-15,105,2
+Fire-3rd Alarm,2018-12-19,496,5
+Fire-1st Alarm,2018-12-20,1670,4
+Fire-1st Alarm,2018-12-20,187,4
+Fire-10-76 (Commercial High Rise Fire),2018-12-21,407,12
+Fire-Sensitive Location,2018-12-21,146,6
+Fire-10-77 (Residential High Rise Fire),2018-12-22,110,10
+Fire-2nd Alarm,2018-12-22,106,2
+Fire-1st Alarm,2018-12-23,2224,4
+Fire-2nd Alarm,2018-12-25,184,2
+Fire-1st Alarm,2018-12-25,1610,4
+Fire-2nd Alarm,2018-12-26,178,2
+Fire-2nd Alarm,2018-12-26,11,2
+Fire-2nd Alarm,2018-12-27,178,2
+Fire-2nd Alarm,2018-12-31,1003,2
+Fire-2nd Alarm,2019-01-02,152,2
+Fire-Other,2019-01-02,203,15
+Fire-Sensitive Location,2019-01-02,111,6
+Fire-2nd Alarm,2019-01-03,263,2
+Fire-10-76 (Commercial High Rise Fire),2019-01-04,1189,12
+Fire-2nd Alarm,2019-01-07,495,2
+Fire-2nd Alarm,2019-01-10,1030,2
+Fire-2nd Alarm,2019-01-11,3059,2
+Fire-2nd Alarm,2019-01-11,421,2
+Fire-2nd Alarm,2019-01-11,78,2
+Fire-2nd Alarm,2019-01-16,1351,2
+Fire-2nd Alarm,2019-01-16,2698,2
+Fire-Other,2019-01-18,52,15
+Fire-5th Alarm,2019-01-19,1551,13
+Fire-5th Alarm,2019-01-19,534,13
+Fire-Other,2019-01-20,77,15
+Fire-3rd Alarm,2019-01-21,3619,5
+Fire-3rd Alarm,2019-01-21,1276,5
+Fire-2nd Alarm,2019-01-23,304,2
+Fire-4th Alarm,2019-01-23,312,1
+Fire-2nd Alarm,2019-01-31,266,2
+Fire-2nd Alarm,2019-01-31,151,2
+Fire-2nd Alarm,2019-02-02,37,2
+Fire-10-77 (Residential High Rise Fire),2019-02-02,32,10
+Fire-3rd Alarm,2019-02-03,1852,5
+Fire-2nd Alarm,2019-02-04,577,2
+Fire-2nd Alarm,2019-02-04,107,2
+Fire-Haz Mat,2019-02-05,144,11
+Fire-Other,2019-02-05,175,15
+Fire-1st Alarm,2019-02-07,31,4
+Fire-2nd Alarm,2019-02-07,223,2
+Fire-4th Alarm,2019-02-15,260,1
+Fire-3rd Alarm,2019-02-17,1530,5
+Fire-3rd Alarm,2019-02-18,254,5
+Fire-3rd Alarm,2019-02-18,120,5
+Fire-4th Alarm,2019-02-20,208,1
+Fire-School,2019-02-21,751,3
+Fire-2nd Alarm,2019-02-23,81,2
+Fire-3rd Alarm,2019-02-24,340,5
+Fire-3rd Alarm,2019-02-25,529,5
+Fire-2nd Alarm,2019-02-26,170,2
+Fire-3rd Alarm,2019-02-27,420,5
+Fire-Sensitive Location,2019-02-28,36,6
+Fire-2nd Alarm,2019-02-28,231,2
+Fire-2nd Alarm,2019-03-01,175,2
+Fire-2nd Alarm,2019-03-01,426,2
+Fire-2nd Alarm,2019-03-03,408,2
+Fire-1st Alarm,2019-03-05,889,4
+Fire-2nd Alarm,2019-03-05,239,2
+Fire-Manhole,2019-03-05,3945,8
+Fire-2nd Alarm,2019-03-06,777,2
+Fire-2nd Alarm,2019-03-08,191,2
+Fire-2nd Alarm,2019-03-11,248,2
+Fire-10-77 (Residential High Rise Fire),2019-03-14,66,10
+Fire-School,2019-03-14,87,3
+Fire-Other,2019-03-17,881,15
+Fire-2nd Alarm,2019-03-20,241,2
+Fire-2nd Alarm,2019-03-20,242,2
+Fire-10-76 (Commercial High Rise Fire),2019-03-22,1061,12
+Fire-School,2019-03-22,59,3
+Fire-Other,2019-03-23,139,15
+Fire-Manhole,2019-03-23,925,8
+Fire-Other,2019-03-25,782,15
+Fire-2nd Alarm,2019-03-26,167,2
+Fire-2nd Alarm,2019-03-26,160,2
+Fire-2nd Alarm,2019-03-27,142,2
+Fire-2nd Alarm,2019-03-27,415,2
+Fire-10-76 (Commercial High Rise Fire),2019-03-28,202,12
+Fire-2nd Alarm,2019-03-30,184,2
+Fire-10-76 (Commercial High Rise Fire),2019-03-30,68,12
+Fire-Haz Mat,2019-04-02,1092,11
+Fire-Haz Mat,2019-04-02,4,11
+Fire-2nd Alarm,2019-04-05,201,2
+Fire-4th Alarm,2019-04-05,1605,1
+Fire-2nd Alarm,2019-04-05,308,2
+Fire-10-76 (Commercial High Rise Fire),2019-04-07,44,12
+Fire-2nd Alarm,2019-04-08,166,2
+Fire-Sensitive Location,2019-04-14,279,6
+Fire-2nd Alarm,2019-04-14,408,2
+Fire-Hospital,2019-04-15,101,7
+Fire-3rd Alarm,2019-04-17,219,5
+Fire-10-76 (Commercial High Rise Fire),2019-04-17,127,12
+Fire-Sensitive Location,2019-04-19,70,6
+Fire-10-76 (Commercial High Rise Fire),2019-04-19,1199,12
+Fire-10-76 (Commercial High Rise Fire),2019-04-19,151,12
+Fire-2nd Alarm,2019-04-20,30,2
+Fire-2nd Alarm,2019-04-20,66,2
+Fire-2nd Alarm,2019-04-21,836,2
+Fire-Other,2019-04-21,137,15
+Fire-10-76 (Commercial High Rise Fire),2019-04-23,75,12
+Fire-3rd Alarm,2019-04-24,2260,5
+Fire-Other,2019-04-26,223,15
+Fire-School,2019-04-29,61,3
+Fire-Sensitive Location,2019-05-07,1689,6
+Fire-1st Alarm,2019-05-08,751,4
+Fire-2nd Alarm,2019-05-08,115,2
+Fire-3rd Alarm,2019-05-11,203,5
+Fire-Other,2019-05-13,145,15
+Fire-10-77 (Residential High Rise Fire),2019-05-16,56,10
+Fire-1st Alarm,2019-05-17,70,4
+Fire-2nd Alarm,2019-05-17,318,2
+Fire-2nd Alarm,2019-05-17,303,2
+Fire-10-76 (Commercial High Rise Fire),2019-05-18,309,12
+Fire-2nd Alarm,2019-05-19,143,2
+Fire-School,2019-05-20,196,3
+Fire-10-76 (Commercial High Rise Fire),2019-05-20,1068,12
+Fire-2nd Alarm,2019-05-24,121,2
+Fire-2nd Alarm,2019-05-27,125,2
+Fire-Haz Mat,2019-05-28,307,11
+Fire-Collapse,2019-06-01,2741,14
+Fire-Collapse,2019-06-01,2385,14
+Fire-Haz Mat,2019-06-07,250,11
+Fire-2nd Alarm,2019-06-15,139,2
+Fire-2nd Alarm,2019-06-16,180,2
+Fire-3rd Alarm,2019-06-17,517,5
+Fire-School,2019-06-18,249,3
+Fire-3rd Alarm,2019-06-27,231,5
+Fire-1st Alarm,2019-06-27,760,4
+Fire-Hospital,2019-06-27,113,7
+Fire-Hospital,2019-06-27,83,7
+Fire-Collapse,2019-06-30,68,14
+Fire-Collapse,2019-06-30,167,14
+Fire-Sensitive Location,2019-07-04,406,6
+Fire-Collapse,2019-07-05,139,14
+Fire-2nd Alarm,2019-07-07,181,2
+Fire-2nd Alarm,2019-07-10,1746,2
+Fire-Other,2019-07-11,117,15
+Fire-Explosion,2019-07-11,156,9
+Fire-10-76 (Commercial High Rise Fire),2019-07-11,74,12
+Fire-2nd Alarm,2019-07-13,108,2
+Fire-3rd Alarm,2019-07-13,358,5
+Fire-2nd Alarm,2019-07-13,385,2
+Fire-2nd Alarm,2019-07-16,145,2
+Fire-Sensitive Location,2019-07-16,698,6
+Fire-Manhole,2019-07-18,316,8
+Fire-2nd Alarm,2019-07-20,120,2
+Fire-2nd Alarm,2019-07-20,15,2
+Fire-2nd Alarm,2019-07-21,1347,2
+Fire-Other,2019-07-24,200,15
+Fire-2nd Alarm,2019-07-27,634,2
+Fire-Other,2019-07-29,91,15
+Fire-2nd Alarm,2019-07-30,207,2
+Fire-2nd Alarm,2019-07-30,289,2
+Fire-10-76 (Commercial High Rise Fire),2019-07-30,111,12
+Fire-2nd Alarm,2019-08-04,403,2
+Fire-4th Alarm,2019-08-05,434,1
+Fire-3rd Alarm,2019-08-05,16,5
+Fire-10-76 (Commercial High Rise Fire),2019-08-05,59,12
+Fire-2nd Alarm,2019-08-06,225,2
+Fire-2nd Alarm,2019-08-06,6,2
+Fire-3rd Alarm,2019-08-06,247,5
+Fire-2nd Alarm,2019-08-07,176,2
+Fire-Manhole,2019-08-07,3362,8
+Fire-Manhole,2019-08-07,1243,8
+Fire-10-76 (Commercial High Rise Fire),2019-08-09,253,12
+Fire-Other,2019-08-12,87,15
+Fire-2nd Alarm,2019-08-13,719,2
+Fire-2nd Alarm,2019-08-13,131,2
+Fire-10-76 (Commercial High Rise Fire),2019-08-15,577,12
+Fire-Sensitive Location,2019-08-30,109,6
+Fire-2nd Alarm,2019-09-01,183,2
+Fire-10-77 (Residential High Rise Fire),2019-09-03,78,10
+Fire-2nd Alarm,2019-09-03,513,2
+Fire-4th Alarm,2019-09-04,1919,1
+Fire-10-76 (Commercial High Rise Fire),2019-09-10,152,12
+Fire-Other,2019-09-11,195,15
+Fire-Haz Mat,2019-09-13,57,11
+Fire-2nd Alarm,2019-09-15,286,2
+Fire-2nd Alarm,2019-09-16,210,2
+Fire-3rd Alarm,2019-09-16,258,5
+Fire-2nd Alarm,2019-09-20,154,2
+Fire-10-77 (Residential High Rise Fire),2019-09-22,104,10
+Fire-2nd Alarm,2019-09-25,125,2
+Fire-Haz Mat,2019-09-25,510,11
+Fire-Explosion,2019-09-26,224,9
+Fire-Other,2019-09-27,26,15
+Fire-2nd Alarm,2019-09-28,137,2
+Fire-Manhole,2019-09-29,106,8
+Fire-School,2019-10-01,18,3
+Fire-Other,2019-10-01,1166,15
+Fire-2nd Alarm,2019-10-03,3501,2
+Fire-2nd Alarm,2019-10-04,284,2
+Fire-2nd Alarm,2019-10-07,553,2
+Fire-Sensitive Location,2019-10-10,383,6
+Fire-Explosion,2019-10-10,2436,9
+Fire-2nd Alarm,2019-10-10,167,2
+Fire-1st Alarm,2019-10-11,149,4
+Fire-2nd Alarm,2019-10-18,1083,2
+Fire-2nd Alarm,2019-10-18,183,2
+Fire-Other,2019-10-19,636,15
+Fire-10-76 (Commercial High Rise Fire),2019-10-20,189,12
+Fire-10-77 (Residential High Rise Fire),2019-10-21,105,10
+Fire-2nd Alarm,2019-10-24,265,2
+Fire-2nd Alarm,2019-10-25,262,2
+Fire-10-76 (Commercial High Rise Fire),2019-10-27,219,12
+Fire-2nd Alarm,2019-10-31,281,2
+Fire-2nd Alarm,2019-11-03,139,2
+Fire-2nd Alarm,2019-11-04,117,2
+Fire-3rd Alarm,2019-11-08,8,5
+Fire-3rd Alarm,2019-11-08,529,5
+Fire-Haz Mat,2019-11-08,34,11
+Fire-3rd Alarm,2019-11-08,185,5
+Fire-2nd Alarm,2019-11-09,486,2
+Fire-Sensitive Location,2019-11-10,70,6
+Fire-2nd Alarm,2019-11-14,169,2
+Fire-2nd Alarm,2019-11-14,2619,2
+Fire-1st Alarm,2019-11-15,62,4
+Fire-10-76 (Commercial High Rise Fire),2019-11-15,189,12
+Fire-2nd Alarm,2019-11-16,144,2
+Fire-2nd Alarm,2019-11-17,207,2
+Fire-3rd Alarm,2019-11-18,2434,5
+Fire-2nd Alarm,2019-11-19,139,2
+Fire-2nd Alarm,2019-11-22,279,2
+Fire-10-76 (Commercial High Rise Fire),2019-11-22,75,12
+Fire-10-76 (Commercial High Rise Fire),2019-11-22,174,12
+Fire-10-76 (Commercial High Rise Fire),2019-11-23,97,12
+Fire-10-76 (Commercial High Rise Fire),2019-11-23,146,12
+Fire-1st Alarm,2019-11-25,114,4
+Fire-1st Alarm,2019-11-30,152,4
+Fire-1st Alarm,2019-12-01,131,4
+Fire-1st Alarm,2019-12-01,220,4
+Fire-2nd Alarm,2019-12-02,158,2
+Fire-10-76 (Commercial High Rise Fire),2019-12-02,51,12
+Fire-Haz Mat,2019-12-04,82,11
+Fire-Other,2019-12-05,378,15
+Fire-2nd Alarm,2019-12-06,85,2
+Fire-10-77 (Residential High Rise Fire),2019-12-10,635,10
+Fire-4th Alarm,2019-12-11,534,1
+Fire-2nd Alarm,2019-12-12,165,2
+Fire-Manhole,2019-12-12,112,8
+Fire-Sensitive Location,2019-12-13,65,6
+Fire-Sensitive Location,2019-12-15,54,6
+Fire-2nd Alarm,2019-12-16,157,2

@@ -1,0 +1,3 @@
+ARIMA	LSTM
+../Results/arima/utility/20-03-26_17-05/	../Results/lstm/utility/20-03-30_13-54/
+../Results/arima/structural/20-03-26_17-06/	../Results/lstm/structural/20-03-30_13-52/
